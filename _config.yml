@@ -6,7 +6,7 @@ theme: just-the-docs
 color_scheme: dark_green
 
 # Set a path/url to a logo that will be displayed instead of the title
-logo: "/assets/images/RH3D.jpeg"
+logo: "/assets/images/RH3D_logo.png"
 
 url: https://rh3d.github.io/E3NG_docs
 
