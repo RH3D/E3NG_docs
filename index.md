@@ -1,5 +1,5 @@
 ---
-title: E3NG
+title: Ender 3 NG
 layout: home
 ---
 
