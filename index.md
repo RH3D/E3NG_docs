@@ -3,9 +3,13 @@ title: Ender 3 NG
 layout: home
 ---
 This is a test homepage for Ender 3 NG beta.
+
 To download the files, go to the main [Printables] page.
+
 To search for help, be part of the community or just chat about the project, join our [Discord].
+
 To view some content about the project, head to main [Instagram] or [YouTube].
+
 If you want to directly support the project, you can do so on [Ko-Fi]
 
 
