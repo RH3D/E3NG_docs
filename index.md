@@ -1,6 +1,7 @@
 ---
 title: Ender 3 NG
 layout: home
+nav_order: 1
 ---
 This is a test homepage for Ender 3 NG beta.
 
