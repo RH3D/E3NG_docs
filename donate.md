@@ -1,5 +1,5 @@
 ---
-title: Donation
+title: Donate
 layout: default
 nav_order: 7
 ---
