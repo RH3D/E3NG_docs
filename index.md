@@ -1,5 +1,5 @@
 ---
-title: Ender 3 NG
+title: Ender 3 NG intro
 layout: home
 nav_order: 2
 ---
