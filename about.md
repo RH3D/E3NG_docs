@@ -1,6 +1,9 @@
 ---
 title: about
 layout: home
+#parent: Ender 3 NG
+#has_children: true
+nav_order: 2
 ---
 Test 2 - about page
 
