@@ -3,6 +3,9 @@ title: Ender 3 NG intro
 layout: home
 nav_order: 2
 ---
+# __VIDEO OR RENDERING OR PHOTO__
+
+
 # ENDER 3 NG - what does it even mean?
 Name, explain
 
