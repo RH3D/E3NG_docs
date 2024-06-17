@@ -13,6 +13,19 @@ favicon_ico: "/assets/images/favicon.ico"
 
 url: https://rh3d.github.io/E3NG_docs
 
+callouts:
+  warning:
+    title: Warning
+    color: red
+  note:
+    title: Note
+    color: grey-lt
+
+mermaid:
+  # Version of mermaid library
+  # Pick an available version from https://cdn.jsdelivr.net/npm/mermaid/
+  version: "10.2.4"
+
 # Aux links for the upper right navigation
 aux_links:
   Printables: https://www.printables.com/en/@radkoko
