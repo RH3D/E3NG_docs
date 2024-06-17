@@ -1,9 +1,7 @@
 ---
 title: Ender 3 NG
 layout: home
-#parent: Ender 3 NG
-has_children: true
-nav_order: 1
+nav_order: 2
 ---
 This is a test homepage for Ender 3 NG beta.
 
