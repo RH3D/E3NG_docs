@@ -3,6 +3,12 @@ title: Ender 3 NG intro
 layout: home
 nav_order: 2
 ---
+# ENDER 3 NG - what does it even mean?
+Name, explain
+
+# What are it's advantages?
+Reuse.
+
 This is a test homepage for Ender 3 NG beta.
 
 To download the files, go to the main [Printables] page.
