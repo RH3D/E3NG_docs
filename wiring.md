@@ -1,7 +1,7 @@
 ---
 title: General wiring
 layout: default
-parent: Electronics
+parent: Printer electronics
 #nav_order: 1
 ---
 ## TEST
