@@ -18,7 +18,7 @@ It is based on CoreXY motion system, is easy to enclose and you can do a cheap a
 
 Of course, you also need aditional parts for the conversion.
 
-# "NG = NEXT GENERATION"
+# **"NG = NEXT GENERATION"**
 {: .text-center }
 
 ### PRINTER FEATURES
