@@ -38,3 +38,9 @@ Of course, you also need aditional parts for the conversion.
 - Files are designed for easy printability and functionality.
 - Many options in the project configuration part to make everyone happy.
 - Huge amount of ideas for future upgrades.
+### OTHER (OPTIONAL) FEATURES
+- Under bed fan for air circulation and faster chamber heating.
+- Active cooling for AB stepper motors.
+- Auxiliary fans with 12032 blowers.
+- Lasercut metal bed carriage for the best stability.
+- and more.
