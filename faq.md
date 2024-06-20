@@ -18,6 +18,7 @@ nav_order: 6
 > CAD files are currently available through small donation on [Ko-Fi].
 
 
+
 {: .note-title }
 > IS THERE A BUILD MANUAL/INSTRUCTIONS?
 >
@@ -26,10 +27,12 @@ nav_order: 6
 > Build manual for the NG v1.2 is not existent but will be made.
 
 
+
 {: .note-title }
 > IS THE PROJECT FREE?
 >
 > The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.
+
 
 
 {: .note-title }
