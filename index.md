@@ -5,7 +5,8 @@ nav_order: 2
 ---
 ![](./assets/images/prv2.png)
 
-## WHAT IS ENDER 3 NG?
+## ENDER 3 NG
+_what is it?_
 
 This project is a DIY conversion originaly based on Creality Ender 3 Pro. The original Ender 3 was one of the most sold printers but due to its lack of modern features, it is rather a starting point for people who either can't afford to buy a more expensive machine or don't want to spend money on something they just want to try.
 
