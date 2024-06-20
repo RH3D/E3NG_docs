@@ -19,7 +19,7 @@ callouts:
     color: red
   note:
     title: Note
-    color: yellow
+    color: purple
 
 mermaid:
   # Version of mermaid library
