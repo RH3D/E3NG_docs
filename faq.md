@@ -7,18 +7,6 @@ nav_order: 6
 ---
 # FREQUENTLY ASKED QUESTIONS
 
-## WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
-The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
-I would recommend reading through the entire website starting with [Ender 3 NG] and [Into the project] and if you want to get even deeper, ask for help and be part of the community, [join the Discord].
-
-Main STL files ready to print are on hosted on [Printables].
-
-CAD files are currently available through small donation on [Ko-Fi].
-### IS THERE A BUILD MANUAL/INSTRUCTIONS?
-There is a build manual for the beta version, link is on the [Printables] page as well.
-
-Build manual for the NG v1.2 is not existent but will be made.
-
 ### WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
 {: .text-yellow-300 }
 The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
@@ -28,22 +16,19 @@ Main STL files ready to print are on hosted on [Printables].
 
 CAD files are currently available through small donation on [Ko-Fi].
 
-{: .highlight }
-> ### IS THERE A BUILD MANUAL/INSTRUCTIONS?
->
-> There is a build manual for the beta version, link is on the [Printables] page as well.
->
-> Build manual for the NG v1.2 is not existent but will be made.
+### IS THERE A BUILD MANUAL/INSTRUCTIONS?
+{: .text-yellow-300 }
+There is a build manual for the beta version, link is on the [Printables] page as well.
 
-{: .note-title }
-> IS THE PROJECT FREE?
->
-> The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.
+Build manual for the NG v1.2 is not existent but will be made.
 
-{: .note-title }
-> WHAT DOES THE FREE PART OF THE PROJECT INCLUDE?
->
-> STL files for printing the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS, in the future, the BUILD MANUAL will also be included.
+### IS THE PROJECT FREE?
+{: .text-yellow-300 }
+The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.
+
+### WHAT DOES THE FREE PART OF THE PROJECT INCLUDE?
+{: .text-yellow-300 }
+STL files for printing the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS, in the future, the BUILD MANUAL will also be included.
 
 {: .note-title }
 > CAN I GET THE CAD FILES?
