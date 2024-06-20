@@ -25,7 +25,7 @@ Of course, you also need aditional parts for the conversion.
 - Printer size _(X-Y-Z)_: 407 x 438 x 440 mm / 455 x 485 x 548 mm (enclosed)
 - CoreXY motion system
 - Frame build with 7 out of 8 Ender 3 Pro aluminium extrusions + additional parts
-- Supports stock stepper motors, hotend*, PSU, motherboard* (32bit), bed, bed carriage, screen, extruder* and more. _(*not all is recommended)_
+- Supports stock stepper motors, hotend", PSU, motherboard" (32bit), bed, bed carriage, screen, extruder" and more. _("not all is recommended)_
 - Linear rods for X, Y and Z motion system.
 - Triple leadscrew for Z movement, belt connected with 1x NEMA17 stepper or 3x individual Z steppers.
 - Bed carriage with printed anti Z wobble system.
