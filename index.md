@@ -21,6 +21,7 @@ Of course, you also need aditional parts for the conversion.
 # **"NG = NEXT GENERATION"**
 {: .text-center }
 
+
 ### PRINTER FEATURES
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
 - Printer size _(X-Y-Z)_: 407 x 438 x 440 mm / 455 x 485 x 548 mm (enclosed)
