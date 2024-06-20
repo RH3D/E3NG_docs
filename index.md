@@ -3,22 +3,21 @@ title: Ender 3 NG
 layout: home
 nav_order: 2
 ---
+# Ender 3 NG
 # __VIDEO OR RENDERING OR PHOTO__
 
 
-# ENDER 3 NG - what does it even mean?
-Name, explain
+## WHAT IS ENDER 3 NG?
 
-# What are it's advantages?
-Reuse.
+This project is a DIY conversion originaly based on Creality Ender 3 Pro. The original Ender 3 was one of the most sold printers but due to its lack of modern features, it is rather a starting point for people who either can't afford to buy a more expensive machine or don't want to spend money on something they just want to try.
 
-This project is a DIY conversion based on Ender 3 Pro. Ender 3 is one of the most sold printers but it is a starting printer so
-many want to move forward after using it for some time and don’t have much use for it anymore.
-Main goal was to use as many useful parts from stock Ender as possible while making a very reliable printer with many
-great features and possible upgrades. This means that you can rebuild the printer with some effort very cheap and get a
-very capable coreXY machine but also that you can do many upgrades to get almost high-end printer capable of printing
-fast, high quality and even high temp materials.
-FEATURES
+That is a reason why many want to move forward and the old and simple Ender 3 don't have much use anymore, especially with the printers that are on market these days.
+
+Main goal of this project is to use the old Ender 3, tear it apart and reuse as many stock parts as possible to build something that is on a whole different level and on par with the modern machines you see everywhere now. The new printer must be more reliable, faster, having more great features and capabilities and options for further upgrades (honestly, who coming here with an Ender 3 isn't looking for upgrades?). It is based on CoreXY motion system, is easy to enclose and you can do a cheap and simple build or you can go crazy and build a real bonkers machine.
+### NG = NEXT GENERATION
+Of course, you also need aditional parts for the conversion.
+
+## FEATURES
  Build volume: up to 235 x 235 x 245 mm.
  Printer size (W x L x H): 410 x 432 x 410 mm / 420 x 450 x 532 mm (enclosed)
  CoreXY motion system.
