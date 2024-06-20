@@ -19,7 +19,7 @@ It is based on CoreXY motion system, is easy to enclose and you can do a cheap a
 Of course, you also need aditional parts for the conversion.
 
 "NG = NEXT GENERATION"
-{: .fs-10 .text-center .text-green-100 }
+{: .fs-10 .text-center .text-green-300 }
 
 ### PRINTER FEATURES
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
