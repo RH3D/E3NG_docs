@@ -17,8 +17,6 @@ nav_order: 6
 > 
 > CAD files are currently available through small donation on [Ko-Fi].
 
-
-
 {: .note-title }
 > IS THERE A BUILD MANUAL/INSTRUCTIONS?
 >
@@ -26,32 +24,25 @@ nav_order: 6
 >
 > Build manual for the NG v1.2 is not existent but will be made.
 
-
-
 {: .note-title }
 > IS THE PROJECT FREE?
 >
 > The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.
-
-
 
 {: .note-title }
 > WHAT DOES THE FREE PART OF THE PROJECT INCLUDE?
 >
 > STL files for printing the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS, in the future, the BUILD MANUAL will also be included.
 
-
 {: .note-title }
 > CAN I GET THE CAD FILES?
 >
 > As mentioned in the first answer, CAD files are currently available through a small donation on [Ko-Fi].
 
-
 {: .note-title }
 > HOW MUCH DOES THE CONVERSION COST?
 >
 > This is highly dependand on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the [CONFIGURATOR] and set your preferred setup, it will automatically calculate the estimated price.
-
 
 {: .note-title }
 > HOW MUCH FILAMENT DO I NEED?
@@ -62,12 +53,10 @@ nav_order: 6
 >
 > PPS: It is always good to expect some failed prints and have extra filament.
 
-
 {: .note-title }
 > WHAT TYPE OF FILAMENT SHOULD I USE?
 >
 > For filament recommendations and print instructions, look at the [PRINTING PARTS].
-
 
 {: .note-title }
 > WHY DOES THE PROJECT USE LINEAR RODS AND NOT LINEAR RAILS?
@@ -84,12 +73,10 @@ nav_order: 6
 >
 > The board compatibility will also be getting wider.
 
-
 {: .note-title }
 > SHOULD I CHOOSE MARLIN OR KLIPPER?
 >
 > I think both firmwares are very similar in the daily use capabilities, both support latest and high end features. Marlin benefits from running on a single board with a display controller that makes it a simple and solid setup with no added costs while Klipper supports more detailed tuning and with the added SBC it has more capabilities in printing faster. It is also simpler to reconfigure your printer without need to reflash the firmware, although Marlin has a lot of variables that can be changed after flashing the FW.
-
 
 {: .note-title }
 > WILL I DESTROY MY ENDER 3?
