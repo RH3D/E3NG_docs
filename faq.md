@@ -19,8 +19,8 @@ There is a build manual for the beta version, link is on the [Printables] page a
 
 Build manual for the NG v1.2 is not existent but will be made.
 
-{: .note-title }
-> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
+{: .note }
+> ## WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
 >
 > The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
 > I would recommend reading through the entire website starting with [Ender 3 NG] and [Into the project] and if you want to get even deeper and be part of the community, [join the Discord].
@@ -28,8 +28,6 @@ Build manual for the NG v1.2 is not existent but will be made.
 > Main STL files ready to print are on hosted on [Printables].
 > 
 > CAD files are currently available through small donation on [Ko-Fi].
->
-> ## DONKEY
 
 {: .note-title }
 > IS THERE A BUILD MANUAL/INSTRUCTIONS?
