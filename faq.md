@@ -6,7 +6,7 @@ layout: default
 nav_order: 6
 ---
 # FREQUENTLY ASKED QUESTIONS
-
+{: .text-center }
 ### WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
 {: .text-yellow-300 }
 The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
