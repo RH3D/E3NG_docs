@@ -5,7 +5,7 @@ nav_order: 2
 ---
 ![](./assets/images/prv2.png)
 
-## ENDER 3 NG
+# ENDER 3 NG
 _what is it?_
 
 This project is a DIY conversion originaly based on Creality Ender 3 Pro. The original Ender 3 was one of the most sold printers but due to its lack of modern features, it is rather a starting point for people who either can't afford to buy a more expensive machine or don't want to spend money on something they just want to try.
@@ -19,24 +19,21 @@ It is based on CoreXY motion system, is easy to enclose and you can do a cheap a
 Of course, you also need aditional parts for the conversion.
 ### NG = NEXT GENERATION
 
-## FEATURES
-- Build volume: up to 235 x 235 x 245 mm.
-- Printer size (W x L x H): 410 x 432 x 410 mm / 420 x 450 x 532 mm (enclosed)
-- CoreXY motion system.
-- Frame build with Ender 3 Pro aluminium extrusions (and two printed beams).
-- Supports stock stepper motors, hotend, PSU, motherboard (32bit), bed, screen, extruder and more.
+# PRINTER FEATURES
+- Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
+- Printer size _(X-Y-Z)_: 407 x 438 x 440 mm / 455 x 485 x 548 mm (enclosed)
+- CoreXY motion system
+- Frame build with 7 out of 8 Ender 3 Pro aluminium extrusions + additional parts
+- Supports stock stepper motors, hotend*, PSU, motherboard* (32bit), bed, bed carriage, screen, extruder* and more. _(*not all is recommended)_
 - Linear rods for X, Y and Z motion system.
-- Triple leadscrew for Z movement, belt connected with 1x NEMA17 stepper.
-- Bed carriage with integrated anti Z wobble system.
+- Triple leadscrew for Z movement, belt connected with 1x NEMA17 stepper or 3x individual Z steppers.
+- Bed carriage with printed anti Z wobble system.
 - Enclosed electronics on the back of the printer.
 - DIN rails in electronics compartment for easy organization.
 - Optimized shape for enclosure.
-- Toolhead compatibility with majority of hotends and direct drive extruders.
-- Toolhead with dual 4010 fans for optimal cooling.
-- Klicky probe for bed mesh levelling or Z endstop.
+- Toolhead compatibility with majority of hotends, direct drive extruders and bed probes.
+- Toolhead with 4 variants of part cooling - dual 4010, dual 4020, dual 5015, CPAP.
 - Space behind the bed ready for more upgrades – nozzle brush, purge bucket etc.
-- LED lights.
 - Files are designed for easy printability and functionality.
-- Various mods to have more options for the build.
-
-
+- Many options in the project configuration part to make everyone happy.
+- Huge amount of ideas for future upgrades.
