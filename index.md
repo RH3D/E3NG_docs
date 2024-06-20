@@ -43,4 +43,5 @@ Of course, you also need aditional parts for the conversion.
 - Active cooling for AB stepper motors.
 - Auxiliary fans with 12032 blowers.
 - Lasercut metal bed carriage for the best stability.
+- Z axis with printed antiwobble inserts or support for WobbleX.
 - and more.
