@@ -22,17 +22,17 @@ To follow my recommended color scheme, look at the PRINTED PARTS list in the CON
 be creative and make your own scheme and design.
 
 # PRINTING INSTRUCTIONS
-All files are already properly oriented for printing.
+All STL files are already properly oriented for printing.
+
 Some of the printed parts require 235x235 mm print area to fit the build plate. Ender 3 printers offer that but you may
 have to change your built plate size in slicer (including the avoid zones).
-Recommended printing with:
-4 perimeters
-5 top and bottom layers
-30% infill
-0.2 mm layer height
-No supports needed (there are some already build into the models)
-With recommended settings you will need around 1750 g of filament.
-Files are available at my printables profile – see the first page.
+
+Recommended print settings:
+- 4 perimeters
+- 5 top and bottom layers
+- 30% infill
+- 0.2 mm layer height
+- No supports (some of the parts have built-in supports - marked with a cross)
 
 # CALIBRATION PRINT AND TOLERANCES
 Before printing the parts, it is highly recommended to print the calibration cube. It contains essential features that are
