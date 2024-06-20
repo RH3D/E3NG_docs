@@ -3,8 +3,7 @@ title: Ender 3 NG
 layout: home
 nav_order: 2
 ---
-# Ender 3 NG
-# __VIDEO OR RENDERING OR PHOTO__
+# **Ender 3 NG**
 ![](./assets/images/prv2.png)
 
 ## WHAT IS ENDER 3 NG?
