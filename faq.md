@@ -28,7 +28,7 @@ The project is free for personal use and commercial use (print farms, content ma
 
 ### WHAT DOES THE FREE PART OF THE PROJECT INCLUDE?
 {: .text-yellow-300 }
-STL files for printing the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS, in the future, the BUILD MANUAL will also be included.
+STL files for printing all the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS. In the future, the BUILD MANUAL will also be included.
 
 ### CAN I GET THE CAD FILES?
 {: .text-yellow-300 }
