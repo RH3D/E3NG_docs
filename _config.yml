@@ -19,6 +19,8 @@ callouts:
     color: red
   note:
     title: Note
+    color: green
+  highlight:
     color: yellow
 
 mermaid:
