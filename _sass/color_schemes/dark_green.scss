@@ -1,15 +1,17 @@
 $color-scheme: dark_green;
 
 //custom colors - green
-$ng-green-10: #6abb44;
-$ng-green-30: #549636;
-$ng-green-50: #376123;
-$ng-green-70: #2a4b1b;
-$ng-green-90: #0b1307;
+$ng-green-10: #e1f1da;
+$ng-green-30: #a5d68f;
+$ng-green-50: #6abb44;
+$ng-green-70: #3f7029;
+$ng-green-90: #15250e;
+
+$ng-grey-30: #b3b3b3;
 
 $body-background-color: $grey-dk-300;
 $body-heading-color: $ng-green-50;
-$body-text-color: $grey-lt-300;
+$body-text-color: $ng-grey-30;
 $link-color: $ng-green-30;
 $nav-child-link-color: $grey-lt-300;
 $sidebar-color: $grey-dk-300;
