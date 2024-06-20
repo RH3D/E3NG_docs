@@ -61,15 +61,16 @@ Me and some community members (mainly Mr. Puffington - thanks!) have been testin
 The project natively supports both Marlin and Klipper but nothing is stopping you from using other FW.
 
 The board compatibility will also be getting wider.
----
+
 ### SHOULD I CHOOSE MARLIN OR KLIPPER?
 {: .text-yellow-300 }
 I think both firmwares are very similar in the daily use capabilities, both support latest and high end features. Marlin benefits from running on a single board with a display controller that makes it a simple and solid setup with no added costs while Klipper supports more detailed tuning and with the added SBC it has more capabilities in printing faster. It is also simpler to reconfigure your printer without need to reflash the firmware, although Marlin has a lot of variables that can be changed after flashing the FW.
----
+
 ### WILL I DESTROY MY ENDER 3?
 {: .text-yellow-300 }
 No, this conversion will improve your Ender 3 in probably every way. If you decide to convert it just make sure and check at least twice that you have everything ready and that you understand what you are going to do. If you still decide that you liked your Ender 3 more than Ender 3 NG don't worry, the project is designed so that you don't make any changes to the printer parts that would prevent you from rebuilding back to Ender 3.
 
+---
 [Ender 3 NG]: https://rh3d.github.io/E3NG_docs/
 [Into the project]: https://rh3d.github.io/E3NG_docs/into.html
 [join the Discord]: https://discord.com/invite/Zkvu6uu2AR
