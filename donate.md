@@ -10,11 +10,11 @@ If you decide to support my work and help cover the cost of the project and othe
 Thank you a lot!
 
 <span class="fs-6">
-[Ko-Fi](https://ko-fi.com/rh3dcz){: .btn .mr-2 }
+[Ko-Fi](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
 </span>
 <span class="fs-6">
-[PayPal](https://ko-fi.com/rh3dcz){: .btn .mr-2 }
+[PayPal](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
 </span>
 <span class="fs-6">
-[Patreon](https://ko-fi.com/rh3dcz){: .btn .mr-2 }
+[Patreon](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
 </span>
