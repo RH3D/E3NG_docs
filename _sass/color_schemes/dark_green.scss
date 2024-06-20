@@ -1,12 +1,20 @@
 $color-scheme: dark_green;
+
+//custom colors - green
+$ng-green-10: #6abb44;
+$ng-green-30: #549636;
+$ng-green-50: #376123;
+$ng-green-70: #2a4b1b;
+$ng-green-90: #0b1307;
+
 $body-background-color: $grey-dk-300;
-$body-heading-color: $green-100;
-$body-text-color: $grey-dk-000;
-$link-color: $green-200;
+$body-heading-color: $ng-green-50;
+$body-text-color: $grey-lt-300;
+$link-color: $ng-green-30;
 $nav-child-link-color: $grey-lt-300;
 $sidebar-color: $grey-dk-300;
 $base-button-color: $grey-dk-250;
-$btn-primary-color: $green-200;
+$btn-primary-color: $ng-green-70;
 $code-background-color: #31343f; // OneDarkJekyll default for syntax-one-dark-vivid
 $code-linenumber-color: #dee2f7; // OneDarkJekyll .nf for syntax-one-dark-vivid
 $feedback-color: darken($sidebar-color, 10%);
