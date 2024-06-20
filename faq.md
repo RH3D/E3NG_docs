@@ -11,10 +11,7 @@ Frequently asked Questions
 {: .note-title }
 > WHERE ARE THE FILES?
 >
-> It is right here
-
-**WHERE ARE THE FILES?**
-- Files are uploaded and maintained on my printables profile. See #📢_announcement for the link.
+> Files are uploaded and maintained on my printables profile. See #📢_announcement for the link.
 
 **WHERE IS THE MANUAL/BUILD INSTRUCTIONS?**
 - Manual is also released on the projects page.
