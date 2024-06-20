@@ -5,7 +5,7 @@ nav_order: 2
 ---
 # Ender 3 NG
 # __VIDEO OR RENDERING OR PHOTO__
-![](.assets/images/prv2.png)
+![](./assets/images/prv2.png)
 
 ## WHAT IS ENDER 3 NG?
 
