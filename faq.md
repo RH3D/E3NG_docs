@@ -8,7 +8,7 @@ nav_order: 6
 ## TEST
 Frequently asked Questions
 
-{: .note-title }
+{: .note }
 > WHERE ARE THE FILES?
 >
 > It is right here
