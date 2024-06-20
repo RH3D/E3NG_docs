@@ -13,7 +13,9 @@ Frequently asked Questions
 >
 > The main crossroad for the project is this website, where you will find all the inmportant information and links to build the printer.
 > I would recommend reading through the entire website starting with [Ender 3 NG] and [Into the project] and if you want to get even deeper and be part of the community, [join the Discord].
+> 
 > Main STL files ready to print are on hosted on [Printables].
+> 
 > CAD files are currently available through small donation on [Ko-Fi].
 
 {: .note-title }
@@ -88,5 +90,5 @@ Frequently asked Questions
 [Ender 3 NG]: https://rh3d.github.io/E3NG_docs/
 [Into the project]: https://rh3d.github.io/E3NG_docs/into.html
 [join the Discord]: https://discord.com/invite/Zkvu6uu2AR
-[Prinables]: https://www.printables.com/en/model/469280
+[Printables]: https://www.printables.com/en/model/469280
 [Ko-Fi]: https://ko-fi.com/rh3dcz
