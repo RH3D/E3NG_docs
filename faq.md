@@ -36,11 +36,11 @@ As mentioned in the first answer, CAD files are currently available through a sm
 
 ### HOW MUCH DOES THE CONVERSION COST?
 {: .text-yellow-300 }
-This is highly dependand on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the [CONFIGURATOR] and set your preferred setup, it will automatically calculate the estimated price.
+This is highly dependent on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the [CONFIGURATOR] and set your preferred setup, it will automatically calculate the estimated price.
 
 ### HOW MUCH FILAMENT DO I NEED?
 {: .text-yellow-300 }
-This is the same case as the cost - the amount of filament needed is highly dependant on your choices but the [CONFIGURATOR] will again automatically calculate how much filament you will need.
+This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the [CONFIGURATOR] will again automatically calculate how much filament you will need.
 
 PS, you can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.
 
