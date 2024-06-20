@@ -20,7 +20,7 @@ nav_order: 6
 {: .note-title }
 > IS THERE A BUILD MANUAL/INSTRUCTIONS?
 >
-> There is a build manual for the beta version, link is on the printables page as well.
+> There is a build manual for the beta version, link is on the [Printables] page as well.
 >
 > Build manual for the NG v1.2 is not existent but will be made.
 
