@@ -19,7 +19,7 @@ There is a build manual for the beta version, link is on the [Printables] page a
 
 Build manual for the NG v1.2 is not existent but will be made.
 
-{: .note }
+{: .highlight }
 > ## WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
 >
 > The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
@@ -29,8 +29,8 @@ Build manual for the NG v1.2 is not existent but will be made.
 > 
 > CAD files are currently available through small donation on [Ko-Fi].
 
-{: .note-title }
-> IS THERE A BUILD MANUAL/INSTRUCTIONS?
+{: .highlight }
+> ## IS THERE A BUILD MANUAL/INSTRUCTIONS?
 >
 > There is a build manual for the beta version, link is on the [Printables] page as well.
 >
