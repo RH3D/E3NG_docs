@@ -5,7 +5,7 @@ nav_order: 7
 ---
 ## THANK YOU
 
-- to everyone who helps with supporting the project.
+- to everyone who helps by supporting the project.
 - to all our Discord members for creating the awesome space to chat and get help.
 - to everyone who decides to build the printer.
 
