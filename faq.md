@@ -28,6 +28,8 @@ Build manual for the NG v1.2 is not existent but will be made.
 > Main STL files ready to print are on hosted on [Printables].
 > 
 > CAD files are currently available through small donation on [Ko-Fi].
+>
+> ## DONKEY
 
 {: .note-title }
 > IS THERE A BUILD MANUAL/INSTRUCTIONS?
