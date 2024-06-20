@@ -17,10 +17,8 @@ Main goal of this project is to use the old Ender 3, tear it apart and reuse as 
 It is based on CoreXY motion system, is easy to enclose and you can do a cheap and simple build or you can go crazy and build a real bonkers machine.
 
 Of course, you also need aditional parts for the conversion.
-### NG = NEXT GENERATION
-
-NG = NEXT GENERATION
-{: .fs-8 .text-center }
+"NG = NEXT GENERATION"
+{: .fs-10 .text-center }
 
 # PRINTER FEATURES
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
