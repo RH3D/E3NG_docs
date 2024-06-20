@@ -16,7 +16,9 @@ temperatures (PLA, PETG) or take precautions like bed insulation.
 ### PLA
 Can be used on an open frame printer but not with an enclosure as the parts would definitely warp. The toolhead and bed
 carriage should still be printer with higher temp resistant material.
-To follow my recommended color scheme, look at the BOM list – every file is marked as A (accent) or M (main) color but
+
+# PRINTING PARTS IN COLOR
+To follow my recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked as A (accent) or M (main) color but
 be creative and make your own scheme and design.
 
 # PRINTING INSTRUCTIONS
