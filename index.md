@@ -18,10 +18,6 @@ It is based on CoreXY motion system, is easy to enclose and you can do a cheap a
 
 Of course, you also need aditional parts for the conversion.
 
-# **"NG = NEXT GENERATION"**
-{: .text-center }
-
-
 ### PRINTER FEATURES
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
 - Printer size _(X-Y-Z)_: 407 x 438 x 440 mm / 455 x 485 x 548 mm (enclosed)
@@ -40,3 +36,6 @@ Of course, you also need aditional parts for the conversion.
 - Files are designed for easy printability and functionality.
 - Many options in the project configuration part to make everyone happy.
 - Huge amount of ideas for future upgrades.
+
+# **"NG = NEXT GENERATION"**
+{: .text-center }
