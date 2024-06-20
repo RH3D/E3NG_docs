@@ -5,7 +5,7 @@ layout: default
 #has_children: true
 nav_order: 6
 ---
-# Frequently asked Questions
+# FREQUENTLY ASKED QUESTIONS
 
 {: .note-title }
 > WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
