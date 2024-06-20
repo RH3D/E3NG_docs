@@ -8,7 +8,8 @@ nav_order: 7
 ## TEST
 Frequently asked Questions
 
-- WHERE ARE THE FILES?
+- **WHERE ARE THE FILES?**
+
 Files are uploaded and maintained on my printables profile. See #📢_announcement for the link.
 - WHERE IS THE MANUAL/BUILD INSTRUCTIONS?
 Manual is also released on the projects page.
