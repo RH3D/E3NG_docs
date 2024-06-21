@@ -27,7 +27,7 @@ Ender 3 NG started as a cheap coreXY conversion for Creality Ender 3 Pro, it has
 
 As a result the project has some options to choose from to suit your preferences the best.
 
-To view all the options and help with the configuration, head to the next section.
+To view all the options and help with the configuration, head to the [Printer configuration].
 
 ----
 
@@ -38,3 +38,4 @@ To view all the options and help with the configuration, head to the next sectio
 [YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
 [Support my work]: https://rh3d.github.io/E3NG_docs/donate.html
 [Printables remixes]: https://www.printables.com/en/model/469280-ender-3-ng-corexy-beta/remixes
+[Printer configuration]: https://rh3d.github.io/E3NG_docs/configure.html
