@@ -72,7 +72,6 @@ Select if you want your printer to be enclosed or not.
 - BTT Octopus
 
 # TOOLHEAD
-//{: .text-center }
 
 ##### HOTEND
 Select the hotend you want to use.
@@ -96,7 +95,6 @@ Select the right probe for you, FW setup for Klicky or BDSensor
 - JST
 
 # MODS / UPGRADES
-//{: .text-center }
 
 #### STEPPER COOLING
 Optional AB stepper cooling
