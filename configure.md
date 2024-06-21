@@ -5,6 +5,7 @@ parent: Into the project
 #has_children: true
 nav_order: 1
 ---
+
 # PRINTER CONFIGURATION
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]
@@ -56,6 +57,7 @@ Select if you want your printer to be enclosed or not.
 - BTT SKR
 - BTT SKR3EZ
 - BTT Octopus
+
 # TOOLHEAD
 {: .text-center }
 ## HOTEND
@@ -74,6 +76,7 @@ Select the right probe for you, FW setup for Klicky or BDSensor
 - Cables
 - Accelerometer
 - JST
+
 # MODS / UPGRADES
 {: .text-center }
 ## STEPPER COOLING
