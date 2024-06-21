@@ -12,7 +12,7 @@ nav_order: 1
 
 You will be guided through all the steps you will find in the configurator a you will get helpful and detailed information for all the options to help you with starting your project.
 
-Configurator is an interactive spreadsheet that will based on your setup calculate the right quantities in the Bill of Material, will show you the right parts you need to print but will also show you estimated amount of the BOM cost and filament needed.
+Configurator is an interactive spreadsheet that will, based on your setup, calculate the right quantities in the Bill of Material, will show you the right parts you need to print and will also show you estimated cost of the BOM and amount of filament needed.
 
 It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
 
