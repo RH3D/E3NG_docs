@@ -49,7 +49,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 
 ![](./assets/images/config_layout_3.png)
 
-#### Z RODS
+#### Z AXIS RODS
 - 2x12 mm rod - legacy version - simple setup that works well enough if your leadscrews are not extremely bent, it also saves few dollars.
 - 3x12 mm rod - RECOMMENDED - uses linear rod at the rear leadscrew, makes the bed carriage more stable. This is required if you plan to use tilting bed _(once it is released)_.
 
@@ -138,45 +138,45 @@ Choose the right bed probe for you.
 {: .text-center }
 
 #### STEPPER COOLING
-Optional AB stepper cooling
+RECOMMENDED - optional active cooling for AB steppers using 4020 axial fans. It is simple yet very effective solution that keeps your steppers cool allowing you to increase the run current and print faster.
 
 ![](./assets/images/config_layout_2.png)
 
-#### FRAME CORNER BRACES
-For added frame stabilisation, is good with printed version but is not neccessary
+#### FRAME BRACES
+Recommended if you are using legacy version of the frame without the enclosure. It adds a bit more rigidity to the frame but other frame variants are rigid enough and the enclosure is even ruperrior in that regard.
 
 ![](./assets/images/config_layout_3.png)
 
 #### HANDLES
-Handles - will be automatically added if you select the enclosure
+Handles - RECOMMENDED - to have a good grip on the printer. Handles are automatically added if you select enclosure.
 
 ![](./assets/images/config_layout_2.png)
 
 #### LED LIGHTS
-- Enclosure
-- Frame
+- Enclosure LEDs - RECOMMENDED - LED strips mounted on the upper edge of the enclosure to light up the inside of the printer.
+- Frame LEDs - RECOMMENDED - LED strips mounted on the frame in the build plate height to better see the prints.
 
 ![](./assets/images/config_layout_2.png)
 
-#### SIDE COOLING
-Aux cooling using 12032 fans, includes spacers for the right height based on your selected hotend.
+#### AUX COOLING
+Auxiliary side cooling using 12032 fans blowing air over the build plate from both sides. For more powerful cooling for your prints.
 
 ![](./assets/images/config_layout_2.png)
 
-#### BED HEATER WAGO
-For running cables from your board with connectors on the bed carriage, also includes holes for JST XH connectors for thermistor or bed fan.
-- AC
-- DC
+#### BED WIRING - WAGO 221
+For running bed heater cables from your board into the connectors mounted on the bed carriage. It helps with serviceability as you can remove the bed completely without removing all the cables. It uses Wago 221 connectors for the heater wiring and JST XH connectors for the thermistor and/or under bed fan.
+- DC BED - for DC - usually 24V bed heaters.
+- AC BED - for AC bed heaters including connector for the ground wire.
 
 ![](./assets/images/config_layout_3.png)
 
 #### UNDER BED FAN
-For air circulation and chamber heating
+RECOMMENDED if you install enclosure. Helps circulating the air inside the chamber and heating it faster and more evenly by sucking the warm air from below the heated bed and blowing it at the bottom. It is moving/mixing air in the entire enclosure.
 
 ![](./assets/images/config_layout_3.png)
 
-#### SEXBOLT
-Original Voron design for Auto-Z offset
+#### AUTO Z - VORON
+Original Voron design for Auto-Z offset with using "Sexbolt" nozzle endstop.
 
 ![](./assets/images/config_layout_2.png)
 
