@@ -161,7 +161,7 @@ Handles - RECOMMENDED - to have a good grip on the printer. Handles are automati
 #### AUX COOLING
 Auxiliary side cooling using 12032 fans blowing air over the build plate from both sides. For more powerful cooling for your prints.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_aux_fan.png)
 
 #### BED WIRING - WAGO 221
 For running bed heater cables from your board into the connectors mounted on the bed carriage. It helps with serviceability as you can remove the bed completely without removing all the cables. It uses Wago 221 connectors for the heater wiring and JST XH connectors for the thermistor and/or under bed fan.
