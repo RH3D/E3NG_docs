@@ -35,3 +35,5 @@ title:'PayPal - The safer, easier way to pay online!',
 }).render('#donate-button');
 </script>
 </div>
+
+<iframe id='kofiframe' src='https://ko-fi.com/rh3dcz/?hidefeed=true&widget=true&embed=true&preview=true' style='border:none;width:100%;padding:4px;background:#f9f9f9;' height='712' title='rh3dcz'></iframe>
