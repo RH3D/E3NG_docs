@@ -71,7 +71,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 ![](./assets/images/config/config_bed_wobble.png)
 
 #### Z AXIS DRIVE
-- 1 stepper - RECOMMENDED - more foolproof and simple solution, also cheaper.
+- 1 stepper - RECOMMENDED - more foolproof and simple solution with one stepper and long belt driving all 3 leadscrews, also cheaper.
 - 3 steppers - for separately driven leadscrews and Z-tilt option. This is required if you plan to use tilting bed _(once it is released)_, but currently this option isn't recommended as there is no compliant mechanism in the bed carriage, which would allow the bed to tilt safely and even a small amount of tilt from improper alignment may increase binding and friction in the Z axis. If you select this option, be very careful and make sure your bed is aligned well resulting in minimal tilt.
 
 ![](./assets/images/config/config_steppers.png)
