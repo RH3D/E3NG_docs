@@ -5,6 +5,7 @@ has_children: true
 nav_order: 3
 ---
 # INTO THE PROJECT
+{: .text-center }
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
@@ -22,6 +23,7 @@ It is highly recommended to first start with the stock project and then if you w
 Most remixes and mods are posted on [Printables remixes] but you will also find other on the Discord server.
 
 # PROJECT OPTIONS
+{: .text-center }
 Going deeper into the project, you will find that not all the printers are build the same, that is because the project is offering various options to configure the setup from the start.
 Ender 3 NG started as a cheap coreXY conversion for Creality Ender 3 Pro, it has been in the beta version and available to public over a year and while others have been building the printers, I have been listening to all the feedback and getting to know the real preferences from users.
 
