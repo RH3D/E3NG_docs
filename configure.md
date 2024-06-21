@@ -80,7 +80,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - Printed - legacy version - cheap and simple option but for good performance it is important to verify that there is no ovality in pulleys and the print is precise.
 - Aluminium - RECOMMENDED - precise aluminium pulley equals precise leadscrew rotation.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_pulley.png)
 
 #### PSU THICKNESS
 - 30 mm - thinner Meanwell PSU used in Ender 3 Pro and in some Ender 3 V2
