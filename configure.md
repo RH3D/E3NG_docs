@@ -150,7 +150,7 @@ Recommended if you are using legacy version of the frame without the enclosure. 
 #### HANDLES
 Handles - RECOMMENDED - to have a good grip on the printer. Handles are automatically added if you select enclosure.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_handles.png)
 
 #### LED LIGHTS
 - Enclosure LEDs - RECOMMENDED - LED strips mounted on the upper edge of the enclosure to light up the inside of the printer.
