@@ -6,6 +6,7 @@ parent: Into the project
 nav_order: 1
 ---
 # PRINTER CONFIGURATION
+{: .text-center }
 [CONFIGURATOR DOWNLOAD]
 You will be guided through all the steps you will find in the configurator a you will get helpful and detailed information for all the options to help you with starting your project.
 
@@ -13,6 +14,7 @@ Configurator is an interactive spreadsheet that will based on your setup calcula
 
 It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
 # BASE BUILD
+{: .text-center }
 ## BASE PRINTER
 Natively supported and tested printers for the conversion. Compatibility with other printers will be verified and tested over time so if you decide to use a different one for the conversion and want to help with the implementation, please give me feedback.
 - Creality Ender 3
@@ -49,6 +51,7 @@ Select if you want your printer to be enclosed or not.
 - BTT SKR3EZ
 - BTT Octopus
 # TOOLHEAD
+{: .text-center }
 ## HOTEND
 Select the hotend you want to use.
 ## EXTRUDER
@@ -66,6 +69,7 @@ Select the right probe for you, FW setup for Klicky or BDSensor
 - Accelerometer
 - JST
 # MODS / UPGRADES
+{: .text-center }
 ## STEPPER COOLING
 Optional AB stepper cooling
 ## FRAME CORNER BRACES
