@@ -9,17 +9,8 @@ If you decide to support my work and help cover the cost of the project and othe
 
 Thank you a lot!
 
-<span class="fs-6">
-[Ko-Fi](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
-</span>
-<span class="fs-6">
-[PayPal](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
-</span>
-<span class="fs-6">
-[Patreon](https://ko-fi.com/rh3dcz){: .btn .mr-6 }
-</span>
-
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 'E1E1JZ5FS');kofiwidget2.draw();</script> 
+
 
 <div id="donate-button-container">
 <div id="donate-button"></div>
