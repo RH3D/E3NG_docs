@@ -20,6 +20,7 @@ Thank you a lot!
 </span>
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 'E1E1JZ5FS');kofiwidget2.draw();</script> 
+
 <div id="donate-button-container">
 <div id="donate-button"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
