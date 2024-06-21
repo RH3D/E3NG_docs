@@ -61,7 +61,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - Lasercut metal - most rigid option, if you want to get the best out of your printer.
 - _Z-tilt bed - in development_
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config_bed_carriage.png)
 
 #### Z WOBBLE COMPENSATION
 - None - no Z wobble compensation, T8/8 nuts mounted directly.
