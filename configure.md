@@ -47,7 +47,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 2040 update - RECOMMENDED - first stage upgrade with additional alu extrusion. Adds rigidity to the frame.
 - Ulti frame - all you need for the best performance, adds two more extrusions to the front, uses butt joints so it requires more driling and tapping threads.
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config/config_frame.png)
 
 #### Z AXIS RODS
 - 2x12 mm rod - legacy version - simple setup that works well enough if your leadscrews are not extremely bent, it also saves few dollars.
