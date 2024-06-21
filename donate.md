@@ -28,10 +28,9 @@ PayPal.Donation.Button({
 env:'production',
 hosted_button_id:'LR94TRQXMGW46',
 image: {
-src:'https://pics.paypal.com/00/s/ZWQxYzdlNWYtMTc0ZS00MzA5LTg3NGQtOGJlNmIwYWMzMGRh/file.JPG',
+src:'./assets/images/paypal_donate.png',
 alt:'Donate with PayPal button',
 title:'PayPal - The safer, easier way to pay online!',
-height:'26',
 }
 }).render('#donate-button');
 </script>
