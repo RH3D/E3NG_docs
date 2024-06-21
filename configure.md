@@ -118,7 +118,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 - 2 x 5015 - even more air.
 - CPAP - the best choice for extreme cooling and lightweight toolhead, although you can always add auxiliary fans too.
 
-![](./assets/images/config_layout_4.png)
+![](./assets/images/config/config_cooling.png)
 
 #### BED PROBE
 Choose the right bed probe for you.
