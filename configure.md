@@ -140,7 +140,7 @@ Choose the right bed probe for you.
 #### STEPPER COOLING
 RECOMMENDED - optional active cooling for AB steppers using 4020 axial fans. It is simple yet very effective solution that keeps your steppers cool allowing you to increase the run current and print faster.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_AB_cooling.png)
 
 #### FRAME BRACES
 Recommended if you are using legacy version of the frame without the enclosure. It adds a bit more rigidity to the frame but other frame variants are rigid enough and the enclosure is even ruperrior in that regard.
