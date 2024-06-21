@@ -6,6 +6,7 @@ nav_order: 2
 ![](./assets/images/prv2.png)
 
 # ENDER 3 NG
+{: .text-center }
 
 This project is a DIY conversion originaly based on Creality Ender 3 Pro. The original Ender 3 was one of the most sold printers but due to its lack of modern features, it is rather a starting point for people who either can't afford to buy a more expensive machine or don't want to spend money on something they just want to try.
 
@@ -19,7 +20,7 @@ Of course, you also need aditional parts for the conversion.
 # "NG = NEXT GENERATION"
 {: .text-center }
 
-### PRINTER FEATURES
+#### PRINTER FEATURES
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the used hotend)
 - Printer size _(X-Y-Z)_: 407 x 438 x 440 mm / 455 x 485 x 548 mm (enclosed)
 - CoreXY motion system
@@ -38,7 +39,7 @@ Of course, you also need aditional parts for the conversion.
 - Many options in the project configuration part to make everyone happy.
 - Huge amount of ideas for future upgrades.
 
-### OTHER (OPTIONAL) FEATURES
+#### OTHER (OPTIONAL) FEATURES
 - Under bed fan for air circulation and faster chamber heating.
 - Active cooling for AB stepper motors.
 - Auxiliary fans with 12032 blowers.
