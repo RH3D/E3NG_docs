@@ -53,7 +53,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 2x12 mm rod - legacy version - simple setup that works well enough if your leadscrews are not extremely bent, it also saves few dollars.
 - 3x12 mm rod - RECOMMENDED - uses linear rod at the rear leadscrew, makes the bed carriage more stable. This is required if you plan to use tilting bed _(once it is released)_.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_z_rod.png)
 
 #### BED CARRIAGE
 - Printed - although it works, it is not recommended. It is a backup option for people who cannot use one of the others.
