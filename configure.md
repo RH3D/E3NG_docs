@@ -68,7 +68,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - Flexi joint - RECOMMENDED - printed flexible inserts that compensate leadscrew runout.
 - WobbleX - more efficient solution by MirageC, but it reduces the max Z by around 22 mm.
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config_bed_wobble.png)
 
 #### Z AXIS DRIVE
 - 1 stepper - RECOMMENDED - more foolproof and simple solution, also cheaper.
