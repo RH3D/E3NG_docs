@@ -4,7 +4,7 @@ layout: default
 has_children: true
 nav_order: 3
 ---
-# **INTO THE PROJECT**
+# INTO THE PROJECT
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
