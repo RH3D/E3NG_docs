@@ -4,6 +4,7 @@ layout: default
 nav_order: 7
 ---
 # THANK YOU
+{: .text-center }
 
 - to everyone who helps by supporting the project.
 - to all our Discord members for creating the awesome space to chat and get help.
