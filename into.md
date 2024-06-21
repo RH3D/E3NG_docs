@@ -32,9 +32,9 @@ To view all the options and help with the configuration, head to the next sectio
 ----
 
 [Printables]: https://www.printables.com/en/@radkoko
-[CONFIGURATOR]: 
+[CONFIGURATOR]: https://www.rh3d.xyz
 [Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
 [Instagram]: https://www.instagram.com/RH3D_cz
 [YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
-[Support my work]: https://ko-fi.com/rh3dcz
+[Support my work]: https://rh3d.github.io/E3NG_docs/donate.html
 [Printables remixes]: https://www.printables.com/en/model/469280-ender-3-ng-corexy-beta/remixes
