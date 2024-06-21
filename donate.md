@@ -31,6 +31,7 @@ image: {
 src:'https://pics.paypal.com/00/s/ZWQxYzdlNWYtMTc0ZS00MzA5LTg3NGQtOGJlNmIwYWMzMGRh/file.JPG',
 alt:'Donate with PayPal button',
 title:'PayPal - The safer, easier way to pay online!',
+height:'26',
 }
 }).render('#donate-button');
 </script>
