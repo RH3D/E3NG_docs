@@ -26,6 +26,9 @@ The configuration is divided into three sections:
 
 [MODS / UPGRADES]
 
+{: .note }
+All the pictures bellow are higher resolution, so you can right click - Open image in new tab/window - to view it in more detail.
+
 # BASE BUILD
 {: .text-center }
 
@@ -143,7 +146,7 @@ RECOMMENDED - optional active cooling for AB steppers using 4020 axial fans. It 
 ![](./assets/images/config/config_AB_cooling.png)
 
 #### FRAME BRACES
-Recommended if you are using legacy version of the frame without the enclosure. It adds a bit more rigidity to the frame but other frame variants are rigid enough and the enclosure is even ruperrior in that regard.
+Recommended if you are using legacy version of the frame without the enclosure. It adds a bit more rigidity to the frame but other frame variants are rigid enough and the enclosure is even superior in that regard.
 
 ![](./assets/images/config_layout_3.png)
 
