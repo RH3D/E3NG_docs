@@ -20,3 +20,18 @@ Thank you a lot!
 </span>
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 'E1E1JZ5FS');kofiwidget2.draw();</script> 
+<div id="donate-button-container">
+<div id="donate-button"></div>
+<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
+<script>
+PayPal.Donation.Button({
+env:'production',
+hosted_button_id:'LR94TRQXMGW46',
+image: {
+src:'https://pics.paypal.com/00/s/ZWQxYzdlNWYtMTc0ZS00MzA5LTg3NGQtOGJlNmIwYWMzMGRh/file.JPG',
+alt:'Donate with PayPal button',
+title:'PayPal - The safer, easier way to pay online!',
+}
+}).render('#donate-button');
+</script>
+</div>
