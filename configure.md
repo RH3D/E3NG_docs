@@ -6,7 +6,7 @@ parent: Into the project
 nav_order: 1
 ---
 
-# **PRINTER CONFIGURATION**
+# PRINTER CONFIGURATION
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]
 You will be guided through all the steps you will find in the configurator a you will get helpful and detailed information for all the options to help you with starting your project.
@@ -23,7 +23,7 @@ The configuration is divided into three sections:
 
 [MODS / UPGRADES]
 
-# **BASE BUILD**
+# BASE BUILD
 {: .text-center }
 
 ## BASE PRINTER
@@ -71,7 +71,7 @@ Select if you want your printer to be enclosed or not.
 - BTT SKR3EZ
 - BTT Octopus
 
-# **TOOLHEAD**
+# TOOLHEAD
 {: .text-center }
 
 ## HOTEND
@@ -95,7 +95,7 @@ Select the right probe for you, FW setup for Klicky or BDSensor
 - Accelerometer
 - JST
 
-# **MODS / UPGRADES**
+# MODS / UPGRADES
 {: .text-center }
 
 ## STEPPER COOLING
