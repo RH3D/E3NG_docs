@@ -16,8 +16,11 @@ Configurator is an interactive spreadsheet that will based on your setup calcula
 It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
 
 The configuration is divided into three sections:
+
 [BASE BUILD]
+
 [TOOLHEAD]
+
 [MODS / UPGRADES]
 
 # BASE BUILD
