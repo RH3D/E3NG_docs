@@ -13,6 +13,12 @@ You will be guided through all the steps you will find in the configurator a you
 Configurator is an interactive spreadsheet that will based on your setup calculate the right quantities in the Bill of Material, will show you the right parts you need to print but will also show you estimated amount of the BOM cost and filament needed.
 
 It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
+
+The configuration is divided into three sections:
+[BASE BUILD]
+[TOOLHEAD]
+[MODS / UPGRADES]
+
 # BASE BUILD
 {: .text-center }
 ## BASE PRINTER
@@ -92,3 +98,6 @@ Original Voron design for Auto-Z offset
 
 ---
 [CONFIGURATOR DOWNLOAD]: LINK
+[BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
+[TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
+[MODS / UPGRADES]: https://rh3d.github.io/E3NG_docs/configure.html#mods--upgrades
