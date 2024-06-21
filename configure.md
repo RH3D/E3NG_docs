@@ -58,7 +58,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 #### BED CARRIAGE
 - Printed - although it works, it is not recommended. It is a backup option for people who cannot use one of the others.
 - Stock E3 bed carriage - RECOMMENDED - reuse the stock Ender's bed carriage.
-- Lasercut metal - most rigid option, if you want to get the best out of your printer.
+- Metal carriage - cut with laser od water, most rigid option, if you want to get the best out of your printer.
 - _Z-tilt bed - in development_
 
 ![](./assets/images/config_bed_carriage.png)
