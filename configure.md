@@ -72,29 +72,31 @@ Select if you want your printer to be enclosed or not.
 - BTT Octopus
 
 # TOOLHEAD
+{: .text-center }
 
-##### HOTEND
+#### HOTEND
 Select the hotend you want to use.
 
-##### EXTRUDER
+#### EXTRUDER
 - OEM
 - Integrated
 
-##### PART COOLING
+#### PART COOLING
 - 2x4010
 - 2x4020
 - 2x5015
 - CPAP
 
-##### BED PROBE
+#### BED PROBE
 Select the right probe for you, FW setup for Klicky or BDSensor
 
-##### ACCESSORIES
+#### ACCESSORIES
 - Cables
 - Accelerometer
 - JST
 
 # MODS / UPGRADES
+{: .text-center }
 
 #### STEPPER COOLING
 Optional AB stepper cooling
