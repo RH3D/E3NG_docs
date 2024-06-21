@@ -31,9 +31,7 @@ Natively supported and tested printers for the conversion. Compatibility with ot
 - Creality Ender 3 - has 2040 x 330 mm extrusion for Y axis - printed spacer is used.
 - Creality Ender 3 Pro - default setup, has 4040 x 350 mm extrusion for Y axis.
 - Creality Ender 3 V2 - similar to E3pro but some have shorter 4040 extrusion for Y axis - use printed spacer to accomodate the length difference.
-
 ![](./assets/images/config_layout.png)
-{: .text-center }
 
 #### ENCLOSURE
 Select if you want your printer to be enclosed or not.
