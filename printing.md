@@ -7,21 +7,24 @@ nav_order: 3
 ---
 
 # MATERIAL SELECTION
-### ABS/ASA
+{: .text-center }
+#### ABS/ASA
 This is the most recommended and best choice material for the printed parts.
-### PETG
+#### PETG
 Is more flexible which will reduce stiffness of the frame. It has lower temperature resistance so enclosing the printer may
 affect the printer and will most likely lead to some warped parts (toolhead, bed carriage) unless you print at lower
 temperatures (PLA, PETG) or take precautions like bed insulation.
-### PLA
+#### PLA
 Can be used on an open frame printer but not with an enclosure as the parts would definitely warp. The toolhead and bed
 carriage should still be printer with higher temp resistant material.
 
 # PRINTING PARTS IN COLOR
+{: .text-center }
 To follow my recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked as A (accent) or M (main) color but
 be creative and make your own scheme and design.
 
 # PRINTING INSTRUCTIONS
+{: .text-center }
 All STL files are already properly oriented for printing.
 
 Some of the printed parts require 235x235 mm print area to fit the build plate. Ender 3 printers offer that but you may
@@ -35,6 +38,7 @@ Recommended print settings:
 - No supports (some of the parts have built-in supports - marked with a cross)
 
 # CALIBRATION PRINT AND TOLERANCES
+{: .text-center }
 Before printing the parts, it is highly recommended to print the calibration cube. It contains essential features that are
 related to the project parts like holes for 12/8mm rods, holes for heat inserts etc. All the parts are designed with rather
 tighter tolerances (.2mm) on important areas like linear rods, this may cause some printers have too tight fit, if this is the
@@ -43,6 +47,7 @@ carefully so you don’t enlarge the holes too much as it would lead to inaccura
 Link to the calibration cube is on the first page.
 
 # ABS PRINTING TIPS
+{: .text-center }
 ABS/ASA is the best choice for the build, but it is a material, that is not easy to print on an openframe bedslingers and it
 may be very challenging for many users. Here are some print tips:
 1. Use enclosure! - best and most effective, even if you use some temporary solution to help stabilise the printer
