@@ -40,7 +40,7 @@ Natively supported and tested printers for the conversion. Compatibility with ot
 #### ENCLOSURE
 Choosing to enclose the printer or not. V2 style enclosure is better designed and simpler while also adding to the frame rigidity. For the best experience, recommended polycarbonate panels are 4mm thick + 5mm for the front door. Rear electronics cover can be 3mm.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_enclosure.png)
 
 #### FRAME
 - Printed verticals - legacy version where you don't need to buy extra extrusions. Depending on your filament and market prices, it can also be the cheapest option.
@@ -61,14 +61,14 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - Metal carriage - cut with laser od water, most rigid option, if you want to get the best out of your printer.
 - _Z-tilt bed - in development_
 
-![](./assets/images/config_bed_carriage.png)
+![](./assets/images/config/config_bed_carriage.png)
 
 #### Z WOBBLE COMPENSATION
 - None - no Z wobble compensation, T8/8 nuts mounted directly.
 - Flexi joint - RECOMMENDED - printed flexible inserts that compensate leadscrew runout.
 - WobbleX - more efficient solution by MirageC, but it reduces the max Z by around 22 mm.
 
-![](./assets/images/config_bed_wobble.png)
+![](./assets/images/config/config_bed_wobble.png)
 
 #### Z AXIS DRIVE
 - 1 stepper - RECOMMENDED - more foolproof and simple solution, also cheaper.
