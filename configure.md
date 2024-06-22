@@ -97,7 +97,7 @@ Currently there are setups for only few motherboards but more will be directly s
 - BTT SKR3EZ
 - BTT Octopus
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config/config_board.png)
 
 # TOOLHEAD
 {: .text-center }
