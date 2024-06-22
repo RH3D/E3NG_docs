@@ -103,6 +103,8 @@ Currently there are setups for only few motherboards but more will be directly s
 {: .text-center }
 Toolhead is put together with separate parts for mounting each of the components which makes it super easy to alternate between different type of hardware.
 
+![](./assets/images/config/config_toolhead.png)
+
 #### HOTEND
 Select the hotend you want to use, it is generaly recommended to use hotend with higher flow.
 
