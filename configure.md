@@ -148,7 +148,7 @@ RECOMMENDED - optional active cooling for AB steppers using 4020 axial fans. It 
 #### FRAME BRACES
 Recommended if you are using legacy version of the frame without the enclosure. It adds a bit more rigidity to the frame but other frame variants are rigid enough and the enclosure is even superior in that regard.
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config/config_brace.png)
 
 #### HANDLES
 Handles - RECOMMENDED - to have a good grip on the printer. Handles are automatically added if you select enclosure.
