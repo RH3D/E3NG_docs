@@ -106,7 +106,7 @@ Toolhead is put together with separate parts for mounting each of the components
 #### HOTEND
 Select the hotend you want to use, it is generaly recommended to use hotend with higher flow.
 
-![](./assets/images/config_layout_1.png)
+![](./assets/images/config/config_hotend.png)
 
 #### EXTRUDER
 - Bowden - adapter plate with different bowden connectors - bowden clip / ECAS04 / M6 thread (used on stock Ender extruder) / 1/8' thread (used on stock Ender hotend) / SpiderV3 coupler / Phaetus groove mount adapter
@@ -128,7 +128,7 @@ Choose the right bed probe for you.
 - KlickyPCB - RECOMMENDED cheap option with good reliability.
 - BDSensor - RECOMMENDED performance option - it is recommended more than Beacon scanner as it doesn't have the "no metal" zone that is forcing Beacon to be further from the nozzle because of the lower LM8LUU. BDSensor is currently more complicated to install but Klipper integration is in the works.
 
-![](./assets/images/config_layout_1.png)
+![](./assets/images/config/config_probes.png)
 
 #### ACCESSORIES
 - Cable guide - RECOMMENDED for keeping the toolhead wiring clean and safe.
