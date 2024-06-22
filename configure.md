@@ -89,7 +89,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 30 mm - thinner Meanwell PSU used in Ender 3 Pro and in some Ender 3 V2
 - 50 mm - thicker PSU used in Ender 3 and in some Ender 3 V2
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_psu.png)
 
 #### BOARD MOUNT
 Currently there are setups for only few motherboards but more will be directly supported in the future. The supported board has DIN rail mount along with cooling fan holder and there is also a FW setup available. But being the boards mounted on DIN rails, it is easy to use any other board. It is also recommended to check the **Optional parts** folder where there are mounts for other electronics commonly used.
