@@ -159,7 +159,7 @@ Handles - RECOMMENDED - to have a good grip on the printer. Handles are automati
 - Enclosure LEDs - RECOMMENDED - LED strips mounted on the upper edge of the enclosure to light up the inside of the printer.
 - Frame LEDs - RECOMMENDED - LED strips mounted on the frame in the build plate height to better see the prints.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_led.png)
 
 #### AUX COOLING
 Auxiliary side cooling using 12032 fans blowing air over the build plate from both sides. For more powerful cooling for your prints.
