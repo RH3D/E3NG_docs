@@ -171,7 +171,7 @@ For running bed heater cables from your board into the connectors mounted on the
 - DC BED - for DC - usually 24V bed heaters.
 - AC BED - for AC bed heaters including connector for the ground wire.
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config/config_bed_wiring.png)
 
 #### UNDER BED FAN
 RECOMMENDED if you install enclosure. Helps circulating the air inside the chamber and heating it faster and more evenly by sucking the warm air from below the heated bed and blowing it at the bottom. It is moving/mixing air in the entire enclosure.
@@ -181,7 +181,7 @@ RECOMMENDED if you install enclosure. Helps circulating the air inside the chamb
 #### AUTO Z - VORON
 Original Voron design for Auto-Z offset with using "Sexbolt" nozzle endstop.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_auto_z.png)
 
 ---
 [CONFIGURATOR DOWNLOAD]: LINK
