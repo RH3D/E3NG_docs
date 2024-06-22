@@ -156,8 +156,8 @@ Handles - RECOMMENDED - to have a good grip on the printer. Handles are automati
 ![](./assets/images/config/config_handles.png)
 
 #### LED LIGHTS
+- Frame LEDs - RECOMMENDED - LED strips mounted on the frame in the nozzle height to better see the prints.
 - Enclosure LEDs - RECOMMENDED - LED strips mounted on the upper edge of the enclosure to light up the inside of the printer.
-- Frame LEDs - RECOMMENDED - LED strips mounted on the frame in the build plate height to better see the prints.
 
 ![](./assets/images/config/config_led.png)
 
