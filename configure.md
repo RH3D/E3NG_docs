@@ -38,7 +38,7 @@ Natively supported and tested printers for the conversion. Compatibility with ot
 - Creality Ender 3 Pro - default, has 4040 x 350 mm extrusion for Y axis.
 - Creality Ender 3 V2 - some have shorter 4040 extrusion for Y axis - printed spacer is used.
 
-![](./assets/images/config_layout_3.png)
+![](./assets/images/config/config_base.png)
 
 #### ENCLOSURE
 Choosing to enclose the printer or not. V2 style enclosure is better designed and simpler while also adding to the frame rigidity. For the best experience, recommended polycarbonate panels are 4mm thick + 5mm for the front door. Rear electronics cover can be 3mm.
