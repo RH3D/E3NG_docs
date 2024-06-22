@@ -115,7 +115,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 - Original design extruders - adapter plates with the most common mounts to fit the majority of direct drive extruders.
 - Integrated - direct drive extruders with integration into the toolhead mount. Makes mounting the extruder more secure and rigid while still being easy to swap.
 
-![](./assets/images/config_layout_2.png)
+![](./assets/images/config/config_extruder.png)
 
 #### PART COOLING
 - 2 x 4010 - RECOMMENDED - compact and solid option with higher RPM fans - good option for most of the users.
