@@ -135,7 +135,7 @@ Choose the right bed probe for you.
 - Breakout board - cheap DIY alternative to toolhead PCB boards using female JST XH connectors and wires directly soldered to them. 5x2pin and 1x3pin
 - Accelerometer mount - it is recommended to use nozzle mounted for your accelerometer but this option is easier/faster to use. It has KUSBA as well as ADXL345 mount pattern.
 
-![](./assets/images/config_layout_4.png)
+![](./assets/images/config/config_accessories.png)
 
 # MODS / UPGRADES
 {: .text-center }
