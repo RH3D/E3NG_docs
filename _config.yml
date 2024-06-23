@@ -19,9 +19,9 @@ callouts:
     color: red
   note:
     title: Note
-    color: grey-dk
-  highlight:
     color: yellow
+  highlight:
+    color: grey-lt
 
 mermaid:
   # Version of mermaid library
