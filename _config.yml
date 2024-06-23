@@ -19,7 +19,7 @@ callouts:
     color: red
   note:
     title: Note
-    color: green
+    color: grey-lt
   highlight:
     color: yellow
 
