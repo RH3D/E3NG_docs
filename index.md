@@ -48,9 +48,10 @@ Of course, you also need aditional parts for the conversion.
 - and more.
 
 CONTINUE TO NEXT SECTION:
-{: .text-center }
+{: .text-right }
 
 [INTO THE PROJECT]{: .btn .fs-7 .text-yellow-300 }
+{: .text-right }
 
 ---
 [INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
