@@ -32,12 +32,10 @@ As a result the project has some options to choose from to suit your preferences
 To view all the options and help with the configuration, head to the [Printer configuration].
 
 continue to:
-{: .text-right .lh-0 }
+{: .text-right .lh-0 .pt-8 }
 
 [PRINTER CONFIGURATION]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
-
-----
 
 [Printables]: https://www.printables.com/en/@radkoko
 [CONFIGURATOR]: https://www.rh3d.xyz
