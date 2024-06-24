@@ -6,6 +6,8 @@ parent: Final steps
 nav_order: 1
 ---
 # PRINTER SETUP AND CALIBRATION
+{: .text-center }
+
 This page is under construction.
 
 continue to:
