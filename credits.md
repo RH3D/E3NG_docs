@@ -1,5 +1,5 @@
 ---
-title: Credits
+title: Credits 📜
 layout: default
 nav_order: 7
 ---
