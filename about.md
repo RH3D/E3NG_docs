@@ -6,7 +6,7 @@ nav_order: 1
 This page is under construction.
 
 # RH3D - what?
-# Background
-# Plans? Other projects?
-# Thank you
+# BACKGROUND
+# PLANS, OTHER PROJECTS?
+# THANK YOU
 You are great
