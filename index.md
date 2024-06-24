@@ -2,7 +2,6 @@
 title: Ender 3 NG
 layout: home
 nav_order: 2
-date: last_modified_date
 ---
 ![](./assets/images/prv2.png)
 
