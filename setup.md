@@ -5,5 +5,13 @@ parent: Final steps
 #has_children: true
 nav_order: 1
 ---
-## TEST
-Printer setup and calibration
+# PRINTER SETUP AND CALIBRATION
+This page is under construction.
+
+continue to:
+{: .text-right .lh-0 .pt-8 }
+
+[PRINTER MAINTENANCE]{: .btn .fs-6 .fw-300 .text-yellow-300 }
+{: .text-right }
+
+[PRINTER MAINTENANCE]: https://rh3d.github.io/E3NG_docs/maintenance.html
