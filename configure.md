@@ -185,8 +185,14 @@ Original Voron design for Auto-Z offset with using "Sexbolt" nozzle endstop.
 
 ![](./assets/images/config/config_auto_z.png)
 
+continue to:
+{: .text-right .lh-0 }
+
+[SOURCING PARTS]{: .btn .fs-6 .text-yellow-300 }
+{: .text-right }
 ---
 [CONFIGURATOR DOWNLOAD]: LINK
 [BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
 [TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
 [MODS / UPGRADES]: https://rh3d.github.io/E3NG_docs/configure.html#mods--upgrades
+[SOURCING PARTS]: https://rh3d.github.io/E3NG_docs/sourcing.html
