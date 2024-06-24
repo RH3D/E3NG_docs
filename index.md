@@ -53,5 +53,4 @@ continue to:
 [INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
 
----
 [INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
