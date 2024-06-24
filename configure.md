@@ -186,7 +186,7 @@ Original Voron design for Auto-Z offset with using "Sexbolt" nozzle endstop.
 ![](./assets/images/config/config_auto_z.png)
 
 continue to:
-{: .text-right .lh-0 }
+{: .text-right .lh-0 .pt-8 }
 
 [SOURCING PARTS]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
