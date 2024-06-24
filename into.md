@@ -15,6 +15,8 @@ Let's start with the important links to get all the files and details you need f
 
 [Join the Discord]{: .btn .text-yellow-200 .v-align-middle } - To search for help, be part of the community and see what others have built.
 
+[Join the Discord]{: .btn .text-yellow-300 .v-align-middle } - To search for help, be part of the community and see what others have built.
+
 [Support my work]{: .btn .v-align-middle } - If you want to directly support the project.
 
 To view some general content about the project, head to main [Instagram] or [YouTube].
