@@ -19,7 +19,8 @@ Requirements to obtain a serial number.
 - The printer must be finished and not look half done even though it is printing fine. No hanging wires and uncovered electronics are allowed.
 - You must upload a video of the printer running where it is well visible and also show that it is actualy printing. Print something at least few centimeters in size.
 
-**Remember, it is not a race to get your serial number as soon as possible but rather an oportunity to present your new and pretty printer and add to the line of other nicely build printers.**
+{: .note }
+Remember, it is not a race to get your serial number as soon as possible but rather an oportunity to present your new and pretty printer and add to the line of other nicely build printers.
 
 # SERIAL NUMBER REQUEST
 {: .text-center }
