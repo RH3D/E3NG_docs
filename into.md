@@ -17,7 +17,7 @@ Let's start with the important links to get all the files and details you need f
 
 [Support my work]{: .btn .text-yellow-300 .v-align-middle } - If you want to directly support the project.
 
-To view some general content about the project, head to main [Instagram] or [YouTube].
+[Instagram]{: .btn .text-yellow-300 .v-align-middle } or [YouTube]{: .btn .text-yellow-300 .v-align-middle } - To view some general content about the project.
 
 It is highly recommended to first start with the stock project and then if you want to, start looking at user mods, but absolutely feel free to choose the path you like the best.
 Most remixes and mods are posted on [Printables remixes] but you will also find other on the Discord server.
