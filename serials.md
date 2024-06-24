@@ -21,15 +21,15 @@ Requirements to obtain a serial number.
 
 **Remember, it is not a race to get your serial number as soon as possible but rather an oportunity to present your new and pretty printer and add to the line of other nicely build printers.**
 
-After your serial number request is succesfully processed, it will be announced on discord channel with provided information and you will be notified, if you are not a member of our Discord server, don't forget to include your e-mail address.
-
 # SERIAL NUMBER REQUEST
 {: .text-center }
 
 To request the serial number, fill the form on the link below:
-{: .text-center .lh-0 .pt-8 }
+{: .text-center .lh-0 }
 
 [REQUEST A SERIAL]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
+
+After your serial number request is succesfully processed, it will be announced on discord channel with provided information and you will be notified, if you are not a member of our Discord server, don't forget to include your e-mail address.
 
 [REQUEST A SERIAL]: https://forms.gle/4JTC2YdJKMqADTAX6
