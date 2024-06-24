@@ -13,7 +13,7 @@ The main list of serial numbers and announcements are hosted on Discord server b
 
 All you have to do is meet the requirements and apply for the serial in the link below.
 
-Requirements to obtain a serial number.
+#### Requirements to obtain a serial number.
 - Majority of the printer must be based on the Ender 3 NG project. Some smaller mods are allowed but the main goal of serial numbers is to participate in the official project path so highly modified printer may not be approved. The main frame and the X, Y and Z motion systems have to be stock or with minor changes, although you can use different toolhead.
 - The printer must be fully functional and tuned to print well without major noticable issues or print quality issues.
 - The printer must be finished and not look half done even though it is printing fine. No hanging wires and uncovered electronics are allowed.
