@@ -8,7 +8,7 @@ nav_order: 1
 
 # PRINTER CONFIGURATION
 {: .text-center }
-[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .text-yellow-300 }
+[CONFIGURATOR.XLSM DOWNLOAD]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
 
 You will be guided through all the steps you will find in the configurator and you will get helpful and detailed information for all the options to help you with starting your project. This will help explaining differences between the options but all the difference in required parts and materials will be in the configurator.
@@ -192,7 +192,7 @@ continue to:
 [SOURCING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[CONFIGURATOR DOWNLOAD]: https://rh3d.github.io/E3NG_docs/configure.html
+[CONFIGURATOR.XLSM DOWNLOAD]: https://rh3d.github.io/E3NG_docs/configure.html
 [BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
 [TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
 [MODS / UPGRADES]: https://rh3d.github.io/E3NG_docs/configure.html#mods--upgrades
