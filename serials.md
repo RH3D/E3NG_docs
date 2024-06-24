@@ -6,6 +6,8 @@ parent: Final steps
 nav_order: 3
 ---
 # SERIAL NUMBERS
+{: .text-center }
+
 Just like many of the other known DIY printers, you can get serial number even for your own Ender 3 NG.
 The main list of serial numbers and announcements are hosted on Discord server but it is not required to join the Discord server.
 
@@ -17,9 +19,17 @@ Requirements to obtain a serial number.
 - The printer must be finished and not look half done even though it is printing fine. No hanging wires and uncovered electronics are allowed.
 - You must upload a video of the printer running where it is well visible and also show that it is actualy printing. Print something at least few centimeters in size.
 
-**Remmember, it is not a race to get your serial number as soon as possible but rather an oportunity to present your new and pretty printer and add to the line of other nicely build printers.**
+**Remember, it is not a race to get your serial number as soon as possible but rather an oportunity to present your new and pretty printer and add to the line of other nicely build printers.**
 
 After your serial number request is succesfully processed, it will be announced on discord channel with provided information and you will be notified, if you are not a member of our Discord server, don't forget to include your e-mail address.
 
 # SERIAL NUMBER REQUEST
+{: .text-center }
+
 To request the serial number, fill the form on the link below:
+{: .text-center .lh-0 .pt-8 }
+
+[REQUEST A SERIAL]{: .btn .fs-6 .fw-300 .text-yellow-300 }
+{: .text-center }
+
+[REQUEST A SERIAL]: https://forms.gle/4JTC2YdJKMqADTAX6
