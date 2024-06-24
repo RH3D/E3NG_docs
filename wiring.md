@@ -5,6 +5,8 @@ parent: Printer electronics
 #nav_order: 1
 ---
 # GENERAL WIRING
+{: .text-center }
+
 This page is under construction.
 
 continue to:
