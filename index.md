@@ -46,3 +46,7 @@ Of course, you also need aditional parts for the conversion.
 - Lasercut metal bed carriage for the best stability.
 - Z axis with printed antiwobble inserts or support for WobbleX.
 - and more.
+
+CONTINUE TO NEXT SECTION:{: .text-right }
+
+[INTO THE PROJECT](https://rh3d.github.io/E3NG_docs/into.html) {: .text-right }
