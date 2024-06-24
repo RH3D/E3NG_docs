@@ -190,7 +190,7 @@ continue to:
 
 [SOURCING PARTS]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
----
+
 [CONFIGURATOR DOWNLOAD]: LINK
 [BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
 [TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
