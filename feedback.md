@@ -13,7 +13,7 @@ If you want to:
 Then please use the contact form in the link below:
 {: .text-center .lh-0 .pt-8 }
 
-[FEEDBACK FORM]{: .btn .fs-6 .text-yellow-300 }
+[FEEDBACK FORM]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
 
 [FEEDBACK FORM]: https://forms.gle/o5UT37fGMugg6jLb9
