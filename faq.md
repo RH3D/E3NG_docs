@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: FAQ ❔❓
 layout: default
 #parent: Into the project
 #has_children: true
