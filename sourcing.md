@@ -9,7 +9,7 @@ nav_order: 2
 Sourcing parts
 
 continue to:
-{: .text-right .lh-0 }
+{: .text-right .lh-0 .pt-8 }
 
 [PRINTING PARTS]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
