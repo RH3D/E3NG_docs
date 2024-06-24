@@ -3,11 +3,14 @@ title: Support my work ❤️
 layout: default
 nav_order: 8
 ---
-Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work, it takes lot of time, effort and requires resources to test and improve the design.
+# SUPPORT MY WORK
+Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work, it takes lot of time, effort and requires resources to test and improve the design and maintain it up to date.
 
-If you decide to support my work and help cover the cost of the project and other future plans, you can use some of the following links. Also using affiliate links in the BOM helps a bit with no added cost to you.
+If you decide to directly support my work and help cover the cost of the project and other future plans, you can use some of the following links.
 
-Thank you a lot!
+You can also do so by using affiliate links in the BOM or through the [feedback] which also helps with no added cost to you.
+
+#### Thank you a lot!
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 'E1E1JZ5FS');kofiwidget2.draw();</script> 
 
@@ -27,3 +30,5 @@ title:'PayPal - The safer, easier way to pay online!',
 }).render('#donate-button');
 </script>
 </div>
+
+[feedback]: https://rh3d.github.io/E3NG_docs/feedback.html
