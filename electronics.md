@@ -4,5 +4,6 @@ layout: default
 has_children: true
 nav_order: 4
 ---
-## TEST
-Electronics setup
+# ELECTRONICS SETUP
+This page is under construction.
+
