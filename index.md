@@ -50,7 +50,7 @@ Of course, you also need aditional parts for the conversion.
 CONTINUE TO NEXT SECTION:
 {: .text-right }
 
-[INTO THE PROJECT]{: .btn .fs-7 .text-yellow-300 }
+[INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
 
 ---
