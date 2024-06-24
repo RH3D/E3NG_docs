@@ -6,6 +6,8 @@ parent: Into the project
 nav_order: 2
 ---
 # SOURCING PARTS
+{: .text-center }
+
 This page is under construction.
 
 continue to:
