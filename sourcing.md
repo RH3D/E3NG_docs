@@ -11,7 +11,7 @@ Sourcing parts
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
-[PRINTING PARTS]{: .btn .fs-6 .text-yellow-300 }
+[PRINTING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
 [PRINTING PARTS]: https://rh3d.github.io/E3NG_docs/printing.html
