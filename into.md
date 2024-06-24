@@ -9,7 +9,7 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables] - To download the STL files. Files there will always be up to date.
+[Printables]{: .btn .v-align-bottom } - To download the STL files. Files there will always be up to date.
 
 [CONFIGURATOR] - To get the Bill of Material, the actual list of printed parts and some other details.
 
