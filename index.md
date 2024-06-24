@@ -48,7 +48,7 @@ Of course, you also need aditional parts for the conversion.
 - and more.
 
 continue to:
-{: .text-right .py-1 }
+{: .text-right .pb-1 }
 
 [INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
