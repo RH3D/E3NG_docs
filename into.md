@@ -34,7 +34,7 @@ To view all the options and help with the configuration, head to the [Printer co
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
-[PRINTER CONFIGURATION]{: .btn .fs-6 .fw-400 .text-yellow-300 }
+[PRINTER CONFIGURATION]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
 [Printables]: https://www.printables.com/en/@radkoko
