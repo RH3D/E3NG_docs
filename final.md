@@ -5,6 +5,8 @@ has_children: true
 nav_order: 5
 ---
 # E3NG FINAL SETUP
+{: .text-center }
+
 This page is under construction.
 
 continue to:
