@@ -5,6 +5,8 @@ has_children: true
 nav_order: 4
 ---
 # PRINTER ELECTRONICS
+{: .text-center }
+
 This page is under construction.
 
 continue to:
