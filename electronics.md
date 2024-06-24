@@ -4,7 +4,7 @@ layout: default
 has_children: true
 nav_order: 4
 ---
-# ELECTRONICS SETUP
+# PRINTER ELECTRONICS
 This page is under construction.
 
 continue to:
