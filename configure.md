@@ -8,12 +8,12 @@ nav_order: 1
 
 # PRINTER CONFIGURATION
 {: .text-center }
-[CONFIGURATOR.xlsm DOWNLOAD]{: .btn .fs-6 .fw-300 .text-yellow-300 }
+[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
 
 You will be guided through all the steps you will find in the configurator and you will get helpful and detailed information for all the options to help you with starting your project. This will help explaining differences between the options but all the difference in required parts and materials will be in the configurator.
 
-Configurator is an interactive spreadsheet that will, based on your setup, calculate the right quantities in the Bill of Material, will show you the right parts you need to print and will also show you estimated cost of the BOM and amount of filament needed.
+Configurator is an interactive spreadsheet that will, based on your setup, automatically calculate the right quantities in the Bill of Material, will show you the right parts you need to print and will also show you estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide the unused parts so with them the chart is much clearer and easy to look through but the macros are not neccessary to run if you are afraid.
 
 It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
 
@@ -192,7 +192,7 @@ continue to:
 [SOURCING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[CONFIGURATOR.xlsm DOWNLOAD]: https://rh3d.github.io/E3NG_docs/configure.html
+[CONFIGURATOR DOWNLOAD]: https://rh3d.github.io/E3NG_docs/configure.html
 [BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
 [TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
 [MODS / UPGRADES]: https://rh3d.github.io/E3NG_docs/configure.html#mods--upgrades
