@@ -4,6 +4,8 @@ layout: default
 nav_order: 9
 ---
 # FEEDBACK
+{: .text-center }
+
 If you want to:
 - give any feedback on the project or related things.
 - help sorting out issues that you have found.
