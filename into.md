@@ -11,7 +11,9 @@ Let's start with the important links to get all the files and details you need f
 
 [Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To download the STL files. Files there will always be up to date.
 
-[CONFIGURATOR]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To get the Bill of Material, the actual list of printed parts and some other details.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To get the Bill of Material, the actual list of printed parts and some other details.
+
+[Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - Under construction.
 
 [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To search for help, be part of the community and see what others have built.
 
@@ -38,7 +40,8 @@ continue to:
 {: .text-right }
 
 [Printables]: https://www.printables.com/en/@radkoko
-[CONFIGURATOR]: https://www.rh3d.xyz
+[Configurator]: https://www.rh3d.xyz
+[Build manual]: https://www.rh3d.xyz
 [Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
 [Instagram]: https://www.instagram.com/RH3D_cz
 [YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
