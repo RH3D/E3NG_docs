@@ -48,7 +48,7 @@ Of course, you also need aditional parts for the conversion.
 - and more.
 
 continue to:
-{: .text-right .lh-0 }
+{: .text-right .lh-0 .pt-4 }
 
 [INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
