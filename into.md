@@ -9,19 +9,15 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables]{: .btn }
-To download the STL files, go to [Printables] page. Files there will always be up to date.
+[Printables]{: .btn } - To download the STL files. Files there will always be up to date.
 
-[CONFIGURATOR]{: .btn }
-To get the Bill of Material, you have to download the [CONFIGURATOR], that will also give you the actual list of printed parts you will need and some other details.
+[CONFIGURATOR]{: .btn } - To get the Bill of Material, it will also give you the actual list of printed parts and some other details.
 
-[Join the Discord]{: .btn }
-To search for help, be part of the community od just chat about the project and see what others have built, [Join the Discord].
+[Join the Discord]{: .btn } - To search for help, be part of the community od just chat about the project and see what others have built.
+
+[Support my work]{: .btn } - If you want to directly support the project.
 
 To view some general content about the project, head to main [Instagram] or [YouTube].
-
-[Support my work]{: .btn }
-If you want to directly support the project, you can choose the platform on the [Support my work] page.
 
 It is highly recommended to first start with the stock project and then if you want to, start looking at user mods, but absolutely feel free to choose the path you like the best.
 Most remixes and mods are posted on [Printables remixes] but you will also find other on the Discord server.
