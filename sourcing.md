@@ -5,8 +5,8 @@ parent: Into the project
 #has_children: true
 nav_order: 2
 ---
-## TEST
-Sourcing parts
+# SOURCING PARTS
+This page is under construction.
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
