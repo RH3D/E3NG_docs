@@ -9,6 +9,7 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
+[Printables]{: .btn .btn-green }
 To download the STL files, go to [Printables] page. Files there will always be up to date.
 
 To get the Bill of Material, you have to download the [CONFIGURATOR], that will also give you the actual list of printed parts you will need and some other details.
