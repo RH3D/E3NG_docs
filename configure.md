@@ -8,7 +8,7 @@ nav_order: 1
 
 # PRINTER CONFIGURATION
 {: .text-center }
-[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .lh-0 .fw-300 .text-yellow-300 }
+[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
 _last updated: 2024.06.24 18:00_{: .fs-2 .fw-300 .text-yellow-100 }
 {: .text-center }
