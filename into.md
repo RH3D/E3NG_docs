@@ -31,6 +31,12 @@ As a result the project has some options to choose from to suit your preferences
 
 To view all the options and help with the configuration, head to the [Printer configuration].
 
+continue to:
+{: .text-right .lh-0 }
+
+[PRINTER CONFIGURATION]{: .btn .fs-6 .text-yellow-300 }
+{: .text-right }
+
 ----
 
 [Printables]: https://www.printables.com/en/@radkoko
