@@ -9,11 +9,11 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables]{: .btn .text-grey-dk-250 .v-align-middle } - To download the STL files. Files there will always be up to date.
+[Printables]{: .btn .text-yellow-000 .v-align-middle } - To download the STL files. Files there will always be up to date.
 
-[CONFIGURATOR]{: .btn .text-grey-dk-200 .v-align-middle } - To get the Bill of Material, the actual list of printed parts and some other details.
+[CONFIGURATOR]{: .btn .text-yellow-100 .v-align-middle } - To get the Bill of Material, the actual list of printed parts and some other details.
 
-[Join the Discord]{: .btn .text-grey-dk-100 .v-align-middle } - To search for help, be part of the community and see what others have built.
+[Join the Discord]{: .btn .text-yellow-200 .v-align-middle } - To search for help, be part of the community and see what others have built.
 
 [Support my work]{: .btn .v-align-middle } - If you want to directly support the project.
 
