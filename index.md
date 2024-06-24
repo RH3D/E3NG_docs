@@ -48,10 +48,10 @@ Of course, you also need aditional parts for the conversion.
 - and more.
 
 continue to:
-{: .text-right }
+{: .text-right .v-align-text-bottom }
 
-[→ INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
+[INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
 
 ---
-[→ INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
+[INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
