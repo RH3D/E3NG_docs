@@ -50,7 +50,7 @@ Of course, you also need aditional parts for the conversion.
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
-[INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
+[INTO THE PROJECT]{: .btn .fw-300 .fs-6 .text-yellow-300 }
 {: .text-right }
 
 [INTO THE PROJECT]: https://rh3d.github.io/E3NG_docs/into.html
