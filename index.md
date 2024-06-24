@@ -47,7 +47,7 @@ Of course, you also need aditional parts for the conversion.
 - Z axis with printed antiwobble inserts or support for WobbleX.
 - and more.
 
-CONTINUE TO NEXT SECTION:
+continue to:
 {: .text-right }
 
 [INTO THE PROJECT]{: .btn .fs-6 .text-yellow-300 }
