@@ -14,6 +14,4 @@ continue to:
 [PRINTING PARTS]{: .btn .fs-6 .text-yellow-300 }
 {: .text-right }
 
----
-
 [PRINTING PARTS]: https://rh3d.github.io/E3NG_docs/printing.html
