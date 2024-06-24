@@ -14,7 +14,7 @@ That is a reason why many want to move forward and the old and simple Ender 3 do
 
 Main goal of this project is to use the old Ender 3, tear it apart and reuse as many stock parts as possible to build something that is on a whole different level and on par with the modern machines you see everywhere now. The new printer must be more reliable, faster, having more great features and capabilities and options for further upgrades (honestly, who coming here with an Ender 3 isn't looking for upgrades?).
 
-It is based on CoreXY motion system, is easy to enclose and you can do a cheap and simple build or you can go crazy and build a real bonkers machine.
+It is based on CoreXY motion system, is easy to enclose and you can do a cheap and simple build or you can go crazy and really step up the performance possibilities, but even the cheap option offers a significant performance boost from your stock Ender 3.
 
 Of course, you also need aditional parts for the conversion.
 # "NG = NEXT GENERATION"
