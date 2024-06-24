@@ -47,9 +47,10 @@ Of course, you also need aditional parts for the conversion.
 - Z axis with printed antiwobble inserts or support for WobbleX.
 - and more.
 
-CONTINUE TO NEXT SECTION:{: .text-center }
+CONTINUE TO NEXT SECTION:
+{: .text-center }
 
-[INTO THE PROJECT]{: .btn .fs-10 .text-yellow-300 .text-center }
+[INTO THE PROJECT]{: .btn .fs-10 .text-yellow-300 }
 
 ---
 [INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
