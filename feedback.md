@@ -1,0 +1,13 @@
+---
+title: Feedback
+layout: default
+nav_order: 9
+---
+# FEEDBACK
+If you want to:
+- give any feedback on the project or related things.
+- help sorting out issues that you have found.
+- help supporting the project by using affiliate links that are not in the BOM.
+- contact RH3D about possible cooperation or want to be selling parts/kits specific to the project.
+
+Then please use the contact form below:
