@@ -9,9 +9,10 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables]{: .btn .v-align-top } test top
+[Printables]{: .btn .v-align-top }
+ test top{: .v-align-top }
 
-[Printables]{: .btn .v-align-middle } test middle
+[Printables]{: .btn .v-align-middle } test middle{: .v-align-middle }
 
 [Printables]{: .btn .v-align-bottom } test bottom
 
