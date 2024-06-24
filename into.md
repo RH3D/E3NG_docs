@@ -9,27 +9,13 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables]{: .btn .v-align-top } test top
-
-[Printables]{: .btn .v-align-middle } test middle
-
-[Printables]{: .btn .v-align-bottom } test bottom
-
-[Printables]{: .btn .v-align-baseline } test baseline
-
-[Printables]{: .btn } test none
-
-[Printables]{: .btn .v-align-text-top } test text top
-
-[Printables]{: .btn .v-align-text-bottom } test text bottom
-
 [Printables]{: .btn .v-align-middle } - To download the STL files. Files there will always be up to date.
 
-[CONFIGURATOR]{: .btn .v-align-text-top } - To get the Bill of Material, the actual list of printed parts and some other details.
+[CONFIGURATOR]{: .btn .v-align-middle } - To get the Bill of Material, the actual list of printed parts and some other details.
 
-[Join the Discord]{: .btn .v-align-text-bottom } - To search for help, be part of the community and see what others have built.
+[Join the Discord]{: .btn .v-align-middle } - To search for help, be part of the community and see what others have built.
 
-[Support my work]{: .btn .v-align-bottom } - If you want to directly support the project.
+[Support my work]{: .btn .v-align-middle } - If you want to directly support the project.
 
 To view some general content about the project, head to main [Instagram] or [YouTube].
 
