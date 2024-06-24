@@ -9,13 +9,13 @@ nav_order: 3
 So you have come all the way here, that probably means you really want to dive into the project.
 Let's start with the important links to get all the files and details you need for the project.
 
-[Printables]{: .btn } - To download the STL files. Files there will always be up to date.
+[Printables] - To download the STL files. Files there will always be up to date.
 
-[CONFIGURATOR]{: .btn } - To get the Bill of Material, it will also give you the actual list of printed parts and some other details.
+[CONFIGURATOR] - To get the Bill of Material, the actual list of printed parts and some other details.
 
-[Join the Discord]{: .btn } - To search for help, be part of the community od just chat about the project and see what others have built.
+[Join the Discord] - To search for help, be part of the community and see what others have built.
 
-[Support my work]{: .btn } - If you want to directly support the project.
+[Support my work] - If you want to directly support the project.
 
 To view some general content about the project, head to main [Instagram] or [YouTube].
 
