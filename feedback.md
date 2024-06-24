@@ -1,5 +1,5 @@
 ---
-title: Feedback
+title: Feedback ✉️
 layout: default
 nav_order: 9
 ---
