@@ -35,9 +35,9 @@ This is highly dependent on the choices you make during the printer configuratio
 #### HOW MUCH FILAMENT DO I NEED?
 This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the [CONFIGURATOR] will again automatically calculate how much filament you will need.
 
-PS, you can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.
+PS You can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.
 
-PPS: It is always good to expect some failed prints and have extra filament.
+PPS It is always good to expect some failed prints and have extra filament.
 
 #### WHAT TYPE OF FILAMENT SHOULD I USE?
 For filament recommendations and print instructions, look at the [PRINTING PARTS].
