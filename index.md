@@ -49,4 +49,7 @@ Of course, you also need aditional parts for the conversion.
 
 CONTINUE TO NEXT SECTION:{: .text-center }
 
-[INTO THE PROJECT](https://rh3d.github.io/E3NG_docs/into.html) {: .btn .fs-10 .text-yellow-300 .text-center }
+[INTO THE PROJECT]{: .btn .fs-10 .text-yellow-300 .text-center }
+
+---
+[INTO THE PROJECT]: (https://rh3d.github.io/E3NG_docs/into.html)
