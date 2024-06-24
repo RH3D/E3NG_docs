@@ -6,4 +6,6 @@ parent: Printer electronics
 #nav_order: 1
 ---
 # MARLIN FW
+{: .text-center }
+
 This page is under construction.
