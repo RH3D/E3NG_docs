@@ -194,8 +194,8 @@ continue to:
 [SOURCING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[CONFIGURATOR DOWNLOAD]: https://rh3d.github.io/E3NG_docs/configure.html
-[BASE BUILD]: https://rh3d.github.io/E3NG_docs/configure.html#base-build
-[TOOLHEAD]: https://rh3d.github.io/E3NG_docs/configure.html#toolhead
-[MODS / UPGRADES]: https://rh3d.github.io/E3NG_docs/configure.html#mods--upgrades
-[SOURCING PARTS]: https://rh3d.github.io/E3NG_docs/sourcing.html
+[CONFIGURATOR DOWNLOAD]: https://rh3d.xyz/configure.html
+[BASE BUILD]: https://rh3d.xyz/configure.html#base-build
+[TOOLHEAD]: https://rh3d.xyz/configure.html#toolhead
+[MODS / UPGRADES]: https://rh3d.xyz/configure.html#mods--upgrades
+[SOURCING PARTS]: https://rh3d.xyz/sourcing.html
