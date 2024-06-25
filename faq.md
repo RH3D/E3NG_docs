@@ -58,10 +58,10 @@ I think both firmwares are very similar in the daily use capabilities, both supp
 #### WILL I DESTROY MY ENDER 3?
 No, this conversion will improve your Ender 3 in probably every way. If you decide to convert it just make sure and check at least twice that you have everything ready and that you understand what you are going to do. If you still decide that you liked your Ender 3 more than Ender 3 NG don't worry, the project is designed so that you don't make any changes to the printer parts that would prevent you from rebuilding back to Ender 3.
 
-[Ender 3 NG]: https://rh3d.github.io/E3NG_docs/
-[Into the project]: https://rh3d.github.io/E3NG_docs/into.html
+[Ender 3 NG]: https://rh3d.xyz/
+[Into the project]: https://rh3d.xyz/into.html
 [join the Discord]: https://discord.com/invite/Zkvu6uu2AR
-[Printables]: https://www.printables.com/en/model/469280
+[Printables]: https://www.printables.com/en/model/922401
 [Ko-Fi]: https://ko-fi.com/rh3dcz
-[CONFIGURATOR]: https://rh3d.github.io/E3NG_docs/into.html
-[PRINTING PARTS]: https://rh3d.github.io/E3NG_docs/printing.html
+[CONFIGURATOR]: https://rh3d.xyz/configure.html
+[PRINTING PARTS]: https://rh3d.xyz/printing.html
