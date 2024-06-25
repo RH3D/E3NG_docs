@@ -15,4 +15,4 @@ continue to:
 [GENERAL WIRING]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[GENERAL WIRING]: https://rh3d.github.io/E3NG_docs/wiring.html
+[GENERAL WIRING]: https://rh3d.xyz/wiring.html
