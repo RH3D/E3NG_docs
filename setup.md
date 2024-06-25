@@ -16,4 +16,4 @@ continue to:
 [PRINTER MAINTENANCE]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[PRINTER MAINTENANCE]: https://rh3d.github.io/E3NG_docs/maintenance.html
+[PRINTER MAINTENANCE]: https://rh3d.xyz/maintenance.html
