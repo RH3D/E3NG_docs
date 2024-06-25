@@ -34,4 +34,4 @@ title:'PayPal - The safer, easier way to pay online!',
 </script>
 </div>
 
-[feedback]: https://rh3d.github.io/E3NG_docs/feedback.html
+[feedback]: https://rh3d.xyz/feedback.html
