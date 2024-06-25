@@ -22,7 +22,7 @@ Let's start with the important links to get all the files and details you need f
 [Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle } or [YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To view some general content about the project.
 
 It is highly recommended to first start with the stock project and then if you want to, start looking at user mods, but absolutely feel free to choose the path you like the best.
-Most remixes and mods are posted on [Printables remixes] but you will also find other on the Discord server.
+Most remixes and mods are posted on [Printables remixes] but you will also find other on the Discord server. There are also many [remixes for the beta] version and majority of them will still be compatible.
 
 # PROJECT OPTIONS
 {: .text-center }
@@ -39,12 +39,13 @@ continue to:
 [PRINTER CONFIGURATION]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[Printables]: https://www.printables.com/en/@radkoko
-[Configurator]: https://www.rh3d.xyz
+[Printables]: https://www.printables.com/en/model/922401
+[Configurator]: https://rh3d.xyz/configure.html
 [Build manual]: https://www.rh3d.xyz
 [Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
 [Instagram]: https://www.instagram.com/RH3D_cz
 [YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
-[Support my work]: https://rh3d.github.io/E3NG_docs/donate.html
-[Printables remixes]: https://www.printables.com/en/model/469280-ender-3-ng-corexy-beta/remixes
-[Printer configuration]: https://rh3d.github.io/E3NG_docs/configure.html
+[Support my work]: https://rh3d.xyz/donate.html
+[Printables remixes]: https://www.printables.com/en/model/922401/remixes
+[Printer configuration]: https://rh3d.xyz/configure.html
+[remixes for the beta]: https://www.printables.com/en/model/469280/remixes
