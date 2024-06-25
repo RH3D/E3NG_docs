@@ -18,5 +18,5 @@ continue to:
 [MARLIN FW]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[KLIPPER FW]: https://rh3d.github.io/E3NG_docs/klipper.html
-[MARLIN FW]: https://rh3d.github.io/E3NG_docs/marlin.html
+[KLIPPER FW]: https://rh3d.xyz/klipper.html
+[MARLIN FW]: https://rh3d.xyz/marlin.html
