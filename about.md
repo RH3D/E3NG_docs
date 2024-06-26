@@ -8,7 +8,6 @@ This page is under construction.
 # RH3D - what?
 {: .text-center }
 
-
 # BACKGROUND
 {: .text-center }
 
