@@ -3,7 +3,7 @@ title: Ender 3 NG
 layout: home
 nav_order: 2
 ---
-![](./assets/images/prv2.png)
+![](./assets/images/gallery.png)
 
 # ENDER 3 NG
 {: .text-center }
