@@ -17,13 +17,16 @@ PERFORMANCE
 
 <details>
     <summary> #### click me </summary>
-    Text you want to expand or collide
+    #### Text you want to expand or collide
 </details>
 
 <details>
-    <summary> PRINTER MAINTENANCE {: .fs-6 .fw-300 .text-yellow-300 } </summary>
+    <summary> PRINTER MAINTENANCE </summary>
     Text you want to expand or collide
 </details>
+{: .fs-6 .fw-300 .text-yellow-300 }
+
+PRINTER MAINTENANCE {: .fs-6 .fw-300 .text-yellow-300 }
 
 This page is under construction.
 
