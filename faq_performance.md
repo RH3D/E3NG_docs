@@ -18,7 +18,7 @@ PERFORMANCE
 #### click me
 
 <details>
-    <summary><h4 style="display:block"> click me </h4></summary>
+    <summary><h4 style="display:inline-block; margin-left:10"> click me </h4></summary>
     Text you want to expand or collide
 </details>
 
