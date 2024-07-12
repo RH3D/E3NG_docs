@@ -20,8 +20,14 @@ PERFORMANCE
     Text you want to expand or collide
 </details>
 
+#### <quick>
+    <summary> click me </summary>
+    Text you want to expand or collide
+</details>
+
 <details>
     <summary> PRINTER MAINTENANCE </summary>
+
     
     Text you want to expand or collide
 </details>
