@@ -12,15 +12,15 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
-The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
-I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and <a href="https://rh3d.xyz/into.html">Into the project</a> and if you want to get even deeper and be part of the community, <a href="https://discord.com/invite/Zkvu6uu2AR">join the Discord</a>.
-Main STL files ready to print are hosted on <a href="https://www.printables.com/en/model/922401">Printables</a>.
+The main crossroad for the project is this website, where you will find all the important information and links to build the printer.<br>
+I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and <a href="https://rh3d.xyz/into.html">Into the project</a> and if you want to get even deeper and be part of the community, <a href="https://discord.com/invite/Zkvu6uu2AR">join the Discord</a>.<br>
+Main STL files ready to print are hosted on <a href="https://www.printables.com/en/model/922401">Printables</a>.<br>
 CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THERE A BUILD MANUAL/INSTRUCTIONS? </h4></summary>
-There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well. <br>
+There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well.<br>
 Build manual for the NG v1.2 is not existent but will be made.
 </details>
 
@@ -46,9 +46,9 @@ This is highly dependent on the choices you make during the printer configuratio
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> HOW MUCH FILAMENT DO I NEED? </h4></summary>
-This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> will again automatically calculate how much filament you will need.
+This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> will again automatically calculate how much filament you will need.<br>
 
-PS You can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.
+PS You can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.<br>
 
 PPS It is always good to expect some failed prints and have extra filament.
 </details>
@@ -60,14 +60,14 @@ For filament recommendations and print instructions, look at the <a href="https:
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHY DOES THE PROJECT USE LINEAR RODS AND NOT LINEAR RAILS? </h4></summary>
-Linear rods were chosen as a cheaper and more accessible option. They are also very reliable, tested and proven to work very well.
+Linear rods were chosen as a cheaper and more accessible option. They are also very reliable, tested and proven to work very well.<br>
 
 Me and some community members (mainly Mr. Puffington - thanks!) have been testing the performance of linear rods and compared to linear rail setup (user mod based on Voron Trident gantry), version with linear rods has been supperior allowing higher accelerations with clean input shaper results.
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT FIRMWARES DOES THE PROJECT SUPPORT? </h4></summary>
-The project natively supports both Marlin and Klipper but nothing is stopping you from using other FW.
+The project natively supports both Marlin and Klipper but nothing is stopping you from using other FW.<br>
 
 The board compatibility will also be getting wider.
 </details>
@@ -91,8 +91,8 @@ This is hugely dependent on the quality and precision of your build, used parts 
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CAN I SEE THE INPUT SHAPER GRAPHS? </h4></summary>
-Similarly to the previous question, the IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.
-    1. With printed frame verticals, no enclosure.
+Similarly to the previous question, the IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.<br>
+    1. With printed frame verticals, no enclosure.<br>
     2. With ultimate frame and enclosure (4mm panels + 5mm door).
 </details>
 
