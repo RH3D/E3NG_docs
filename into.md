@@ -6,8 +6,7 @@ nav_order: 3
 ---
 # INTO THE PROJECT
 {: .text-center }
-So you have come all the way here, that probably means you really want to dive into the project.
-Let's start with the important links to get all the files and details you need for the project.
+Below you will find all the important links to get all the files and details needed for the project.
 
 [Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To download the STL files. Files there will always be up to date.
 
