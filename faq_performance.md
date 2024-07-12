@@ -22,6 +22,7 @@ PERFORMANCE
 
 <details>
     <summary> PRINTER MAINTENANCE </summary>
+    
     Text you want to expand or collide
 </details>
 {: .fs-6 .fw-300 .text-yellow-300 }
