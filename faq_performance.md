@@ -15,9 +15,9 @@ PERFORMANCE
     Text you want to expand or collide
 </details>
 
-<details>
-    <summary> #### click me </summary>
-    #### Text you want to expand or collide
+#### <details>
+    <summary> click me </summary>
+    Text you want to expand or collide
 </details>
 
 <details>
