@@ -2,11 +2,13 @@
 title: FAQ
 layout: default
 #parent: Into the project
-has_children: true
+#has_children: true
 nav_order: 6
 ---
 # FREQUENTLY ASKED QUESTIONS
 {: .text-center }
+
+## GENERAL
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
@@ -79,6 +81,10 @@ I think both firmwares are very similar in the daily use capabilities, both supp
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WILL I DESTROY MY ENDER 3? </h4></summary>
 No, this conversion will improve your Ender 3 in probably every way. If you decide to convert it just make sure and check at least twice that you have everything ready and that you understand what you are going to do. If you still decide that you liked your Ender 3 more than Ender 3 NG don't worry, the project is designed so that you don't make any changes to the printer parts that would prevent you from rebuilding back to Ender 3.
 </details>
+
+## PERFORMANCE
+
+## MECHANICAL
 
 [Ender 3 NG]: https://rh3d.xyz/
 [Into the project]: https://rh3d.xyz/into.html
