@@ -8,7 +8,7 @@ nav_order: 6
 # FREQUENTLY ASKED QUESTIONS
 {: .text-center }
 
-## GENERAL
+### GENERAL
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
