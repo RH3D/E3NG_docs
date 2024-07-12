@@ -20,10 +20,8 @@ CAD files are currently available through a small donation on <a href="https://k
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THERE A BUILD MANUAL/INSTRUCTIONS? </h4></summary>
- <div style="white-space: pre">
-    There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well.
-    Build manual for the NG v1.2 is not existent but will be made.
- </div>
+There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well. <br>
+Build manual for the NG v1.2 is not existent but will be made.
 </details>
 
 <details>
