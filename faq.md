@@ -84,6 +84,18 @@ No, this conversion will improve your Ender 3 in probably every way. If you deci
 
 ### PERFORMANCE
 
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT SPEEDS AND ACCELERATIONS CAN I EXPECT FROM THIS BUILD? </h4></summary>
+This is hugely dependent on the quality and precision of your build, used parts and the final tuning you will perform. Usually well build and well tuned printers are capable of printing at around 300-400 mm/s and 10-15K mm/s2 with still pretty good quality. That is about as fast as you can get with the stock creality stepper motors.
+</details>
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> CAN I SEE THE INPUT SHAPER GRAPHS? </h4></summary>
+Similarly to the previous question, the IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.
+    1. With printed frame verticals, no enclosure.
+    2. With ultimate frame and enclosure (4mm panels + 5mm door).
+</details>
+
 ### MECHANICAL
 
 [Ender 3 NG]: https://rh3d.xyz/
