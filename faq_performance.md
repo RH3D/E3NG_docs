@@ -1,5 +1,5 @@
 ---
-title: FAQ performance
+title: performance
 layout: default
 parent: FAQ
 #has_children: true
@@ -9,6 +9,11 @@ nav_order: 1
 {: .text-center }
 PERFORMANCE
 {: .text-center }
+
+<details>
+    <summary> click me </summary>
+    Text you want to expand or collide
+</details>
 
 This page is under construction.
 
