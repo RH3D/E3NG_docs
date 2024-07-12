@@ -2,7 +2,7 @@
 title: FAQ
 layout: default
 #parent: Into the project
-#has_children: true
+has_children: true
 nav_order: 6
 ---
 # FREQUENTLY ASKED QUESTIONS
