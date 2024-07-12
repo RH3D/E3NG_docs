@@ -26,6 +26,7 @@ nav_order: 6
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THE PROJECT FREE? </h4></summary>
 <p>The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.</p>
+<p>It is released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>.</p>
 </details>
 
 <details>
