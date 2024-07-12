@@ -11,15 +11,15 @@ nav_order: 6
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
 The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
-I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and [Into the project] and if you want to get even deeper and be part of the community, [join the Discord].
+I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and <a href="https://rh3d.xyz/into.html">Into the project</a> and if you want to get even deeper and be part of the community, <a href="https://discord.com/invite/Zkvu6uu2AR">join the Discord</a>.
 
-Main STL files ready to print are hosted on [Printables].
+Main STL files ready to print are hosted on <a href="https://www.printables.com/en/model/922401">Printables</a>.
 
-CAD files are currently available through small donation on [Ko-Fi].
+CAD files are currently available through small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.
 </details>
 
 #### IS THERE A BUILD MANUAL/INSTRUCTIONS?
-There is a build manual for the beta version, link is on the [Printables] page as well.
+There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well.
 
 Build manual for the NG v1.2 is not existent but will be made.
 
@@ -30,20 +30,20 @@ The project is free for personal use and commercial use (print farms, content ma
 STL files for printing all the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS. In the future, the BUILD MANUAL will also be included.
 
 #### CAN I GET THE CAD FILES?
-As mentioned in the first answer, CAD files are currently available through a small donation on [Ko-Fi].
+As mentioned in the first answer, CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.
 
 #### HOW MUCH DOES THE CONVERSION COST?
-This is highly dependent on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the [CONFIGURATOR] and set your preferred setup, it will automatically calculate the estimated price.
+This is highly dependent on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> and set your preferred setup, it will automatically calculate the estimated price.
 
 #### HOW MUCH FILAMENT DO I NEED?
-This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the [CONFIGURATOR] will again automatically calculate how much filament you will need.
+This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> will again automatically calculate how much filament you will need.
 
 PS You can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.
 
 PPS It is always good to expect some failed prints and have extra filament.
 
 #### WHAT TYPE OF FILAMENT SHOULD I USE?
-For filament recommendations and print instructions, look at the [PRINTING PARTS].
+For filament recommendations and print instructions, look at the <a href="https://rh3d.xyz/printing.html">PRINTING PARTS</a>.
 
 #### WHY DOES THE PROJECT USE LINEAR RODS AND NOT LINEAR RAILS?
 Linear rods were chosen as a cheaper and more accessible option. They are also very reliable, tested and proven to work very well.
