@@ -7,13 +7,15 @@ nav_order: 6
 ---
 # FREQUENTLY ASKED QUESTIONS
 {: .text-center }
-#### WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS?
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
 The main crossroad for the project is this website, where you will find all the important information and links to build the printer.
 I would recommend reading through the entire website starting with [Ender 3 NG] and [Into the project] and if you want to get even deeper and be part of the community, [join the Discord].
 
 Main STL files ready to print are on hosted on [Printables].
 
 CAD files are currently available through small donation on [Ko-Fi].
+</details>
 
 #### IS THERE A BUILD MANUAL/INSTRUCTIONS?
 There is a build manual for the beta version, link is on the [Printables] page as well.
