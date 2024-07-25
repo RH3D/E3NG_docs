@@ -7,10 +7,10 @@ nav_order: 9
 {: .text-center }
 
 If you want to:
-- give any feedback on the project or related things.
-- help sorting out issues that you have found.
-- help supporting the project by using affiliate links that are not in the BOM.
-- contact RH3D about possible cooperation or want to be selling parts/kits specific to the project.
+- Give any feedback on the project or related things.
+- Help sorting out issues you have found.
+- Help supporting the project by using affiliate links that are not in the BOM.
+- Contact RH3D about a possible cooperation or want to be selling parts/kits specific to the project.
 
 Please use the form in the link below:
 {: .text-center .lh-1 .pt-8 }
