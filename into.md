@@ -16,7 +16,7 @@ Below you will find all the important links to get all the files and details nee
 
 [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - To search for help, be part of the community and see what others have built.
 
-[Support my work]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - If you want to directly support the project.
+[Support my work]{: .btn .w-50px .fw-400 .text-yellow-300 .v-align-middle } - If you want to directly support the project.
 
 [Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle } or [YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - To view some general content about the project.
 
