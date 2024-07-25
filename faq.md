@@ -42,7 +42,7 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CAN I GET THE CAD FILES? </h4></summary>
-<p>As mentioned in the first answer, CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.</p>
+<p>CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.</p>
 </details>
 
 <details>
