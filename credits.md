@@ -13,6 +13,7 @@ nav_order: 7
 - Creality3D
 - [Discovery Sky]
 - Fushi Bearings
+
 ---
 Projects that are used (remixed) in the E3NG.
 - [WobbleX] by MirageC
