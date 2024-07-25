@@ -9,14 +9,11 @@ nav_order: 7
 - to everyone who decides to give support / donates to the project.
 - to all our Discord members for creating an awesome place to chat and for helping each other.
 - to everyone who decides building the printer and contributes to the world of E3NG.
-
-  
 - Bigtreetech
 - Creality3D
 - [Discovery Sky]
 - Fushi Bearings
-
-
+---
 Projects that are used (remixed) in the E3NG.
 - [WobbleX] by MirageC
 - [Klicky probe] by jlas
