@@ -8,11 +8,11 @@ nav_order: 3
 {: .text-center }
 Below you will find all the important links to get all the files and details needed for the project.
 
-[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download the STL files. Files there will always be up to date.
+[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .d-flex } - Download the STL files. Files there will always be up to date.
 
-[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Get the Bill of Material, the actual list of printed parts and some other details.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .d-inline } - Get the Bill of Material, the actual list of printed parts and some other details.
 
-[Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Under construction.
+[Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .d-inline-block } - Under construction.
 
 [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-4 } - To search for help, be part of the community and see what others have built.
 
