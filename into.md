@@ -10,7 +10,7 @@ Below you will find all the important links to get all the files and details nee
 
 [Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-6 .pl-6 } - Download the STL files. Files there will always be up to date.
 
-[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Get the Bill of Material, the actual list of printed parts and some other details.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-6 .pl-6 } - Get the Bill of Material, the actual list of printed parts and some other details.
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Under construction.
 
