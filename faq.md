@@ -18,6 +18,11 @@ nav_order: 6
 </details>
 
 <details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE IS THE BOM / BILL OF MATERIAL? </h4></summary>
+<p>This project uses a <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a>, which includes the BOM and other necessary things.</p>
+</details>
+
+<details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THERE A BUILD MANUAL/INSTRUCTIONS? </h4></summary>
 <p>There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well.</p>
 <p>Build manual for the NG v1.2 is not existent but will be made.</p>
