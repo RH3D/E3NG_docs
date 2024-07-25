@@ -6,11 +6,11 @@ nav_order: 8
 # SUPPORT MY WORK
 {: .text-center }
 
-Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work, it takes lot of time, effort and requires resources to test and improve the design and maintain it up to date.
+Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work, it takes lot of time, effort and requires resources to test and improve the design and maintain it up to date. Without a support, it wouldn't be possible.
 
-If you decide to directly support my work and help cover the cost of the project and other future plans, you can use some of the following links.
+If you decide to directly donate and support my work to help cover the cost of the project and other future plans, you can use some of the following links.
 
-You can also do so by using affiliate links in the BOM or through the [feedback] which also helps with no added cost to you.
+You can also do so by using affiliate links in the BOM or ask for a custom affiliate link through the [feedback] which also helps with no added cost to you.
 
 #### Thank you a lot!
 {: .text-center }
