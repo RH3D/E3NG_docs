@@ -20,9 +20,9 @@ The Configurator will, based on your setup, automatically calculate the right qu
 
 BOM also includes links to buy parts - all links are affiliate and help by a small amount to the project with no added cost to you.
 
-The default values are the recommended ones - those were chosen for good balance between the price and performance.
+The default values are the recommended ones and were chosen for good balance between the price and performance.
 
-The configurator is divided into three sections:
+The configuration is divided into three sections:
 
 [BASE BUILD]
 
