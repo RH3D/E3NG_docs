@@ -6,13 +6,13 @@ nav_order: 7
 # THANK YOU
 {: .text-center }
 
-- to everyone who decides to give support / donate to the project.
-- to all our Discord members for creating the awesome space to chat and get help.
+- to everyone who decides to give support / donates to the project.
+- to all our Discord members for creating an awesome place to chat about the project and for helping each other.
 - to everyone who decides to build the printer and contribute to the world of E3NG.
-
-- BigTreeTech
+---
+- Bigtreetech
 - Creality3D
-- Discovery Sky
+- [Discovery Sky]
 - Fushi Bearings
 
 Projects that are used (remixed) in the E3NG.
@@ -28,3 +28,5 @@ Projects that are used (remixed) in the E3NG.
 - Rolohaun3D for the idea of using linear rods as a load bearing part of the frame.
 
 - HevORT, VzBot, eddietheengineer, Voron, Prusa3D for their dedication to research in 3D printing.
+
+[Discovery Sky](https://github.com/markniu)
