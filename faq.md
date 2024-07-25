@@ -53,9 +53,9 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> HOW MUCH FILAMENT DO I NEED? </h4></summary>
-<p>This is the same case as the cost - the amount of filament needed is highly dependent on your choices but the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> will again automatically calculate how much filament you will need.</p>
-<p>PS You can change the M (main) or A (accent) color in the chart to modify your color setup and see the changes.</p>
-<p>PPS It is always good to expect some failed prints and have extra filament.</p>
+<p>How much filament you need is highly dependent on your choices but the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> will automatically calculate the necessary amount.</p>
+<p>PS You can change the M (main) or A (accent) color in the BOM to modify your color setup and see the changes.</p>
+<p>PPS It is always good to expect failed prints and have extra filament.</p>
 </details>
 
 <details>
