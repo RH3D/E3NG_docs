@@ -12,7 +12,7 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE DO I START? WHERE DO I FIND ALL THE IMPORTANT INFORMATIONS, FILES AND DOCUMENTS? </h4></summary>
-<p>The main crossroad for the project is this website, where you will find all the important information and links to build the printer. I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and <a href="https://rh3d.xyz/into.html">Into the project</a> and if you want to get even deeper and be part of the community, <a href="https://discord.com/invite/Zkvu6uu2AR">join the Discord</a>.</p>
+<p>The main crossroad for the project is this website, where you will find all the important information and links to build the printer. I would recommend reading through the entire website starting with <a href="https://rh3d.xyz/">E3NG</a> and <a href="https://rh3d.xyz/into.html">Into the project</a>. If you want to get even deeper and be part of the community, <a href="https://discord.com/invite/Zkvu6uu2AR">join the Discord</a>.</p>
 <p>Main STL files ready to print are hosted on <a href="https://www.printables.com/en/model/922401">Printables</a>.</p>
 <p>CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.</p>
 </details>
@@ -24,7 +24,7 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THERE A BUILD MANUAL/INSTRUCTIONS? </h4></summary>
-<p>There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page as well.</p>
+<p>There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page.</p>
 <p>Build manual for the NG v1.2 is not existent but will be made.</p>
 </details>
 
