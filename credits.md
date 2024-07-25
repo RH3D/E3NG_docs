@@ -7,8 +7,8 @@ nav_order: 7
 {: .text-center }
 
 - to everyone who decides to give support / donates to the project.
-- to all our Discord members for creating an awesome place to chat about the project and for helping each other.
-- to everyone who decides to build the printer and contribute to the world of E3NG.
+- to all our Discord members for creating an awesome place to chat and for helping each other.
+- to everyone who decides building the printer and contributes to the world of E3NG.
 
 - Bigtreetech
 - Creality3D
