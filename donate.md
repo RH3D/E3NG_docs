@@ -18,9 +18,9 @@ You can also do so by using affiliate links in the BOM or ask for a custom affil
 {: .text-center }
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 'E1E1JZ5FS');kofiwidget2.draw();</script> 
+{: .text-center }
 
-
-<div id="donate-button-container"; style="margin:auto; display:block; float:none">
+<div id="donate-button-container">
 <div id="donate-button"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
 <script>
@@ -35,5 +35,6 @@ title:'PayPal - The safer, easier way to pay online!',
 }).render('#donate-button');
 </script>
 </div>
+{: .text-center }
 
 [feedback]: https://rh3d.xyz/feedback.html
