@@ -39,7 +39,7 @@ All the pictures bellow are higher resolution, so you can zoom in or right click
 {: .text-center }
 
 #### BASE PRINTER
-Natively supported and tested printers for the conversion. Compatibility with other printers will be verified and tested over time so if you decide to use a different one for the conversion and want to help with the implementation, please give me feedback. There are also dimensions for the aluminium extrusions in the BOM, so you can check the compatibility yourself or even build the printer from scratch.
+Supported and tested printers for the conversion. Compatibility with other printers will be verified and tested over time so if you decide to use a different one for the conversion and want to help with the implementation, please give me feedback. There are also dimensions for the aluminium extrusions in the BOM, so you can check the compatibility yourself or even build the printer from scratch.
 - Creality Ender 3 - has 2040 x 330 mm extrusion for Y axis - printed spacer is used.
 - Creality Ender 3 Pro - default, has 4040 x 350 mm extrusion for Y axis.
 - Creality Ender 3 V2 - some have shorter 4040 extrusion for Y axis - printed spacer is used.
