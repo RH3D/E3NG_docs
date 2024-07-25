@@ -16,11 +16,10 @@ nav_order: 7
 - Fushi Bearings
 
 Projects that are used (remixed) in the E3NG.
-- WobbleX by MirageC
-- Klicky probe
-- KlickyPCB dock by
-- Raspberry pi fan mount by
-- M4 Extruder by Voron Design
+- WobbleX by [MirageC]
+- Klicky probe by [jlas]
+- KlickyPCB dock by [SP1986]
+- M4 Extruder by [VoronDesign]
 - Sherpa mini and Sherpa micro by Annex Engineering
 - ProtoXtruder and ProtoXtruder 2.0 vy xxxxxx
 - HextrudOrt by MirageC and VzHextrudOrt by Vez3D
@@ -29,4 +28,8 @@ Projects that are used (remixed) in the E3NG.
 
 - HevORT, VzBot, eddietheengineer, Voron, Prusa3D for their dedication to research in 3D printing.
 
-[Discovery Sky](https://github.com/markniu)
+[Discovery Sky]: https://github.com/markniu
+[MirageC]: https://github.com/MirageC79/Interfaces-for-WobbleX-integration
+[jlas]: https://github.com/jlas1/Klicky-Probe
+[SP1986]: https://www.teamfdm.com/files/file/729-pcb_klicky_mount/
+[VoronDesign]: https://github.com/VoronDesign/Mobius-Extruder
