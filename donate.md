@@ -21,7 +21,7 @@ You can also do so by using affiliate links in the BOM or ask for a custom affil
 
 
 <div id="donate-button-container">
-<div id="donate-button"; style=margin:auto></div>
+<div id="donate-button"; style="margin:auto"></div>
 <script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
 <script>
 PayPal.Donation.Button({
