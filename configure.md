@@ -15,12 +15,13 @@ _last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
 
 *You will be guided through all the steps from the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their affect on the BOM or required parts will show in the configurator file.*
 
-CONFIGURATOR is an all in one interactive spreadsheet that includes Configurator, Bill of material, Printed parts and list of verified/approved kits.
-The Configurator will, based on your setup, automatically calculate the right quantities in the Bill of Material, show you the right parts to print and even the estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide unused parts to better organise the table but they are not neccessary to run if you have concerns.
-
-BOM also includes links to buy parts - all links are affiliate and help by a small amount to the project with no added cost to you.
-
-The default values are the recommended ones and were chosen for good balance between the price and performance.
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT IS THE CONFIGURATOR, HOW DOES IT WORK? </h4></summary>
+<p>CONFIGURATOR is an all in one interactive spreadsheet that includes Configurator, Bill of material, Printed parts and list of verified/approved kits.
+The Configurator will, based on your setup, automatically calculate the right quantities in the Bill of Material, show you the right parts to print and even the estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide unused parts to better organise the table but they are not neccessary to run if you have concerns.</p>
+<p>BOM also includes links to buy parts - all links are affiliate and help by a small amount to the project with no added cost to you.</p>
+<p>The default values are the recommended ones and were chosen for good balance between the price and performance.</p>
+</details>
 
 The configuration is divided into three sections:
 {: .text-center }
