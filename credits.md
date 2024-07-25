@@ -16,20 +16,33 @@ nav_order: 7
 - Fushi Bearings
 
 Projects that are used (remixed) in the E3NG.
-- WobbleX by [MirageC]
-- Klicky probe by [jlas]
-- KlickyPCB dock by [SP1986]
-- M4 Extruder by [VoronDesign]
-- Sherpa mini and Sherpa micro by Annex Engineering
-- ProtoXtruder and ProtoXtruder 2.0 vy xxxxxx
-- HextrudOrt by MirageC and VzHextrudOrt by Vez3D
-- Hummingbird by
-- Rolohaun3D for the idea of using linear rods as a load bearing part of the frame.
+- [WobbleX] by MirageC
+- [Klicky probe] by jlas
+- [KlickyPCB dock] by SP1986
+- [M4 Extruder] by VoronDesign
+- [Sherpa mini] and [Sherpa micro] by Annex Engineering
+- [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
+- [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
+- [Rolohaun3D] for the inspiration of using linear rods as a load bearing part of the frame.
 
-- HevORT, VzBot, eddietheengineer, Voron, Prusa3D for their dedication to research in 3D printing.
+- [MirageC], [Vez3D], [eddietheengineer], [VoronDesign], [Prusa3D] and many others for their dedication to research in 3D printing.
 
 [Discovery Sky]: https://github.com/markniu
-[MirageC]: https://github.com/MirageC79/Interfaces-for-WobbleX-integration
-[jlas]: https://github.com/jlas1/Klicky-Probe
-[SP1986]: https://www.teamfdm.com/files/file/729-pcb_klicky_mount/
-[VoronDesign]: https://github.com/VoronDesign/Mobius-Extruder
+[WobbleX]: https://github.com/MirageC79/Interfaces-for-WobbleX-integration
+[Klicky probe]: https://github.com/jlas1/Klicky-Probe
+[KlickyPCB dock]: https://www.teamfdm.com/files/file/729-pcb_klicky_mount/
+[M4 Extruder]: https://github.com/VoronDesign/Mobius-Extruder
+[Sherpa mini]: https://github.com/Annex-Engineering/Sherpa_Mini-Extruder/
+[Sherpa micro]: https://github.com/Annex-Engineering/Sherpa_Micro-Extruder
+[HextrudORT]: https://github.com/MirageC79/HextrudORT
+[Vz-HextrudORT]: https://github.com/VzBoT3D/Vz-HextrudORT
+[ProtoXtruder]: https://www.printables.com/cs/model/436425-protoxtruder
+[ProtoXtruder 2.0]: https://www.printables.com/cs/model/822947-protoxtruder-20
+[Hummingbird extruder]: https://www.printables.com/cs/model/367706-hummingbird-extruder
+[Rolohaun3D]: https://github.com/rolohaun/Rook-180
+
+[MirageC]: https://www.youtube.com/@MirageC
+[Vez3D]: https://www.youtube.com/@Vez3D
+[eddietheengineer]: https://www.youtube.com/@eddietheengineer
+[VoronDesign]: https://github.com/VoronDesign
+[Prusa3D]: https://github.com/prusa3d
