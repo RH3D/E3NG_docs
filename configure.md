@@ -25,10 +25,11 @@ The default values are the recommended ones and were chosen for good balance bet
 The configuration is divided into three sections:
 
 [BASE BUILD]
-
+{: .text-center }
 [TOOLHEAD]
-
+{: .text-center }
 [MODS / UPGRADES]
+{: .text-center }
 
 {: .note }
 All the pictures bellow are higher resolution, so you can right click - Open image in new tab/window - to view it in more detail.
