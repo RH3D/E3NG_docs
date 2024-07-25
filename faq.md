@@ -72,9 +72,9 @@ nav_order: 6
 </details>
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT FIRMWARES DOES THE PROJECT SUPPORT? </h4></summary>
-<p>The project natively supports both Marlin and Klipper but nothing is stopping you from using other FW.</p>
-<p>The board compatibility will also be getting wider.</p>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT FIRMWARE DOES THE PROJECT SUPPORT? </h4></summary>
+<p>The project supports both Marlin and Klipper for selected boards, although the board compatibility will be getting wider.</p>
+<p>Thanks to the use of DIN rails and the option to install universal cooling for the electronics, it is easy to install almost every board you can think of.</p>
 </details>
 
 <details>
