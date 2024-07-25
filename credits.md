@@ -24,7 +24,7 @@ Projects used (remixed) in the E3NG.
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
 
   
-- [Rolohaun3D] for the inspiration of using linear rods as a load bearing part of the frame.
+- [Rolohaun3D] for the inspiration of using linear rods as a structural part of the frame.
 - [MirageC], [Vez3D], [eddietheengineer], [VoronDesign], [Prusa3D] and many others for their dedication to research in 3D printing.
 
 [Discovery Sky]: https://github.com/markniu
