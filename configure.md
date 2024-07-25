@@ -25,9 +25,9 @@ The Configurator will, based on your setup, automatically calculate the right qu
 
 The configuration is divided into three sections:
 
-[BASE BUILD]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 }
-[TOOLHEAD]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 }
-[MODS / UPGRADES]{: .btn .fs-4 .fw-300 .text-yellow-300 }
+[BASE BUILD]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-6 }
+[TOOLHEAD]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-6 }
+[MODS / UPGRADES]{: .btn .fs-5 .fw-300 .text-yellow-300 }
 {: .text-center }
 
 {: .note }
