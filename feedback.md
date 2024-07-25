@@ -18,4 +18,6 @@ Then please use the contact form in the link below:
 [FEEDBACK FORM]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeCF5nFl6-nCHq0bmyJtXvXtZRy99HmWLhWjlfGZtP3Uil4A/viewform?embedded=true" width="640" height="1079" frameborder="0" marginheight="0" marginwidth="0">Načítání…</iframe>
+
 [FEEDBACK FORM]: https://forms.gle/o5UT37fGMugg6jLb9
