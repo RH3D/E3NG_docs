@@ -10,9 +10,9 @@ Ender 3 NG will always be free to use, but developing a project of this size, va
 
 With your support, you are helping to keep the project alive, maintained and growing as well as opening the possibility for other future projects.
 
-If you decide to directly donate and support my work, you can use some of the following links.
+If you decide to directly donate and support my work, you can use some of the links below.
 
-You can also do so by using affiliate links in the BOM or ask for a custom affiliate link through the [feedback] which also helps with no added cost to you.
+You can also use affiliate links in the BOM or ask for a custom affiliate link through the [feedback] which also helps with no added cost to you.
 
 #### Thank you a lot!
 {: .text-center }
