@@ -14,7 +14,7 @@ Below you will find all the important links to get all the files and details nee
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Under construction.
 
-[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-5 } - To search for help, be part of the community and see what others have built.
+[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-4 } - To search for help, be part of the community and see what others have built.
 
 [Support my work]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - If you want to directly support the project.
 
