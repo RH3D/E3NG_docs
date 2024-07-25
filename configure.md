@@ -33,7 +33,7 @@ The configuration is divided into three sections:
 {: .text-center }
 
 {: .note }
-All the pictures bellow are higher resolution, so you can right click - Open image in new tab/window - to view it in more detail.
+All the pictures bellow are higher resolution, so you can zoom in or right click - Open image in new tab/window - to view it in more detail.
 
 # BASE BUILD
 {: .text-center }
