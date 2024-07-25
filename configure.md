@@ -13,11 +13,11 @@ nav_order: 1
 _last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
-You will be guided through all the steps you will find in the configurator and you will get helpful and detailed information for all the options to help you with starting your project. This will help explaining differences between the options but all the difference in required parts and materials will be in the configurator.
+You will be guided through all the steps you can find in the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their affect on the BOM or required parts will show in the configurator file.
 
-Configurator is an interactive spreadsheet that will, based on your setup, automatically calculate the right quantities in the Bill of Material, will show you the right parts you need to print and will also show you estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide the unused parts so with them the chart is much clearer and easy to look through but the macros are not neccessary to run if you have concerns.
+CONFIGURATOR is an all in one interactive spreadsheet that includes Configurator, Bill of material, Printed parts and list of verified/approved kits. The Configurator will, based on your setup, automatically calculate the right quantities in the Bill of Material, will show you the right parts you need to print and will also show you the estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide unused parts so with them the chart is much clearer and easy to look through but the macros are not neccessary to run if you have concerns.
 
-It also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
+BOM also includes links to buy the parts - all links are affiliate that help with a small amount to the project with no added cost to you.
 
 Recommended options are marked in the setup - those are chosen for good balance between the price and performance.
 
