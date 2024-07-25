@@ -14,10 +14,10 @@ If you want to:
 
 Then please use the form in the link below:
 {: .text-center .lh-0 .pt-8 }
-*Created with Google Forms.*
-{: .text-center }
 
 [FEEDBACK FORM]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-center }
+*Created with Google Forms.*
+{: .text-center .fs-3 .mt-0 .fw-300 }
 
 [FEEDBACK FORM]: https://forms.gle/o5UT37fGMugg6jLb9
