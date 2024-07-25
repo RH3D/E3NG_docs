@@ -8,7 +8,7 @@ nav_order: 3
 {: .text-center }
 Below you will find all the important links to get all the files and details needed for the project.
 
-[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7.5 } - Download the STL files. Files there will always be up to date.
+[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download the STL files. Files there will always be up to date.
 
 [Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Get the Bill of Material, the actual list of printed parts and some other details.
 
