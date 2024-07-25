@@ -6,7 +6,9 @@ nav_order: 8
 # SUPPORT MY WORK
 {: .text-center }
 
-Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work, it takes lot of time, effort and requires resources to test and improve the design and maintain it up to date. Without a support, it wouldn't be possible.
+Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work. It takes lot of time, effort and requires resources to test and improve the design and maintain it up to date.
+
+With your support, you are helping to keep the project alive, maintained and growing as well as opening the possibility for other future projects.
 
 If you decide to directly donate and support my work to help cover the cost of the project and other future plans, you can use some of the following links.
 
