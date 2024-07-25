@@ -23,7 +23,7 @@ BOM also includes links to buy parts - all links are affiliate and help by a sma
 The default values are the recommended ones and were chosen for good balance between the price and performance.
 
 The configuration is divided into three sections:
-
+{: .text-center }
 [BASE BUILD]
 {: .text-center }
 [TOOLHEAD]
