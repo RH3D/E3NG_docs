@@ -19,7 +19,7 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHERE IS THE BOM / BILL OF MATERIAL? </h4></summary>
-<p>This project uses a <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a>, which includes the BOM and other necessary things.</p>
+<p>This project is using the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a>, which includes the BOM and other necessary things.</p>
 </details>
 
 <details>
