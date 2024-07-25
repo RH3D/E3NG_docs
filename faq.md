@@ -25,13 +25,14 @@ nav_order: 6
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THERE A BUILD MANUAL/INSTRUCTIONS? </h4></summary>
 <p>There is a build manual for the beta version, link is on the <a href="https://www.printables.com/en/model/922401">Printables</a> page.</p>
-<p>Build manual for the NG v1.2 is not existent but will be made.</p>
+<p>Build manual for the E3 NG v1.2 is currently not existent but will be made.</p>
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> IS THE PROJECT FREE? </h4></summary>
-<p>The project is free for personal use and commercial use (print farms, content making, presentational purposes) but it is not allowed to sell the project parts or assembly kits without a permission.</p>
+<p>The project is free for personal use and for use in a commercial environment (print farms, content making, presentational purposes) but it is not allowed to sell the project parts, files or assembly kits without a permission.</p>
 <p>It is released under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0 license</a>.</p>
+<p>If you wish to sell kits or parts for the project, feel free to contact me through the <a href="https://rh3d.xyz/feedback.html">feedback</a>.</p>
 </details>
 
 <details>
