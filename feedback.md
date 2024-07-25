@@ -12,8 +12,6 @@ If you want to:
 - help supporting the project by using affiliate links that are not in the BOM.
 - contact RH3D about possible cooperation or want to be selling parts/kits specific to the project.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfeCF5nFl6-nCHq0bmyJtXvXtZRy99HmWLhWjlfGZtP3Uil4A/viewform?embedded=true" width="640" height="720" frameborder="0" marginheight="0" marginwidth="0">Načítání…</iframe>
-
 Then please use the contact form in the link below:
 {: .text-center .lh-0 .pt-8 }
 
