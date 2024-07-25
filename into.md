@@ -12,7 +12,7 @@ Below you will find all the important links to get all the files and details nee
 
 [Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-5 } - Get the Bill of Material, the actual list of printed parts and some other details.
 
-[Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .d-block .w-200px } - Under construction.
+[Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .d-block .w-20px } - Under construction.
 
 [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-2 .pl-2 } - To search for help, be part of the community and see what others have built.
 
