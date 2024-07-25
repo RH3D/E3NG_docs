@@ -61,7 +61,7 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT TYPE OF FILAMENT SHOULD I USE? </h4></summary>
-<p>For filament recommendations and print instructions, look at the <a href="https://rh3d.xyz/printing.html">PRINTING PARTS</a>.</p>
+<p>For filament recommendations and print instructions, look at <a href="https://rh3d.xyz/printing.html">PRINTING PARTS</a>.</p>
 </details>
 
 <details>
