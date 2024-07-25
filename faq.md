@@ -37,7 +37,8 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT DOES THE FREE PART OF THE PROJECT INCLUDE? </h4></summary>
-<p>STL files for printing all the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS. In the future, the BUILD MANUAL will also be included.</p>
+<p>STL files for printing all the parts, CONFIGURATOR with BILL OF MATERIAL and PRINTED PARTS.</p>
+<p>In the future, the BUILD MANUAL will also be included.</p>
 </details>
 
 <details>
