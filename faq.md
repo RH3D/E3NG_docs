@@ -79,24 +79,24 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> SHOULD I CHOOSE MARLIN OR KLIPPER? </h4></summary>
-<p>I think both firmwares are very similar in the daily use capabilities, both support latest and high end features. Marlin benefits from running on a single board with a display controller that makes it a simple and solid setup with no added costs while Klipper supports more detailed tuning and with the added SBC it has more capabilities in printing faster. It is also simpler to reconfigure your printer without need to reflash the firmware, although Marlin has a lot of variables that can be changed after flashing the FW.</p>
+<p>I think both firmwares are very similar in the daily use capabilities, both support the latest and high end features. Marlin benefits from running on a single board with a display controller that makes it a simple and solid setup with no added costs while Klipper supports more detailed tuning and with the added SBC it has more power to print faster. It is also simpler to reconfigure your printer without need to reflash the firmware, although Marlin has a lot of variables that can be changed without reflashing the FW.</p>
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WILL I DESTROY MY ENDER 3? </h4></summary>
-<p>No, this conversion will improve your Ender 3 in probably every way. If you decide to convert it just make sure and check at least twice that you have everything ready and that you understand what you are going to do. If you still decide that you liked your Ender 3 more than Ender 3 NG don't worry, the project is designed so that you don't make any changes to the printer parts that would prevent you from rebuilding back to Ender 3.</p>
+<p>No, this conversion will improve your Ender 3 in probably every way. If you decide to convert it just make sure and check at least twice that you have everything ready and that you understand what you are going to do. If you still decide that you liked your Ender 3 more than the Ender 3 NG, don't worry, the project is designed so that you don't make any changes to the original parts that would prevent you from rebuilding back to Ender 3.</p>
 </details>
 
 ### PERFORMANCE
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT SPEEDS AND ACCELERATIONS CAN I EXPECT FROM THIS BUILD? </h4></summary>
-<p>This is hugely dependent on the quality and precision of your build, used parts and the final tuning you will perform. Usually well build and well tuned printers are capable of printing at around 300-400 mm/s and 10-15K mm/s2 with still pretty good quality. That is about as fast as you can get with the stock creality stepper motors.</p>
+<p>This is hugely dependent on the quality and precision of your build, used parts and the final tuning you will perform. Usually well build and well tuned printers are capable of printing at around 300-400 mm/s and 10-15K mm/s2 with pretty good quality. That is about as fast as you can get with the stock creality stepper motors.</p>
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CAN I SEE THE INPUT SHAPER GRAPHS? </h4></summary>
-<p>Similarly to the previous question, the IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.</p>
+<p>The IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.</p>
 <p>    1. With printed frame verticals, no enclosure.</p>
 <p>    2. With ultimate frame and enclosure (4mm panels + 5mm door).</p>
 </details>
