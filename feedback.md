@@ -12,7 +12,9 @@ If you want to:
 - help supporting the project by using affiliate links that are not in the BOM.
 - contact RH3D about possible cooperation or want to be selling parts/kits specific to the project.
 
-Then please use the contact form in the link below:
+Then please use the form in the link below:
+{: .text-center }
+*Created with Google Forms.*
 {: .text-center .lh-0 .pt-8 }
 
 [FEEDBACK FORM]{: .btn .fs-6 .fw-300 .text-yellow-300 }
