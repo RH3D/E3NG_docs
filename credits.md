@@ -23,7 +23,7 @@ Projects used (remixed) in the E3NG.
 - [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
 
-  
+others  
 - [Rolohaun3D] for the inspiration of using linear rods as a structural part of the frame.
 - [MirageC], [Vez3D], [eddietheengineer], [VoronDesign], [Prusa3D] and many others for their dedication to research in 3D printing.
 
