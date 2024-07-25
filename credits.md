@@ -12,7 +12,7 @@ nav_order: 7
 - Bigtreetech
 - Creality3D
 - [Discovery Sky]
-- Fushi Bearings
+//- Fushi Bearings
 
 ---
 Projects that are used (remixed) in the E3NG.
