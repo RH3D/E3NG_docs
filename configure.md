@@ -24,7 +24,7 @@ The Configurator will, based on your setup, automatically calculate the right qu
 </details>
 
 The configuration is divided into three sections:
-{: .text-center }
+
 [BASE BUILD]
 {: .text-center }
 [TOOLHEAD]
