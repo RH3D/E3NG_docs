@@ -43,12 +43,12 @@ nav_order: 6
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CAN I GET THE CAD FILES? </h4></summary>
-<p>CAD files are currently available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.</p>
+<p>Currently, CAD files are only available through a small donation on <a href="https://ko-fi.com/rh3dcz">Ko-Fi</a>.</p>
 </details>
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> HOW MUCH DOES THE CONVERSION COST? </h4></summary>
-<p>This is highly dependent on the choices you make during the printer configuration and build. For the best idea, it is recommend to open the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> and set your preferred setup, it will automatically calculate the estimated price.</p>
+<p>This is highly dependent on the choices you make while configuring your printer. For the best idea, it is recommend to open the <a href="https://rh3d.xyz/configure.html">CONFIGURATOR</a> and set your preferred setup, it will automatically calculate the estimated price.</p>
 <p> For the cheapest setup, the conversion price with BOM recommended parts can be around $ 240 (not incl. the filament price and the base printer).</p>
 </details>
 
