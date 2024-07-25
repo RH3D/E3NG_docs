@@ -67,7 +67,8 @@ nav_order: 6
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHY DOES THE PROJECT USE LINEAR RODS AND NOT LINEAR RAILS? </h4></summary>
 <p>Linear rods were chosen as a cheaper and more accessible option. They are also very reliable, tested and proven to work very well.</p>
-<p>Me and some community members (mainly Mr. Puffington - thanks!) have been testing the performance of linear rods and compared to linear rail setup (user mod based on Voron Trident gantry), version with linear rods has been supperior allowing higher accelerations with clean input shaper results.</p>
+<p>Me and some community members (mainly Mr. Puffington - thanks!) have been testing the performance of linear rods and compared to linear rail setup (user mod based on Voron Trident gantry), version with linear rods has been superior allowing higher accelerations with clean input shaper results.</p>
+<p>There might be some changes or more options in the future though.</p>
 </details>
 
 <details>
