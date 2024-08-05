@@ -9,5 +9,5 @@ nav_order: 1
 
 # Precautions
 {: .text-center }
-#### ABS/ASA
-This is the most recommended and best choice material for the printed parts.
+#### DISCLAIMER
+While this project has been 
