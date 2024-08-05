@@ -22,7 +22,6 @@ Projects used (remixed) in the E3NG.
 - [Sherpa mini] and [Sherpa micro] by Annex Engineering
 - [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
-
 - [Klipper] and [Marlin]
 
 And others.
