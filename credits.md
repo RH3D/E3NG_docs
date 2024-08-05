@@ -23,6 +23,8 @@ Projects used (remixed) in the E3NG.
 - [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
 
+- [Klipper] and [Marlin] - awesome and free firmwares
+
 And others.
 - [Rolohaun3D] for the inspiration of using linear rods as a structural part of the frame.
 - [MirageC], [Vez3D], [eddietheengineer], [VoronDesign], [Prusa3D] and many others for their dedication to research in 3D printing.
@@ -39,6 +41,8 @@ And others.
 [ProtoXtruder]: https://www.printables.com/cs/model/436425-protoxtruder
 [ProtoXtruder 2.0]: https://www.printables.com/cs/model/822947-protoxtruder-20
 [Hummingbird extruder]: https://www.printables.com/cs/model/367706-hummingbird-extruder
+[Klipper]: https://www.klipper3d.org/
+[Marlin]: https://marlinfw.org/
 [Rolohaun3D]: https://github.com/rolohaun/Rook-180
 
 [MirageC]: https://www.youtube.com/@MirageC
