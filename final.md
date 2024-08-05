@@ -2,7 +2,7 @@
 title: Final steps
 layout: default
 has_children: true
-nav_order: 5
+nav_order: 6
 ---
 # E3NG FINAL SETUP
 {: .text-center }
