@@ -20,9 +20,11 @@ Projects used (remixed) in the E3NG.
 - [KlickyPCB dock] by SP1986
 - [M4 Extruder] by VoronDesign
 - [Sherpa mini] and [Sherpa micro] by Annex Engineering
-- [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
+- [HextrudORT] by MirageC
+- [Vz-HextrudORT] by Vez3D
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
-- [Klipper] and [Marlin]
+- [Klipper]
+- [Marlin]
 
 And others.
 - [Rolohaun3D] for the inspiration of using linear rods as a structural part of the frame.
