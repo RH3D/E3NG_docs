@@ -1,12 +1,12 @@
 ---
-title: Warnings and issues
+title: Precautions
 layout: default
 parent: Printer configuration
 #has_children: true
-#nav_order: 3
+nav_order: 1
 ---
 
-# WARNINGS
+# Precautions
 {: .text-center }
 #### ABS/ASA
 This is the most recommended and best choice material for the printed parts.
