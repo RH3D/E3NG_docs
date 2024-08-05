@@ -23,7 +23,7 @@ Projects used (remixed) in the E3NG.
 - [HextrudORT] by MirageC and [Vz-HextrudORT] by Vez3D
 - [ProtoXtruder], [ProtoXtruder 2.0] and [Hummingbird extruder] by nhchiu
 
-- [Klipper] and [Marlin] - awesome and free firmwares
+- [Klipper] and [Marlin]
 
 And others.
 - [Rolohaun3D] for the inspiration of using linear rods as a structural part of the frame.
