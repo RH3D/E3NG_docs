@@ -2,6 +2,7 @@
 title: Precautions
 layout: default
 parent: Printer configuration
+grand_parent: Into the build
 #has_children: true
 nav_order: 1
 ---
