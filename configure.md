@@ -65,6 +65,11 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 2x12 mm rod - legacy version - simple setup that works well enough if your leadscrews are not extremely bent, it also saves few dollars.
 - 3x12 mm rod - RECOMMENDED - uses linear rod at the rear leadscrew, makes the bed carriage more stable. This is required if you plan to use tilting bed _(once it is released)_.
 
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF"> TIP </h4></summary>
+<p>For 3x12 mm rod option, the rear rod is 320 mm long to preserve the toolhead motion over the entire area. While this is not a common size, the BOM lists some options but if you cannot buy 320 mm version and you are unable to cut a 350 mm rod, the design also allows to use 300 mm rod but then it is only sunk in by 7,5 mm on each side. While this will still work, I recommend using a 320 mm option for better reliability.</p>
+</details>
+
 ![](./assets/images/config/config_z_rod.png)
 
 #### BED CARRIAGE
