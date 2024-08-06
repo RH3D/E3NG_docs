@@ -65,28 +65,4 @@ To follow the main/recommended color scheme, look at the PRINTED PARTS list in t
 
 If you are installing LED lights, there are also diffusers that need to be printed with clean/transparent filament.
 
-# ABS PRINTING TIPS
-{: .text-center }
-ABS/ASA is the best choice for the build, but it is a material, that is not easy to print on an openframe bedslingers and it
-may be very challenging for many users. Here are some print tips:
-1. Use enclosure! - best and most effective, even if you use some temporary solution to help stabilise the printer
-surrounding and increase the ambient air around.
-2. Use draft shield - without enclosure, draft shield will help to separate the cold fresh air from the part itself. Draft
-shield may help even in enclosure when the air temperature is not as high.
-3. Clean the build plate - my best method is to use the hard side of sponge with warm water and dish soap.
-4. Clamp your build plate - for magnetic flexible build plates. Bigger prints still tend to warp slightly even in enclosure
-unless it is really hot. This may lead to lifting corners of the build plate and thus warped parts. Clamp the
-edges/corners of the build plate to the bed.
-5. Use brim to stick the parts better to the bed.
-6. Less is more - play with the print settings, you may need to decrease the fan speed and/or print speed.
-7. More is more - you may need to increase the hotend temperature to properly melt the filament and get rid of its
-internal tension. You may need to increase the bed temperature for better sticking parts and hotter environment
-for the print.
-8. Use ABS+, ASA or different brand - some filaments are more prone to warping, ASA overall tends to warp less. Do
-your research or testing to find better filament for you that can warp less.
-9. Use adhesive - if your parts still don't stick to the surface, use some kind of bed adhesive suitable for ABS.
-Have a look at the mods and alternative parts, there is option to use aluminium extrusions to avoid printing the
-rear vertical beams. Also there is a mod for using metal bed carriage plate to avoid printing the big center part and
-add stiffness to the bed carriage.
-
 [main site]: https://rh3d.xyz/into.html
