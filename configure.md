@@ -94,7 +94,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000;font-weight:bold"> WARNING! </h4></summary>
 <p>When using a 3 stepper option with a bed carriage that isn't properly designed for tilt, there is a significant chance of excessive load on LM12UU bearings and leadscrews which can result in binding, increased friction and faster wear of components or worse print quality if your bed is not aligned properly.</p>
-<p>If you select this option, be very careful, make sure your bed is aligned well resulting in a minimal tilt and check the function/alignment regularly.</p>
+<p>If you select this option, be very careful, make sure your bed is aligned well resulting in a minimal tilt of the bed carriage (not only the bed plate) and check the function/alignment regularly.</p>
 <p>Do at your own responsibility, you have been warned.</p>
 </details>
 
