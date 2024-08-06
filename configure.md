@@ -55,7 +55,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - Ultimate frame - all you need for the best performance, adds two more extrusions to the front. Requires more driling and tapping.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;weight:900"> TIP </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;font-weight:bold"> TIP </h4></summary>
 <p>For Ultimate frame, you are also buying 300 mm V-slot extrusions which fit into 310 mm space with printed spacers for ease of buying the common size. If you are ordering custom extrusions or cutting them yourself, you can instead use 310 mm extrusions without spacers.</p>
 </details>
 
