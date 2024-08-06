@@ -26,12 +26,14 @@ All STL files are properly oriented for printing. Some parts include built-in su
 Depending on your configuration and print settings (brim, draft, purge line), you may need to print bigger parts that require up to 235x235 mm print area. Default print size for Ender 3 is 220x220 mm but you can set it to 235x235 mm in slicer without issues.
 
 #### RECOMMENDED PRINT SETTINGS:
-- 4 perimeters
-- 5 top and bottom layers
-- 30% infill
-- 0.2 mm layer height
-- 0.45 mm layer width
-- No supports
+<ul>
+<li>4 perimeters</li>
+<li>5 top and bottom layers</li>
+<li>30% infill</li>
+<li>0.2 mm layer height</li>
+<li>0.45 mm layer width</li>
+<li>No supports</li>
+</ul>
 
 # CALIBRATION PRINT AND TOLERANCES
 {: .text-center }
