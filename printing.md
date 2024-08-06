@@ -65,4 +65,11 @@ To follow the main/recommended color scheme, look at the PRINTED PARTS list in t
 
 If you are installing LED lights, there are also diffusers that need to be printed with clean/transparent filament.
 
+continue to:
+{: .text-right .lh-0 .pt-8 }
+
+[BUILD INSTRUCTIONS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
+{: .text-right }
+
 [main site]: https://rh3d.xyz/into.html
+[BUILD INSTRUCTIONS]: https://rh3d.xyz/build_guide.html
