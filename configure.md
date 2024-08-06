@@ -160,6 +160,11 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 - 2 x 5015 - even more air.
 - CPAP - the best choice for extreme cooling and lightweight toolhead, although you can always add auxiliary fans too.
 
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+<p>Because of the 5015 blower fan size, combination with a very short hotend results in a bit more restrictive fan duct design and as a result using 4020 fans might be a better choice. With longer hotends, the 5015 fanduct design is fine.</p>
+</details>
+
 ![](./assets/images/config/config_cooling.png)
 
 #### BED PROBE
