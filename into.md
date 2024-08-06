@@ -16,7 +16,7 @@ Below you will find all the important links to get the files and details needed 
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
 
-[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Be part of the community and join other builders.
+[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Join the community and other builders.
 
 [Support my work]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - Directly support the project / creator.
 
