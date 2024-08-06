@@ -168,15 +168,17 @@ Choose the right bed probe for you.
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE PROBES </h4></summary>
 <p>Listed probes were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used.</p>
-<div>• BDsensor</div>
-<div>• Beacon scanner</div>
-<div>• BIQU microprobe</div>
-<div>• BLTouch</div>
-<div>• BTT Eddy</div>
-<div>• CR Touch</div>
-<div>• Klicky probe</div>
-<div>• KlickyPCB</div>
-<div>• P.I.N.D.A. / SuperPINDA</div>
+<ul>
+<li>BDsensor</li>
+<li>Beacon scanner</li>
+<li>BIQU microprobe</li>
+<li>BLTouch</li>
+<li>BTT Eddy</li>
+<li>CR Touch</li>
+<li>Klicky probe</li>
+<li>KlickyPCB</li>
+<li>P.I.N.D.A. / SuperPINDA</li>
+</ul>
 </details>
 
 <details>
