@@ -13,7 +13,7 @@ nav_order: 1
 _last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
-*You will be guided through all the steps from the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their affect on the BOM or required parts will show in the configurator file.*
+*You will be guided through all the steps in the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their effect on the BOM or required parts will show up in the configurator file.*
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT IS THE CONFIGURATOR, HOW DOES IT WORK? </h4></summary>
