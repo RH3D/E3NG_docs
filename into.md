@@ -10,6 +10,8 @@ Below you will find all the important links to get the files and details needed 
 
 [Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download STL files and see the changelog.
 
+[Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Download E3NG calibration cube.
+
 [Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Get the Bill of Material, list of printed parts and other details.
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
@@ -38,6 +40,7 @@ continue to:
 {: .text-right }
 
 [Printables]: https://www.printables.com/en/model/922401
+[Calibration cube]: https://www.printables.com/en/model/478403
 [Configurator]: https://rh3d.xyz/configure.html
 [Build manual]: https://rh3d.xyz/build_guide.html
 [Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
