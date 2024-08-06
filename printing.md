@@ -10,7 +10,7 @@ nav_order: 3
 {: .text-center }
 
 #### ABS/ASA
-The most recommended and best choice material for printing parts from. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.
+The most recommended and best choice material for printing parts. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.
 
 #### PETG
 Is significantly more flexible which will reduce stiffness of the frame. It has lower temperature resistance so enclosing the printer will get risky as some of the parts will most likely warp. If you do so, try using bed insulation and print at least the toolhead parts from ABS. It helps if you only print lower temperature materials like PLA and PETG.
@@ -19,23 +19,19 @@ Is significantly more flexible which will reduce stiffness of the frame. It has 
 Can be used on an open frame printer but not with an enclosure as the parts will definitely warp. The toolhead and bed
 carriage should still be printer with higher temperature resistant material.
 
-# PRINTING PARTS IN COLOR
-{: .text-center }
-To follow the main/recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked with **A** (accent) or **M** (main) color. But this is your printer, be creative and make your own color scheme and design. You can also change the **A/M** values in the table and see how it changes the amount of filament needed.
-
 # PRINTING PARAMETERS
 {: .text-center }
-All STL files are already properly oriented for printing.
+All STL files are properly oriented for printing. Some parts include built-in supports, you will recognise them with **"X"**.
 
-Some of the printed parts require 235x235 mm print area to fit the build plate. Ender 3 printers offer that but you may
-have to change your built plate size in slicer (including the avoid zones).
+Depending on your configuration and print settings (brim, draft, purge line), you may need to print bigger parts that require up to 235x235 mm print area. Default print size for Ender 3 is 220x220 mm but you can set it to 235x235 mm in slicer without issues.
 
 #### RECOMMENDED PRINT SETTINGS:
 - 4 perimeters
 - 5 top and bottom layers
 - 30% infill
 - 0.2 mm layer height
-- No supports (some of the parts have built-in supports - marked with a cross)
+- 0.45 mm layer width
+- No supports
 
 # CALIBRATION PRINT AND TOLERANCES
 {: .text-center }
@@ -45,6 +41,10 @@ tighter tolerances (.2mm) on important areas like linear rods, this may cause so
 case, you can clear the holes with a 8mm/12mm drill bit or a piece of fine-grit sandpaper on a round stick. Just proceed
 carefully so you don’t enlarge the holes too much as it would lead to inaccuracies.
 Link to the calibration cube is on the first page.
+
+# PRINTING PARTS IN COLOR
+{: .text-center }
+To follow the main/recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked with **A** (accent) or **M** (main) color. But this is your printer, be creative and make your own color scheme and design. You can also change the **A/M** values in the table and see how it changes the amount of filament needed.
 
 # ABS PRINTING TIPS
 {: .text-center }
