@@ -19,8 +19,8 @@ _last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
     <summary><h4 style="display:inline-block;margin-left:1.5em"> WHAT IS THE CONFIGURATOR, HOW DOES IT WORK? </h4></summary>
 <p>CONFIGURATOR is an all in one interactive spreadsheet that includes Configurator, Bill of material, Printed parts and list of verified/approved kits.
 The Configurator will, based on your setup, automatically calculate the right quantities in the Bill of Material, show you the right parts to print and even the estimated cost of the BOM and the amount of filament needed. There are two macros included to show/hide unused parts to better organise the table but they are not neccessary to run if you have concerns.</p>
-<p>BOM also includes links to buy parts - all links are affiliate and help by a small amount to the project with no added cost to you.</p>
-<p>The default values are the recommended ones and were chosen for good balance between the price and performance.</p>
+<p>BOM also includes links to buy parts - links are affiliate and help by a small amount to the project with no added cost to you.</p>
+<p>The default values are the recommended ones for a good price-performance ratio. Of course, otherwise I would recommend to build the best performing version.</p>
 </details>
 
 The configuration is divided into three sections:
