@@ -6,7 +6,7 @@ parent: Into the project
 nav_order: 3
 ---
 
-## MATERIAL SELECTION
+# MATERIAL SELECTION
 {: .text-center }
 
 #### ABS/ASA
@@ -19,7 +19,7 @@ Is significantly more flexible which will reduce stiffness of the frame. It has 
 Can be used on an open frame printer but not with an enclosure as the parts will definitely warp. The toolhead and bed
 carriage should still be printer with higher temperature resistant material.
 
-## PRINTING PARTS IN COLOR
+# PRINTING PARTS IN COLOR
 {: .text-center }
 To follow the main/recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked with A (accent) or M (main) color. But this is your printer, be creative and make your own color scheme and design. You can also change the A/M values in the table and see how it changes the amount of filament needed.
 
