@@ -8,8 +8,12 @@ nav_order: 3
 
 # MATERIAL SELECTION
 {: .text-center }
-#### ABS/ASA
-This is the most recommended and best choice material for the printed parts.
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> ABS/ASA </h4></summary>
+<p>This is the most recommended and best choice material for the printed parts.</p>
+</details>
+
 #### PETG
 Is more flexible which will reduce stiffness of the frame. It has lower temperature resistance so enclosing the printer may
 affect the printer and will most likely lead to some warped parts (toolhead, bed carriage) unless you print at lower
