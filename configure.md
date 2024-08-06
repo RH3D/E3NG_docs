@@ -112,6 +112,37 @@ Toolhead is put together with separate parts for mounting each of the components
 #### HOTEND
 Select the hotend you want to use, it is generaly recommended to use hotend with higher flow.
 
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> COMPATIBLE HOTENDS </h4></summary>
+<p>Listed hotends were directly tested in the CAD design or in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
+<p>BambuLab hotends</p>
+<p>Creality MK8</p>
+<p>Creality Spider V3</p>
+<p>Creality Spider V3 + Volcano nozzle or Meltzone extender</p>
+<p>DropEffect neXtG HF</p>
+<p>DropEffect neXtG UHF</p>
+<p>E3D V6</p>
+<p>E3D V6 Volcano</p>
+<p>E3D Revo Voron</p>
+<p>Goliath air</p>
+<p>Phaetus Dragon SF</p>
+<p>Phaetus Dragon HF</p>
+<p>Phaetus Dragon 2 HF</p>
+<p>Phaetus Dragon 2 UHF</p>
+<p>Phaetus Dragonfly BMS</p>
+<p>Phaetus Rapido (2) HF</p>
+<p>Phaetus Rapido (2) UHF</p>
+<p>TriangleLab ACE</p>
+<p>TriangleLab ACE+</p>
+</details>
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> WARNING </h4></summary>
+<p>Hotends with E3D groove mount heatsink are not generaly recommended with the E3NG toolhead. The reason is the long heatsink which doesn't properly fit and because of it the heatsink cooling is not optimal. I couldn't test it myself yet but i believe it may cause clogs due to heatcreep in some situations.</p>
+<p>If you are willing to test it, please let me know.</p>
+<p>Instead of the E3D groove mount, I recommend using the V6DM heatsink by TriangleLab which is a direct replacement and it uses a 4 screw mount.</p>
+</details>
+
 ![](./assets/images/config/config_hotend.png)
 
 #### EXTRUDER
