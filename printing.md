@@ -14,25 +14,16 @@ The most recommended and best choice material for printing parts. It has great p
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;margin-top:0.4em;color:#0096FF"> ABS PRINTING TIPS </h4></summary>
 <ol style="margin-left:2em;font-size:14px">
-<li>Use enclosure! - best and most effective, even if you use some temporary solution to help stabilise the printer
-surrounding and increase the ambient air around.</li>
-<li>Use draft shield - without enclosure, draft shield will help to separate the cold fresh air from the part itself. Draft
-shield may help even in enclosure when the air temperature is not as high.</li>
-<li>Clean the build plate - my best method is to use the hard side of sponge with warm water and dish soap.</li>
-<li>Clamp your build plate - for magnetic flexible build plates. Bigger prints still tend to warp slightly even in enclosure
-unless it is really hot. This may lead to lifting corners of the build plate and thus warped parts. Clamp the
-edges/corners of the build plate to the bed.</li>
-<li>5. Use brim to stick the parts better to the bed.</li>
-<li>Less is more - play with the print settings, you may need to decrease the fan speed and/or print speed.</li>
-<li>More is more - you may need to increase the hotend temperature to properly melt the filament and get rid of its
-internal tension. You may need to increase the bed temperature for better sticking parts and hotter environment
-for the print.</li>
-<li>Use ABS+, ASA or different brand - some filaments are more prone to warping, ASA overall tends to warp less. Do
-your research or testing to find better filament for you that can warp less.</li>
-<li>Use adhesive - if your parts still don't stick to the surface, use some kind of bed adhesive suitable for ABS.
-Have a look at the mods and alternative parts, there is option to use aluminium extrusions to avoid printing the
-rear vertical beams. Also there is a mod for using metal bed carriage plate to avoid printing the big center part and
-add stiffness to the bed carriage.</li>
+<li>Use enclosure! - the best and the most effective step, even if you use some temporary solution to help eliminating drafts and increasing the ambient air temperature.</li>
+<li>Use draft shield - without enclosure, draft shield will help to separate the cold air from the part itself. Draft shield may help even in enclosure when the air temperature is not high enough.</li>
+<li>Clean the build plate - no alcohol wiping, use warm water with a dish soap and rub the build plate thoroughly. Wash it well too. Using rough side of the sponge helps.</li>
+<li>Clamp your build plate - for magnetic flexible build plates. Your magnet may not be as strong as it used to be and bigger parts can lift the plate corners. Clamp the edges/corners of the build plate to the bed.</li>
+<li>Use brim or mouse ears for better adhesion to the build plate.</li>
+<li>Less is more - play with the print settings, you may need to decrease the fan speed and print speed.</li>
+<li>More is more - try increasing the hotend temperature to properly melt the filament. Try increasing the bed temperature for better sticking parts and hotter environment for the print.</li>
+<li>Use ABS+, ASA or a different brand - some filaments are more prone to warping, ASA overall tends to warp less. Do your research or testing to find better filament for you that could warp less.</li>
+<li>Use adhesive - if your parts still don't stick to the surface, use some kind of bed adhesive suitable for ABS.</li>
+<li>Avoid printing big parts, build the upgraded frame version with 2040 aluminium extrusions, build the "stock E3" or metal bed carriage.</li>
 </ol>
 </details>
 
