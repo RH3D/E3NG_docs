@@ -115,6 +115,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE HOTENDS </h4></summary>
 <p>Listed hotends were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
+<code>
 <div> • BambuLab hotends</div>
 <div> • Creality MK8</div>
 <div> • Creality Spider V3</div>
@@ -134,6 +135,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 <div> • Phaetus Rapido (2) UHF</div>
 <div> • TriangleLab ACE</div>
 <div> • TriangleLab ACE+</div>
+</code>
 </details>
 
 <details>
