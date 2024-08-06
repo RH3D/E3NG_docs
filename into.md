@@ -16,11 +16,11 @@ Below you will find all the important links to get the files and details needed 
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
 
-[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Ask for help, be part of the community and join other builders.
+[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Ask for help, join the community and other builders.
 
 [Support my work]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - Directly support the project / creator.
 
-[Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle } or [YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - Some graphic content about the project.
+[Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle } or [YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } - Graphic content about the project.
 
 It is highly recommended to first start with the stock project so you will follow the clear path, get complete and right instructions and lists and then start modifying with user mods if you want to.
 Most remixes / mods are posted on [Printables remixes] but you will also find other on the Discord server. There are also many [remixes for the beta] version and majority of them will still be compatible.
