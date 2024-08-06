@@ -23,7 +23,7 @@ carriage should still be printer with higher temp resistant material.
 To follow my recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked as A (accent) or M (main) color but
 be creative and make your own scheme and design.
 
-# PRINTING INSTRUCTIONS
+# PRINTING PARAMETERS
 {: .text-center }
 All STL files are already properly oriented for printing.
 
