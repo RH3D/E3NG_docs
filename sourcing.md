@@ -5,9 +5,6 @@ parent: Into the project
 #has_children: true
 nav_order: 2
 ---
-# SOURCING PARTS
-{: .text-center }
-
 You have generaly two options to buy your parts - source them yourself with the help of BOM or buy a kit. Both of them have advantages and disadvantages.
 {: .text-center }
 
