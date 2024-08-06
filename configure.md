@@ -2,7 +2,7 @@
 title: Printer configuration
 layout: default
 parent: Into the project
-has_children: true
+#has_children: true
 nav_order: 1
 ---
 
@@ -114,30 +114,30 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE HOTENDS </h4></summary>
-<p>Listed hotends were directly tested in the CAD design or in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
+<p>Listed hotends were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
 <div> - BambuLab hotends</div>
 <div> - Creality MK8</div>
 <div> - Creality Spider V3</div>
-<p> - Creality Spider V3 + Volcano nozzle or Meltzone extender</p>
-<p> - DropEffect neXtG HF</p>
-<p> - DropEffect neXtG UHF</p>
-<p> - E3D V6</p>
-<p> - E3D V6 Volcano</p>
-<p> - E3D Revo Voron</p>
-<p> - Goliath air</p>
-<p> - Phaetus Dragon SF</p>
-<p> - Phaetus Dragon HF</p>
-<p> - Phaetus Dragon 2 HF</p>
-<p> - Phaetus Dragon 2 UHF</p>
-<p> - Phaetus Dragonfly BMS</p>
-<p> - Phaetus Rapido (2) HF</p>
-<p> - Phaetus Rapido (2) UHF</p>
-<p> - TriangleLab ACE</p>
-<p> - TriangleLab ACE+</p>
+<div> - Creality Spider V3 + Volcano nozzle or Meltzone extender</div>
+<div> - DropEffect neXtG HF</div>
+<div> - DropEffect neXtG UHF</div>
+<div> - E3D V6</div>
+<div> - E3D V6 Volcano</div>
+<div> - E3D Revo Voron</div>
+<div> - Goliath air</div>
+<div> - Phaetus Dragon SF</div>
+<div> - Phaetus Dragon HF</div>
+<div> - Phaetus Dragon 2 HF</div>
+<div> - Phaetus Dragon 2 UHF</div>
+<div> - Phaetus Dragonfly BMS</div>
+<div> - Phaetus Rapido (2) HF</div>
+<div> - Phaetus Rapido (2) UHF</div>
+<div> - TriangleLab ACE</div>
+<div> - TriangleLab ACE+</div>
 </details>
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
 <p>Hotends with E3D groove mount heatsink are not generaly recommended with the E3NG toolhead. The reason is the long heatsink which doesn't properly fit and because of it the heatsink cooling is not optimal. I couldn't test it myself yet but i believe it may cause clogs due to heatcreep in some situations.</p>
 <p>If you are willing to test it, please let me know.</p>
 <p>Instead of the E3D groove mount, I recommend using the V6DM heatsink by TriangleLab which is a direct replacement and it uses a 4 screw mount.</p>
@@ -164,6 +164,26 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 Choose the right bed probe for you.
 - KlickyPCB - RECOMMENDED cheap option with good reliability.
 - BDSensor - RECOMMENDED performance option - it is recommended more than Beacon scanner as it doesn't have the "no metal" zone that is forcing Beacon to be further from the nozzle because of the lower LM8LUU. BDSensor is currently more complicated to install but Klipper integration is in the works.
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE PROBES </h4></summary>
+<p>Listed probes were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used.</p>
+<div> - BDsensor</div>
+<div> - Beacon scanner</div>
+<div> - BIQU microprobe</div>
+<div> - BLTouch</div>
+<div> - BTT Eddy</div>
+<div> - CR Touch</div>
+<div> - Klicky probe</div>
+<div> - KlickyPCB</div>
+<div> - P.I.N.D.A. / SuperPINDA</div>
+</details>
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+<p>When building version with three Z linear rods and using some of the directly mounted probes (BDsensor, Beacon scanner, BTT Eddy, P.I.N.D.A.) with a longer hotend, keep in mind, there can be a conflict between the rear Z rod and the probe. In normal operation it is not an issue becauce it is only a small zone outside the print and homing area but can happen during maintenance or when not set properly.</p>
+<p>Keep this in mind so you don't brake your probe mount or even the probe.</p>
+</details>
 
 ![](./assets/images/config/config_probes.png)
 
