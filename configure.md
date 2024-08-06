@@ -177,10 +177,11 @@ Choose the right bed probe for you.
 <div> - Klicky probe</div>
 <div> - KlickyPCB</div>
 <div> - P.I.N.D.A. / SuperPINDA</div>
-    > bdsensor
-    > beacon
-    > biwu
-    > bltouch
+    
+<li>bdsensor</li>
+<li>beacon</li>
+<li>biwu</li>
+<li>bltouch</li>
 </details>
 
 <details>
