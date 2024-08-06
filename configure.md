@@ -115,7 +115,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE HOTENDS </h4></summary>
 <p>Listed hotends were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
-<ul style="margin-left:1.5em;font-size:14px">
+<ul style="margin-left:2em;font-size:14px">
 <li>BambuLab hotends</li>
 <li>Creality MK8</li>
 <li>Creality Spider V3</li>
@@ -170,7 +170,7 @@ Choose the right bed probe for you.
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE PROBES </h4></summary>
 <p>Listed probes were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used.</p>
-<ul style="margin-left:1.5em;font-size:14px">
+<ul style="margin-left:2em;font-size:14px">
 <li>BDsensor</li>
 <li>Beacon scanner</li>
 <li>BIQU microprobe</li>
