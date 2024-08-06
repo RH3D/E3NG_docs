@@ -21,7 +21,7 @@ carriage should still be printer with higher temperature resistant material.
 
 # PRINTING PARTS IN COLOR
 {: .text-center }
-To follow the main/recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked with A (accent) or M (main) color. But this is your printer, be creative and make your own color scheme and design. You can also change the A/M values in the table and see how it changes the amount of filament needed.
+To follow the main/recommended color scheme, look at the PRINTED PARTS list in the CONFIGURATOR – every file is marked with **A** (accent) or **M** (main) color. But this is your printer, be creative and make your own color scheme and design. You can also change the **A/M** values in the table and see how it changes the amount of filament needed.
 
 # PRINTING PARAMETERS
 {: .text-center }
