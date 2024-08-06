@@ -128,7 +128,7 @@ Currently there are setups for only few motherboards but more will be directly s
 
 # TOOLHEAD
 {: .text-center }
-Toolhead is put together with separate parts for mounting each of the components which makes it super easy to alternate between different type of hardware.
+Toolhead is put together with separate parts for mounting each of the components which makes it super easy to alternate between different types of hardware or doing a maintenance.
 
 ![](./assets/images/config/config_toolhead.png)
 
@@ -171,14 +171,14 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 ![](./assets/images/config/config_hotend.png)
 
 #### EXTRUDER
-- Bowden - adapter plate with different bowden connectors - bowden clip / ECAS04 / M6 thread (used on stock Ender extruder) / 1/8' thread (used on stock Ender hotend) / SpiderV3 coupler / Phaetus groove mount adapter
+- Bowden - adapter plate for different bowden connectors - bowden clip / ECAS04 / M6 thread (used on stock Ender extruder) / 1/8' thread (used on stock Ender hotend) / SpiderV3 coupler / Phaetus groove mount adapter
 - Original design extruders - adapter plates with the most common mounts to fit the majority of direct drive extruders.
 - Integrated - direct drive extruders with integration into the toolhead mount. Makes mounting the extruder more secure and rigid while still being easy to swap.
 
 ![](./assets/images/config/config_extruder.png)
 
 #### PART COOLING
-- 2 x 4010 - RECOMMENDED - compact and solid option with higher RPM fans - good option for most of the users.
+- 2 x 4010 - RECOMMENDED - compact and solid option with higher RPM fans - great option for most of the users.
 - 2 x 4020 - step up in performance from the previous 4010 fans.
 - 2 x 5015 - even more air.
 - CPAP - the best choice for extreme cooling and lightweight toolhead, although you can always add auxiliary fans too.
@@ -263,7 +263,7 @@ For running bed heater cables from your board into the connectors mounted on the
 ![](./assets/images/config/config_bed_wiring.png)
 
 #### UNDER BED FAN
-RECOMMENDED if you install enclosure. Helps circulating the air inside the chamber and heating it faster and more evenly by sucking the warm air from below the heated bed and blowing it at the bottom. It is moving/mixing air in the entire enclosure.
+RECOMMENDED if you install enclosure. Helps circulating the air inside the chamber and heating it faster and more evenly by sucking the warm air from below the heated bed and blowing it down. It also helps moving/mixing air in the entire enclosure making it more evenly heated.
 
 ![](./assets/images/config/config_bed_fan.png)
 
