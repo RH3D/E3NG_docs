@@ -113,10 +113,15 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 ![](./assets/images/config/config_psu.png)
 
 #### BOARD MOUNT
-Currently there are setups for only few motherboards but more will be directly supported in the future. The supported board has DIN rail mount along with cooling fan holder and there is also a FW setup available. But being the boards mounted on DIN rails, it is easy to use any other board. It is also recommended to check the **Optional parts** folder where there are mounts for other electronics commonly used.
+Currently there are setups for only few motherboards but more will be directly supported in the future. The supported board has DIN rail mount along with cooling fan holder and there is also a FW setup available. But being the boards mounted on DIN rails, it is easy to use any other board.
 - BTT SKR mini E3 v2
 - BTT SKR3EZ
 - BTT Octopus
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;font-weight:bold"> TIP </h4></summary>
+<p>Apart from the main board mount you may also need mounts for other electronics. Have a look at EXTRAS folder, there are Raspberry Pi, SSR, 5V PSU and other mounts.</p>
+</details>
 
 ![](./assets/images/config/config_board.png)
 
