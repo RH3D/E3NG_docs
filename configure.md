@@ -66,7 +66,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 3x12 mm rod - RECOMMENDED - uses linear rod at the rear leadscrew, makes the bed carriage more stable. This is required if you plan to use tilting bed _(once it is released)_.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF"> TIP </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;font-weight:bold"> TIP </h4></summary>
 <p>For 3x12 mm rod option, the rear rod is 320 mm long to preserve the toolhead motion over the entire area. While this is not a common size, the BOM lists some options but if you cannot buy 320 mm version and you are unable to cut a 350 mm rod, the design also allows to use 300 mm rod but then it is only sunk in by 7,5 mm on each side. While this will still work, I recommend using a 320 mm option for better reliability.</p>
 </details>
 
@@ -92,7 +92,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 3 steppers - for individualy driven leadscrews and Z-tilt option. This is required if you plan to use tilting bed _(once it is released)_, but currently this option isn't recommended as there is no compliant mechanism in the bed carriage.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000;font-weight:bold"> WARNING! </h4></summary>
 <p>When using a 3 stepper option with a bed carriage that isn't properly designed for tilt, there is a significant chance of excessive load on LM12UU bearings and leadscrews which can result in binding, increased friction and faster wear of components or worse print quality if your bed is not aligned properly.</p>
 <p>If you select this option, be very careful, make sure your bed is aligned well resulting in a minimal tilt and check the function/alignment regularly.</p>
 <p>Do at your own responsibility, you have been warned.</p>
@@ -130,7 +130,7 @@ Toolhead is put together with separate parts for mounting each of the components
 Select the hotend you want to use, it is generaly recommended to use hotend with higher flow.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE HOTENDS </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c;font-weight:bold"> COMPATIBLE HOTENDS </h4></summary>
 <p>Listed hotends were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
 <ul style="margin-left:2em;font-size:14px">
 <li>BambuLab hotends</li>
@@ -156,7 +156,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 </details>
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000;font-weight:bold"> WARNING! </h4></summary>
 <p>Hotends with E3D groove mount heatsink are not generaly recommended with the E3NG toolhead. The reason is the long heatsink which doesn't properly fit and because of it the heatsink cooling is not optimal. I couldn't test it myself yet but i believe it may cause clogs due to heatcreep in some situations.</p>
 <p>If you are willing to test it, please let me know.</p>
 <p>Instead of the E3D groove mount, I recommend using the V6DM heatsink by TriangleLab which is a direct replacement and it uses a 4 screw mount.</p>
@@ -178,7 +178,7 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 - CPAP - the best choice for extreme cooling and lightweight toolhead, although you can always add auxiliary fans too.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000;font-weight:bold"> WARNING! </h4></summary>
 <p>Because of the 5015 blower fan size, combination with a very short hotend results in a bit more restrictive fan duct design and as a result using 4020 fans might be a better choice. With longer hotends, the 5015 fanduct design is fine.</p>
 </details>
 
@@ -190,7 +190,7 @@ Choose the right bed probe for you.
 - BDSensor - RECOMMENDED performance option - it is recommended more than Beacon scanner as it doesn't have the "no metal" zone that is forcing Beacon to be further from the nozzle because of the lower LM8LUU. BDSensor is currently more complicated to install but Klipper integration is in the works.
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE PROBES </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c;font-weight:bold"> COMPATIBLE PROBES </h4></summary>
 <p>Listed probes were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used.</p>
 <ul style="margin-left:2em;font-size:14px">
 <li>BDsensor</li>
@@ -206,7 +206,7 @@ Choose the right bed probe for you.
 </details>
 
 <details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000"> WARNING! </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#FF0000;font-weight:bold"> WARNING! </h4></summary>
 <p>When building version with three Z linear rods and using some of the directly mounted probes (BDsensor, Beacon scanner, BTT Eddy, P.I.N.D.A.) with a longer hotend, keep in mind, there can be a conflict between the rear Z rod and the probe. In normal operation it is not an issue becauce it is only a small zone outside the print and homing area but can happen during maintenance or when not set properly.</p>
 <p>Keep this in mind so you don't brake your probe mount or even the probe.</p>
 </details>
