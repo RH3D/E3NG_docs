@@ -9,21 +9,15 @@ nav_order: 3
 # MATERIAL SELECTION
 {: .text-center }
 
-<details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em"> ABS/ASA </h4></summary>
-<p>The most recommended and best choice material for printing parts from. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.</p>
-</details>
+#### ABS/ASA
+The most recommended and best choice material for printing parts from. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.
 
-<details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em"> PETG </h4></summary>
-<p>Is significantly more flexible which will reduce stiffness of the frame. It has lower temperature resistance so enclosing the printer will get risky as some of the parts will most likely warp. If you do so, try using bed insulation and print at least the toolhead parts from ABS. It helps if you only print lower temperature materials like PLA and PETG.</p>
-</details>
+#### PETG
+Is significantly more flexible which will reduce stiffness of the frame. It has lower temperature resistance so enclosing the printer will get risky as some of the parts will most likely warp. If you do so, try using bed insulation and print at least the toolhead parts from ABS. It helps if you only print lower temperature materials like PLA and PETG.
 
-<details>
-    <summary><h4 style="display:inline-block;margin-left:1.5em"> PLA </h4></summary>
-<p>Can be used on an open frame printer but not with an enclosure as the parts will definitely warp. The toolhead and bed
-carriage should still be printer with higher temperature resistant material.</p>
-</details>
+#### PLA
+Can be used on an open frame printer but not with an enclosure as the parts will definitely warp. The toolhead and bed
+carriage should still be printer with higher temperature resistant material.
 
 # PRINTING PARTS IN COLOR
 {: .text-center }
