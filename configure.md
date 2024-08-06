@@ -8,9 +8,9 @@ nav_order: 1
 
 # PRINTER CONFIGURATION
 {: .text-center }
-[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .pb-0 .text-yellow-300 }
+[CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .mb-0 .text-yellow-300 }
 {: .text-center }
-_last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
+_last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .pt-0 .fw-300 }
 {: .text-center }
 
 *You will be guided through all the steps in the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their effect on the BOM or required parts will show up in the configurator file.*
