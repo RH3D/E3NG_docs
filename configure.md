@@ -51,8 +51,12 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 
 #### FRAME
 - Printed verticals - legacy version where you don't need to buy extra extrusions. Depending on your filament and market prices, it can also be the cheapest option.
-- 2040 update - RECOMMENDED - first stage upgrade with additional alu extrusion. Adds rigidity to the frame.
-- Ulti frame - all you need for the best performance, adds two more extrusions to the front, uses butt joints so it requires more driling and tapping threads.
+- 2040 upgrade - RECOMMENDED - first stage upgrade with additional V-slot extrusion. Adds rigidity to the frame and reduces printing parts. Requires drilling and tapping.
+- Ultimate frame - all you need for the best performance, adds two more extrusions to the front. Requires more driling and tapping.
+
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0000FF"> TIP </h4></summary>
+<p>For Ultimate frame, you are also buying 300 mm V-slot extrusions which fit into 310mm space with printed spacers for ease of buying the common size. If you are ordering custom extrusions or cutting them yourself, you can use 310 mm extrusions instead.</p>
+</details>
 
 ![](./assets/images/config/config_frame.png)
 
@@ -64,7 +68,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 
 #### BED CARRIAGE
 - Printed - although it works, it is not recommended. It is a backup option for people who cannot use one of the others.
-- Stock E3 bed carriage - RECOMMENDED - reuse the stock Ender's bed carriage.
+- Stock E3 bed carriage - RECOMMENDED - reuse the stock Ender's bed carriage. Requires drilling and tapping.
 - Metal carriage - cut with laser od water, most rigid option, if you want to get the best out of your printer.
 - _Z-tilt bed - in development_
 
