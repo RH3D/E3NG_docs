@@ -26,6 +26,7 @@ Most remixes / mods are posted on [Printables remixes] but you will also find ot
 # PROJECT OPTIONS
 {: .text-center }
 Going deeper into the project, you will find that not all the printers are build the same, that is because the project is offering various options to configure it to your liking right from the start.
+
 Ender 3 NG started as a cheap coreXY conversion for Creality Ender 3 Pro, it has been in the beta version and available to public for over a year and while others have been building printers, I have been listening to all the feedback and getting to know other users preferences.
 
 As a result the project has some options to choose from to suit you the best.
