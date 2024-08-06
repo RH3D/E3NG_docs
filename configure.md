@@ -117,6 +117,7 @@ Currently there are setups for only few motherboards but more will be directly s
 - BTT SKR mini E3 v2
 - BTT SKR3EZ
 - BTT Octopus
+- Other - includes universal cooling fan housing mounted directly on the rear panel.
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;font-weight:bold"> TIP </h4></summary>
