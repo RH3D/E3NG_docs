@@ -12,7 +12,7 @@ Below you will find all the important links to get the files and details needed 
 
 [Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Download E3NG calibration cube.
 
-[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Get the Bill of Material, list of printed parts and other details.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Bill of Material, list of printed parts and more.
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
 
