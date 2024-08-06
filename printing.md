@@ -21,7 +21,7 @@ carriage should still be printer with higher temperature resistant material.
 
 # PRINTING PARAMETERS
 {: .text-center }
-All STL files are properly oriented for printing. Some parts include built-in supports, you will recognise them with **"X"**.
+All STL files are properly oriented for printing. Some parts include built-in supports, they are marked with ❌ **X**.
 
 Depending on your configuration and print settings (brim, draft, purge line), you may need to print bigger parts that require up to 235x235 mm print area. Default print size for Ender 3 is 220x220 mm but you can set it to 235x235 mm in slicer without issues.
 
