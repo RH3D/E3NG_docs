@@ -54,7 +54,7 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 - 2040 upgrade - RECOMMENDED - first stage upgrade with additional V-slot extrusion. Adds rigidity to the frame and reduces printing parts. Requires drilling and tapping.
 - Ultimate frame - all you need for the best performance, adds two more extrusions to the front. Requires more driling and tapping.
 
-    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0000FF"> TIP </h4></summary>
+    <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF"> TIP </h4></summary>
 <p>For Ultimate frame, you are also buying 300 mm V-slot extrusions which fit into 310mm space with printed spacers for ease of buying the common size. If you are ordering custom extrusions or cutting them yourself, you can use 310 mm extrusions instead.</p>
 </details>
 
