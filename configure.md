@@ -115,27 +115,25 @@ Select the hotend you want to use, it is generaly recommended to use hotend with
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#5ca33c"> COMPATIBLE HOTENDS </h4></summary>
 <p>Listed hotends were directly tested in the CAD design or/and in real life and have a specific mount, so it is verified they can be used. Some of the mount styles are widely used so the real compatibility list will be even bigger.</p>
-<code>
-<div> • BambuLab hotends</div>
-<div> • Creality MK8</div>
-<div> • Creality Spider V3</div>
-<div> • Creality Spider V3 + Volcano nozzle or Meltzone extender</div>
-<div> • DropEffect neXtG HF</div>
-<div> • DropEffect neXtG UHF</div>
-<div> • E3D V6</div>
-<div> • E3D V6 Volcano</div>
-<div> • E3D Revo Voron</div>
-<div> • Goliath air</div>
-<div> • Phaetus Dragon SF</div>
-<div> • Phaetus Dragon HF</div>
-<div> • Phaetus Dragon 2 HF</div>
-<div> • Phaetus Dragon 2 UHF</div>
-<div> • Phaetus Dragonfly BMS</div>
-<div> • Phaetus Rapido (2) HF</div>
-<div> • Phaetus Rapido (2) UHF</div>
-<div> • TriangleLab ACE</div>
-<div> • TriangleLab ACE+</div>
-</code>
+<div>   • BambuLab hotends</div>
+<div>   • Creality MK8</div>
+<div>   • Creality Spider V3</div>
+<div>   • Creality Spider V3 + Volcano nozzle or Meltzone extender</div>
+<div>   • DropEffect neXtG HF</div>
+<div>   • DropEffect neXtG UHF</div>
+<div>   • E3D V6</div>
+<div>   • E3D V6 Volcano</div>
+<div>   • E3D Revo Voron</div>
+<div>   • Goliath air</div>
+<div>   • Phaetus Dragon SF</div>
+<div>   • Phaetus Dragon HF</div>
+<div>   • Phaetus Dragon 2 HF</div>
+<div>   • Phaetus Dragon 2 UHF</div>
+<div>   • Phaetus Dragonfly BMS</div>
+<div>   • Phaetus Rapido (2) HF</div>
+<div>   • Phaetus Rapido (2) UHF</div>
+<div>   • TriangleLab ACE</div>
+<div>   • TriangleLab ACE+</div>
 </details>
 
 <details>
