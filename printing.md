@@ -30,7 +30,7 @@ All STL files are already properly oriented for printing.
 Some of the printed parts require 235x235 mm print area to fit the build plate. Ender 3 printers offer that but you may
 have to change your built plate size in slicer (including the avoid zones).
 
-Recommended print settings:
+#### RECOMMENDED PRINT SETTINGS:
 - 4 perimeters
 - 5 top and bottom layers
 - 30% infill
