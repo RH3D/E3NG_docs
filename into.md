@@ -10,7 +10,7 @@ Below you will find all the important links to get the files and details needed 
 
 [Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download STL files and see the changelog.
 
-[Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 } - Download E3NG calibration cube.
+[Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Download E3NG calibration cube.
 
 [Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Get the Bill of Material, list of printed parts and other details.
 
