@@ -9,7 +9,7 @@ nav_order: 4
 
 This page is under construction.
 
-Build manual for the v1.2 will be made in the future, most probably also with a build video guide.
+Build instructions for the v1.2 will be made in the future.
 
 For now, it is recommended to build the printer with CAD assembly, but also looking at this site.
 
