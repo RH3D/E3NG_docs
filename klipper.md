@@ -8,4 +8,5 @@ parent: Printer electronics
 # KLIPPER FW
 {: .text-center }
 
+{: .warning }
 This page is under construction.
