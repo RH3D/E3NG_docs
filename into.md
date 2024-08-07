@@ -8,11 +8,11 @@ nav_order: 3
 {: .text-center }
 Below you will find all the important links to get the files and details needed for the project.
 
-[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download STL files and see the changelog.
+[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - SOON - Download STL files and see the changelog.
 
 [Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Download E3NG calibration cube.
 
-[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Bill of material, printed parts list and more.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - SOON - Bill of material, printed parts list and more.
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
 
