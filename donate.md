@@ -38,5 +38,6 @@ title:'PayPal - The safer, easier way to pay online!',
 {: .text-center .mt-5 }
 
 [![Patreon](./assets/images/patreon_donate.png)](https://www.patreon.com/RH3D_cz)
+{: .text-center }
 
 [feedback]: https://rh3d.xyz/feedback.html
