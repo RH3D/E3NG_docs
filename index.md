@@ -1,6 +1,7 @@
 ---
 title: E3NG
 layout: home
+has_children: true
 nav_order: 2
 ---
 ![](./assets/images/gallery.png)
