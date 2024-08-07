@@ -7,6 +7,7 @@ parent: Printer electronics
 # GENERAL WIRING
 {: .text-center }
 
+{: .warning }
 This page is under construction.
 
 continue to:
