@@ -37,6 +37,7 @@ title:'PayPal - The safer, easier way to pay online!',
 </div>
 {: .text-center .mt-5 }
 
-![](./assets/images/patreon_donate.png)
+[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
+[![Patreon](./assets/images/patreon_donate.png)](https://www.patreon.com/RH3D_cz)
 
 [feedback]: https://rh3d.xyz/feedback.html
