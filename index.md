@@ -4,7 +4,7 @@ layout: home
 has_children: true
 nav_order: 2
 ---
-[](./assets/images/gallery.png)
+![](./assets/images/gallery.png)
 
 # E3NG / ENDER 3 NG
 {: .text-center }
