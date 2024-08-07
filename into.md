@@ -42,6 +42,7 @@ continue to:
 {: .text-right }
 
 [Printables]: https://www.printables.com/en/model/922401
+[Ko-Fi]: https://ko-fi.com/s/836bb8e065
 [Calibration cube]: https://www.printables.com/en/model/478403
 [Configurator]: https://rh3d.xyz/configure.html
 [Build manual]: https://rh3d.xyz/build_guide.html
