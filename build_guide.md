@@ -7,6 +7,7 @@ nav_order: 4
 # BUILD INSTRUCTIONS
 {: .text-center }
 
+{: .warning }
 This page is under construction.
 
 Build instructions for the v1.2 will be made in the future.
