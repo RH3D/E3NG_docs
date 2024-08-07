@@ -16,3 +16,9 @@ nav_order: 1
 
 # PHOTOS
 {: .text-center }
+
+![](./assets/images/gallery/DSC03417_fhd.jpg)
+
+![](./assets/images/gallery/DSC03444HD.jpg)
+
+![](./assets/images/gallery/DSC03455_fhd.jpg)
