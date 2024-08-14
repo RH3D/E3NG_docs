@@ -33,7 +33,7 @@ WIRING DIAGRAM HERE
 
 #### BigTreeTech SKR 3 EZ + BigTreeTech EXP-MOT
 {: .text-center }
-[download config files](./assets/fw/blank) | [official BTT documentation - SKR3 EZ](https://github.com/bigtreetech/SKR-3/tree/master/Hardware%20(SKR%203%20EZ)) | [official BTT documentation - EXP-MOT](https://github.com/bigtreetech/BTT-Expansion-module/tree/master/BTT%20EXP-MOT) | [buy SKR 3 EZ](no.link) | [buy EXP-MOT](no.link)
+[download config files](./assets/fw/blank) | [official BTT documentation - SKR3 EZ](https://github.com/bigtreetech/SKR-3/tree/master/Hardware%20(SKR%203%20EZ)) - [EXP-MOT](https://github.com/bigtreetech/BTT-Expansion-module/tree/master/BTT%20EXP-MOT) | [buy SKR 3 EZ](no.link) | [buy EXP-MOT](no.link)
 {: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
