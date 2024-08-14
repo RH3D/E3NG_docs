@@ -18,24 +18,16 @@ List of currently officialy supported motherboards:
 #### BigTreeTech SKR3EZ
 {: .text-center }
 
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
+WIRING DIAGRAM HERE
+{: .text-center .fs-8 }
 
 download package
 
 #### BigTreeTech SKR mini E3 V2
 {: .text-center }
 
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
-WIRING PICTURE
+WIRING DIAGRAM HERE
+{: .text-center .fs-8 }
 
 download package
 
