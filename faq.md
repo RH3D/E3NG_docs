@@ -99,6 +99,7 @@ nav_order: 7
 <p>The IS result is a lot dependent on the build quality. Below I am posting some of my input shaper graphs.</p>
 <p>    1. With printed frame verticals, no enclosure.</p>
 <p>    2. With ultimate frame and enclosure (4mm panels + 5mm door).</p>
+<p> <img src="./assets/images/shaper_20240507_encl.png" alt=""> </p>
 </details>
 
 ### MECHANICAL
