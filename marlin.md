@@ -15,7 +15,7 @@ Officialy supported motherboards:
 - [BTT SKR 3 EZ]
 - [BTT SKR mini E3 V2]
 
-#### BigTreeTech SKR 3 EZ
+# BigTreeTech SKR 3 EZ
 {: .text-center }
 [download package](./assets/fw/E3NG_M2.1.x_config_SKR3EZ.zip)
 {: .text-center }
@@ -23,7 +23,7 @@ Officialy supported motherboards:
 {: .text-center }
 ![](./assets/images/diagram/SKR3EZ_MARLIN_WD.png)
 
-#### BigTreeTech SKR mini E3 V2
+# BigTreeTech SKR mini E3 V2
 {: .text-center }
 [download package](./assets/fw/E3NG_M2.1.x_config_SKRminiE3v2.zip)
 {: .text-center }
