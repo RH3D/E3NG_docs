@@ -27,5 +27,5 @@ download package
 {: .text-center }
 ![](./assets/images/diagram/SKRminiE3v2_MARLIN_WD.png)
 
-[BTT SKR 3 EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr3ez
+[BTT SKR 3 EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr-3-ez
 [BTT SKR mini E3 V2]: https://rh3d.xyz/marlin.html#bigtreetech-skr-mini-e3-v2
