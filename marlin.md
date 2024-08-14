@@ -17,17 +17,13 @@ Officialy supported motherboards:
 
 # BigTreeTech SKR 3 EZ
 {: .text-center }
-[download package](./assets/fw/E3NG_M2.1.x_config_SKR3EZ.zip)
-{: .text-center }
-[Official BTT documentation](https://github.com/bigtreetech/SKR-3/tree/master/Hardware%20(SKR%203%20EZ))
+[download FW files](./assets/fw/E3NG_M2.1.x_config_SKR3EZ.zip) | [official BTT documentation](https://github.com/bigtreetech/SKR-3/tree/master/Hardware%20(SKR%203%20EZ)) | [buy](no.link)
 {: .text-center }
 ![](./assets/images/diagram/SKR3EZ_MARLIN_WD.png)
 
 # BigTreeTech SKR mini E3 V2
 {: .text-center }
-[download package](./assets/fw/E3NG_M2.1.x_config_SKRminiE3v2.zip)
-{: .text-center }
-[Official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware)
+[download FW files](./assets/fw/E3NG_M2.1.x_config_SKRminiE3v2.zip) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware) | [buy](no.link)
 {: .text-center }
 ![](./assets/images/diagram/SKRminiE3v2_MARLIN_WD.png)
 
