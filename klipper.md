@@ -11,7 +11,7 @@ parent: Printer electronics
 {: .warning }
 This page is under construction.
 
-List of currently officialy supported motherboards:
+Officialy supported motherboards:
 - [BTT OCTOPUS 1.0]
 - [BTT SKR3EZ]
 - [BTT SKR3EZ + BTT EXP-MOT]
