@@ -17,15 +17,15 @@ Officialy supported motherboards:
 
 #### BigTreeTech SKR3EZ
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
 
-download package
-
 #### BigTreeTech SKR mini E3 V2
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
 
