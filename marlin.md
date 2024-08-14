@@ -26,7 +26,7 @@ download package
 {: .text-center }
 download package
 {: .text-center }
-[Official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0)
+[Official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware)
 ![](./assets/images/diagram/SKRminiE3v2_MARLIN_WD.png)
 
 [BTT SKR 3 EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr-3-ez
