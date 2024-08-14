@@ -19,17 +19,13 @@ Officialy supported motherboards:
 {: .text-center }
 download package
 {: .text-center }
-WIRING DIAGRAM HERE
-{: .text-center .fs-8 }
+![](./assets/images/diagram/SKR3EZ_MARLIN_WD.png)
 
 #### BigTreeTech SKR mini E3 V2
 {: .text-center }
 download package
 {: .text-center }
-WIRING DIAGRAM HERE
-{: .text-center .fs-8 }
-
-download package
+![](./assets/images/diagram/SKRminiE3v2_MARLIN_WD.png)
 
 [BTT SKR 3 EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr3ez
 [BTT SKR mini E3 V2]: https://rh3d.xyz/marlin.html#bigtreetech-skr-mini-e3-v2
