@@ -12,10 +12,10 @@ parent: Printer electronics
 This page is under construction.
 
 Officialy supported motherboards:
-- [BTT SKR3EZ]
+- [BTT SKR 3 EZ]
 - [BTT SKR mini E3 V2]
 
-#### BigTreeTech SKR3EZ
+#### BigTreeTech SKR 3 EZ
 {: .text-center }
 download package
 {: .text-center }
@@ -31,5 +31,5 @@ WIRING DIAGRAM HERE
 
 download package
 
-[BTT SKR3EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr3ez
+[BTT SKR 3 EZ]: https://rh3d.xyz/marlin.html#bigtreetech-skr3ez
 [BTT SKR mini E3 V2]: https://rh3d.xyz/marlin.html#bigtreetech-skr-mini-e3-v2
