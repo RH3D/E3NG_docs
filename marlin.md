@@ -10,3 +10,34 @@ parent: Printer electronics
 
 {: .warning }
 This page is under construction.
+
+List of currently officialy supported motherboards:
+[BTT SKR3EZ]
+[BTT SKR mini E3 V2]
+
+#### BigTreeTech SKR3EZ
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+#### BigTreeTech SKR mini E3 V2
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+[BTT SKR3EZ]
+[BTT SKR mini E3 V2]
