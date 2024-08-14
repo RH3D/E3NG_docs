@@ -46,6 +46,6 @@ WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
 
 [BTT Octopus v1.0]: https://rh3d.xyz/klipper.html#bigtreetech-octopus-v10
-[BTT SKR 3 EZ]: https://rh3d.xyz/klipper.html#bigtreetech-skr3ez
-[BTT SKR 3 EZ + BTT EXP-MOT]: https://rh3d.xyz/klipper.html#bigtreetech-skr3ez--bigtreetech-exp-mot
+[BTT SKR 3 EZ]: https://rh3d.xyz/klipper.html#bigtreetech-skr-3-ez
+[BTT SKR 3 EZ + BTT EXP-MOT]: https://rh3d.xyz/klipper.html#bigtreetech-skr-3-ez--bigtreetech-exp-mot
 [BTT SKR mini E3 V2]: https://rh3d.xyz/klipper.html#bigtreetech-skr-mini-e3-v2
