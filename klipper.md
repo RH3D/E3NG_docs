@@ -19,35 +19,31 @@ Officialy supported motherboards:
 
 #### BigTreeTech Octopus v1.0
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
-
-download package
 
 #### BigTreeTech SKR3EZ
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
-
-download package
 
 #### BigTreeTech SKR3EZ + BigTreeTech EXP-MOT
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
-
-download package
 
 #### BigTreeTech SKR mini E3 V2
 {: .text-center }
-
+download package
+{: .text-center }
 WIRING DIAGRAM HERE
 {: .text-center .fs-8 }
-
-download package
 
 [BTT Octopus v1.0]: https://rh3d.xyz/klipper.html#bigtreetech-octopus-v10
 [BTT SKR3EZ]: https://rh3d.xyz/klipper.html#bigtreetech-skr3ez
