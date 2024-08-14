@@ -10,3 +10,62 @@ parent: Printer electronics
 
 {: .warning }
 This page is under construction.
+
+List of currently officialy supported motherboards:
+[BTT OCTOPUS 1.0]
+[BTT SKR3EZ]
+[BTT SKR3EZ + BTT EXP-MOT]
+[BTT SKR mini E3 V2]
+
+#### BigTreeTech Octopus v1.0
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+#### BigTreeTech SKR3EZ
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+#### BigTreeTech SKR3EZ + BigTreeTech EXP-MOT
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+#### BigTreeTech SKR mini E3 V2
+{: .text-center }
+
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+WIRING PICTURE
+
+download package
+
+[BTT OCTOPUS 1.0] https:
+[BTT SKR3EZ]
+[BTT SKR3EZ + BTT EXP-MOT]
+[BTT SKR mini E3 V2]
