@@ -17,7 +17,7 @@ Officialy supported motherboards:
 
 #### BigTreeTech SKR 3 EZ
 {: .text-center }
-download package
+[download package](./assets/fw/E3NG_M2.1.x_config_SKR3EZ.zip)
 {: .text-center }
 [Official BTT documentation](https://github.com/bigtreetech/SKR-3/tree/master/Hardware%20(SKR%203%20EZ))
 {: .text-center }
@@ -25,7 +25,7 @@ download package
 
 #### BigTreeTech SKR mini E3 V2
 {: .text-center }
-download package
+[download package](./assets/fw/E3NG_M2.1.x_config_SKRminiE3v2.zip)
 {: .text-center }
 [Official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master/hardware/BTT%20SKR%20MINI%20E3%20V2.0/Hardware)
 {: .text-center }
