@@ -12,16 +12,16 @@ parent: Printer electronics
 This page is under construction.
 
 List of currently officialy supported motherboards:
--[BTT OCTOPUS 1.0]
--[BTT SKR3EZ]
--[BTT SKR3EZ + BTT EXP-MOT]
--[BTT SKR mini E3 V2]
+- [BTT OCTOPUS 1.0]
+- [BTT SKR3EZ]
+- [BTT SKR3EZ + BTT EXP-MOT]
+- [BTT SKR mini E3 V2]
 
 #### BigTreeTech Octopus v1.0
 {: .text-center }
 
 WIRING DIAGRAM HERE
-{: .text-center .fs-10 }
+{: .text-center .fs-8 }
 
 download package
 
@@ -29,7 +29,7 @@ download package
 {: .text-center }
 
 WIRING DIAGRAM HERE
-{: .text-center .fs-10 }
+{: .text-center .fs-8 }
 
 download package
 
@@ -37,7 +37,7 @@ download package
 {: .text-center }
 
 WIRING DIAGRAM HERE
-{: .text-center .fs-10 }
+{: .text-center .fs-8 }
 
 download package
 
@@ -45,7 +45,7 @@ download package
 {: .text-center }
 
 WIRING DIAGRAM HERE
-{: .text-center .fs-10 }
+{: .text-center .fs-8 }
 
 download package
 
