@@ -10,7 +10,7 @@ nav_order: 1
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
 {: .text-center }
-_last updated: 2024.06.24 18:00_{: .fs-3 .mt-0 .fw-300 }
+_last updated: 2024.08.15 13:48_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
 *You will be guided through all the steps in the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their effect on the BOM or required parts will show up in the configurator file.*
@@ -278,7 +278,7 @@ continue to:
 [SOURCING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[CONFIGURATOR DOWNLOAD]: https://rh3d.xyz/configure.html
+[CONFIGURATOR DOWNLOAD]: ./assets/docs/E3NG_BOM_240815.xlsm
 [BASE BUILD]: https://rh3d.xyz/configure.html#base-build
 [TOOLHEAD]: https://rh3d.xyz/configure.html#toolhead
 [MODS / UPGRADES]: https://rh3d.xyz/configure.html#mods--upgrades
