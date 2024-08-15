@@ -8,13 +8,13 @@ nav_order: 3
 {: .text-center }
 Below you will find all the important links to get the files and details needed for the project.
 
-[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - SOON - Download STL files and see the changelog.
+[Printables]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-7 } - Download STL files and see the changelog.
 
-[Ko-Fi]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-9 } - SOON - Download CAD files for a small amount.
+[Ko-Fi]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-9 } - Download CAD files for a small amount.
 
 [Calibration cube]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 } - Download E3NG calibration cube.
 
-[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - SOON - Bill of material, printed parts list and more.
+[Configurator]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Bill of material, printed parts list and more.
 
 [Build manual]{: .btn .fw-400 .text-yellow-300 .v-align-middle .px-6 } - Instructions to build the printer.
 
@@ -42,7 +42,7 @@ continue to:
 {: .text-right }
 
 [Printables]: https://www.printables.com/en/model/922401
-[Ko-Fi]: https://ko-fi.com/s/836bb8e065
+[Ko-Fi]: https://ko-fi.com/s/f1be48e43a
 [Calibration cube]: https://www.printables.com/en/model/478403
 [Configurator]: https://rh3d.xyz/configure.html
 [Build manual]: https://rh3d.xyz/build_guide.html
