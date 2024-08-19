@@ -10,7 +10,7 @@ nav_order: 1
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
 {: .text-center }
-_last updated: 2024.08.19 10:46_{: .fs-3 .mt-0 .fw-300 }
+_last updated: 2024.08.19 11:13_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
 <details>
