@@ -9,7 +9,7 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>E3NG Color Scheme helper</title>
+    <title>E3NG Color scheme helper</title>
     <style>
         body {
             /*display: flex;
@@ -72,7 +72,7 @@ layout: default
     </style>
 </head>
 <body>
-    <h1>E3NG color scheme config</h1>
+    <h1>E3NG Color scheme helper</h1>
     <div class="container">
         <img class="background-image" src="background-image.png" alt="Pozadí" onerror="alert('Background image was not found.')">
         <img class="foreground-image" id="foreground-image" src="foreground-image.png" alt="Květináč 1" onerror="alert('Accent color image was not found.')">
