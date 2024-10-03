@@ -102,13 +102,13 @@ layout: default
             <h2>MAIN COLOR</h2>
             <div class="slider-container">
                 <label for="brightness-2">BRI</label>
-                <input type="number" id="brightness-number-2" class="number-input" min="0" max="100" value="50">
-                <input type="range" id="brightness-2" class="slider" min="0" max="100" value="50">
+                <input type="number" id="brightness-number-2" class="number-input" min="0" max="100" value="20">
+                <input type="range" id="brightness-2" class="slider" min="0" max="100" value="20">
             </div>
             <div class="slider-container">
                 <label for="saturation-2">SAT</label>
-                <input type="number" id="saturation-number-2" class="number-input" min="0" max="100" value="50">
-                <input type="range" id="saturation-2" class="slider" min="0" max="100" value="50">
+                <input type="number" id="saturation-number-2" class="number-input" min="0" max="100" value="0">
+                <input type="range" id="saturation-2" class="slider" min="0" max="100" value="0">
             </div>
             <div class="slider-container">
                 <label for="hue-2">HUE</label>
