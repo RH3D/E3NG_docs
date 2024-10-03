@@ -84,8 +84,8 @@ layout: default
             <h2>ACCENT COLOR</h2>
             <div class="slider-container">
                 <label for="brightness">BRI</label>
-                <input type="range" id="brightness" class="slider" min="0" max="100" value="50">
                 <input type="number" id="brightness-number" class="number-input" min="0" max="100" value="50">
+                <input type="range" id="brightness" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
                 <label for="saturation">SAT</label>
