@@ -20,12 +20,12 @@ layout: default
             margin: 0;
         }
         .container {
-            display: flex;
             position: relative;
             width: 100%; /* Nastavení pevné šířky */
             height: 100%; /* Nastavení pevné výšky */
         }
         .background-image, .foreground-image, .foreground-image-2, .overlay-image {
+            display: flex;
             position: absolute;
             top: 0;
             left: 0;
