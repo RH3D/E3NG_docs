@@ -83,17 +83,17 @@ layout: default
         <div class="sliders-column">
             <h2>ACCENT COLOR</h2>
             <div class="slider-container">
-                <label for="brightness">BRI:</label>
+                <label for="brightness">BRI</label>
                 <input type="number" id="brightness-number" class="number-input" min="0" max="100" value="50">
                 <input type="range" id="brightness" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
-                <label for="saturation">SAT:</label>
+                <label for="saturation">SAT</label>
                 <input type="number" id="saturation-number" class="number-input" min="0" max="100" value="50">
                 <input type="range" id="saturation" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
-                <label for="hue">HUE:</label>
+                <label for="hue">HUE</label>
                 <input type="number" id="hue-number" class="number-input" min="0" max="100" value="0">
                 <input type="range" id="hue" class="slider" min="0" max="100" value="0">
             </div>
