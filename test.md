@@ -12,14 +12,15 @@ layout: default
     <title>E3NG Color scheme helper</title>
     <style>
         body {
-            display: flex;
-            /*flex-direction: column;*/
+            /*display: flex;
+            flex-direction: column;*/
             align-items: center;
             justify-content: center;
             height: 100vh;
             margin: 0;
         }
         .container {
+            display: flex;
             position: relative;
             width: 100%; /* Nastavení pevné šířky */
             height: 100%; /* Nastavení pevné výšky */
