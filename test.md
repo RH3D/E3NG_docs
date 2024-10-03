@@ -40,7 +40,7 @@ layout: default
         }
         .foreground-image-2 {
             z-index: 3;
-            filter: saturate(0%) brightness(20%);
+            filter: saturate(0%) brightness(40%);
         }
         .overlay-image {
             z-index: 4; /* Nový obrázek překrývající ostatní */
