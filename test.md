@@ -75,7 +75,7 @@ layout: default
     <div class="container">
         <img class="background-image" src="background-image.png" alt="Pozadí" onerror="alert('Background image was not found.')">
         <img class="foreground-image" id="foreground-image" src="foreground-image.png" alt="Květináč 1" onerror="alert('Accent color image was not found.')">
-        <img class="foreground-image-2" id="foreground-image-2" src="foreground-image-2.png" alt="Květináč 2" onerror="alert('Main color image was not found.')">
+        <img class="foreground-image-2" id="foreground-image-2" src="foreground-image-2.png" alt="Květináč 2" style="filter: saturate(0%) brightness(30%) onerror="alert('Main color image was not found.')">
         <img class="overlay-image" id="overlay-image" src="overlay-image.png" alt="Překrývající obrázek" onerror="alert('Overlay image was not found.')">
     </div>
     <div class="sliders-group">
