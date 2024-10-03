@@ -13,8 +13,8 @@ layout: default
     <title>E3NG Color Scheme helper</title>
     <style>
         body {
-            display: flex;
-            flex-direction: column;
+            /*display: flex;
+            flex-direction: column;*/
             align-items: center;
             justify-content: center;
             height: 100vh;
