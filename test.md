@@ -12,8 +12,8 @@ layout: default
     <title>E3NG Color scheme helper</title>
     <style>
         body {
-            /*display: flex;
-            flex-direction: column;*/
+            display: flex;
+            /*flex-direction: column;*/
             align-items: center;
             justify-content: center;
             height: 100vh;
@@ -21,8 +21,8 @@ layout: default
         }
         .container {
             position: relative;
-            width: 750px; /* Nastavení pevné šířky */
-            height: 750px; /* Nastavení pevné výšky */
+            width: 100%; /* Nastavení pevné šířky */
+            height: 100%; /* Nastavení pevné výšky */
         }
         .background-image, .foreground-image, .foreground-image-2, .overlay-image {
             position: absolute;
