@@ -22,7 +22,7 @@ layout: default
         .container {
             position: relative;
             width: 100%; /* Nastavení pevné šířky */
-            height: 736px; /* Nastavení pevné výšky */
+            height: 600px; /* Nastavení pevné výšky */
         }
         .background-image, .foreground-image, .foreground-image-2, .overlay-image {
             position: absolute;
