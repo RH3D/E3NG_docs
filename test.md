@@ -5,7 +5,6 @@ layout: default
 #has_children: true
 #nav_order: 7
 ---
-<!DOCTYPE html>
 <html lang="cs">
 <head>
     <meta charset="UTF-8">
