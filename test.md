@@ -10,7 +10,7 @@ layout: default
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Úprava barev obrázku</title>
+    <title>E3NG Color Scheme helper</title>
     <style>
         body {
             display: flex;
@@ -22,8 +22,8 @@ layout: default
         }
         .container {
             position: relative;
-            width: 600px; /* Nastavení pevné šířky */
-            height: 600px; /* Nastavení pevné výšky */
+            width: 100%; /* Nastavení pevné šířky */
+            height: 100%; /* Nastavení pevné výšky */
         }
         .background-image, .foreground-image, .foreground-image-2, .overlay-image {
             position: absolute;
