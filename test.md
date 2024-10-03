@@ -60,7 +60,7 @@ layout: default
         .sliders-group {
             display: flex;
             justify-content: space-between;
-            width: 30%;
+            width: 80%;
             margin-top: 20px; /* Přidání mezery mezi obrázkem a posuvníky */
         }
         .sliders-column {
