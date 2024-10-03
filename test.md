@@ -56,6 +56,7 @@ layout: default
         }
         .number-input {
             width: 40px;
+            margin-left: 10px;
         }
         .sliders-group {
             display: flex;
