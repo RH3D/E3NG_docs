@@ -72,7 +72,6 @@ layout: default
     </style>
 </head>
 <body>
-    <h1>E3NG Color scheme helper</h1>
     <div class="container">
         <img class="background-image" src="background-image.png" alt="Pozadí" onerror="alert('Background image was not found.')">
         <img class="foreground-image" id="foreground-image" src="foreground-image.png" alt="Květináč 1" onerror="alert('Accent color image was not found.')">
