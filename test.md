@@ -74,26 +74,26 @@ layout: default
 <body>
     <h1>E3NG color scheme config</h1>
     <div class="container">
-        <img class="background-image" src="background-image.png" alt="Pozadí" onerror="alert('Pozadí se nepodařilo načíst')">
-        <img class="foreground-image" id="foreground-image" src="foreground-image.png" alt="Květináč 1" onerror="alert('Květináč 1 se nepodařilo načíst')">
-        <img class="foreground-image-2" id="foreground-image-2" src="foreground-image-2.png" alt="Květináč 2" onerror="alert('Květináč 2 se nepodařilo načíst')">
-        <img class="overlay-image" id="overlay-image" src="overlay-image.png" alt="Překrývající obrázek" onerror="alert('Překrývající obrázek se nepodařilo načíst')">
+        <img class="background-image" src="background-image.png" alt="Pozadí" onerror="alert('Background image was not found.')">
+        <img class="foreground-image" id="foreground-image" src="foreground-image.png" alt="Květináč 1" onerror="alert('Accent color image was not found.')">
+        <img class="foreground-image-2" id="foreground-image-2" src="foreground-image-2.png" alt="Květináč 2" onerror="alert('Main color image was not found.')">
+        <img class="overlay-image" id="overlay-image" src="overlay-image.png" alt="Překrývající obrázek" onerror="alert('Overlay image was not found.')">
     </div>
     <div class="sliders-group">
         <div class="sliders-column">
             <h2>ACCENT COLOR</h2>
             <div class="slider-container">
-                <label for="brightness">BRI</label>
+                <label for="brightness">BRI:</label>
                 <input type="number" id="brightness-number" class="number-input" min="0" max="100" value="50">
                 <input type="range" id="brightness" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
-                <label for="saturation">SAT</label>
+                <label for="saturation">SAT:</label>
                 <input type="number" id="saturation-number" class="number-input" min="0" max="100" value="50">
                 <input type="range" id="saturation" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
-                <label for="hue">HUE</label>
+                <label for="hue">HUE:</label>
                 <input type="number" id="hue-number" class="number-input" min="0" max="100" value="0">
                 <input type="range" id="hue" class="slider" min="0" max="100" value="0">
             </div>
@@ -107,8 +107,8 @@ layout: default
             </div>
             <div class="slider-container">
                 <label for="saturation-2">SAT</label>
-                <input type="number" id="saturation-number-2" class="number-input" min="0" max="100" value="0">
-                <input type="range" id="saturation-2" class="slider" min="0" max="100" value="0">
+                <input type="number" id="saturation-number-2" class="number-input" min="0" max="100" value="50">
+                <input type="range" id="saturation-2" class="slider" min="0" max="100" value="50">
             </div>
             <div class="slider-container">
                 <label for="hue-2">HUE</label>
