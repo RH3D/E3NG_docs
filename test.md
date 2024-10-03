@@ -22,8 +22,8 @@ layout: default
         }
         .container {
             position: relative;
-            width: 100%; /* Nastavení pevné šířky */
-            height: 100%; /* Nastavení pevné výšky */
+            width: 100px; /* Nastavení pevné šířky */
+            height: 100px; /* Nastavení pevné výšky */
         }
         .background-image, .foreground-image, .foreground-image-2, .overlay-image {
             position: absolute;
