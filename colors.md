@@ -1,9 +1,9 @@
 ---
-title: 
+title: Color scheme
 layout: default
-#parent: Into the project
+parent: Into the project
 #has_children: true
-#nav_order: 7
+nav_order: 4
 ---
 <html lang="cs">
 <head>
