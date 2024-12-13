@@ -9,7 +9,18 @@ nav_order: 1
 {: .text-center }
 
 {: .warning }
-This page is under construction.
+This page is under construction and will be completed later.
+
+# SLICER SETUP
+{: .text-center }
+
+![](./assets/images/bed_plate.png)
+
+[BED MODEL - E3NG_bed.stl]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
+{: .text-center }
+
+[BED PLATE TEXTURE - E3NG_build_plate.svg]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
+{: .text-center }
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
@@ -18,3 +29,5 @@ continue to:
 {: .text-right }
 
 [PRINTER MAINTENANCE]: https://rh3d.xyz/maintenance.html
+[BED MODEL - E3NG_bed.stl]: ./assets/docs/E3NG_bed.stl
+[BED PLATE TEXTURE - E3NG_build_plate.svg]: ./assets/docs/E3NG__build_plate.svg
