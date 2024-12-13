@@ -16,8 +16,8 @@ This page is under construction and will be completed later.
 
 ![](./assets/images/bed_plate.png)
 
-[BED PLATE TEXTURE .svg]{: .btn .fs-6 .fw-300 .text-yellow-300 .ml-7 .mr-6 .px-6 }
-[BED MODEL .stl]{: .btn .fs-6 .fw-300 .text-yellow-300 .mr-7 .ml-6 .px-6 }
+[BED PLATE TEXTURE .svg]{: .btn .fs-6 .fw-300 .text-yellow-300 .ml-7 .mr-4 .px-6 }
+[BED MODEL .stl]{: .btn .fs-6 .fw-300 .text-yellow-300 .mr-7 .ml-4 .px-6 }
 {: .text-center }
 
 continue to:
