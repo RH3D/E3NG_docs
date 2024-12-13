@@ -15,9 +15,11 @@ This page is under construction and will be completed later.
 {: .text-center }
 
 ![](./assets/images/bed_plate.png)
-[BED PLATE TEXTURE - E3NG_build_plate.svg]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
+
+[BED PLATE TEXTURE - E3NG_build_plate.svg]{: .btn .fs-6 .fw-300 .mt-6 .text-yellow-300 }
 {: .text-center }
-[BED MODEL - E3NG_bed.stl]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
+
+[BED MODEL - E3NG_bed.stl]{: .btn .fs-6 .fw-300 .mt-6 .text-yellow-300 }
 {: .text-center }
 
 continue to:
