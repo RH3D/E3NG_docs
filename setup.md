@@ -27,5 +27,5 @@ continue to:
 {: .text-right }
 
 [PRINTER MAINTENANCE]: https://rh3d.xyz/maintenance.html
-[BED PLATE TEXTURE .svg]: ./assets/docs/E3NG__build_plate.svg
+[BED PLATE TEXTURE .svg]: ./assets/docs/E3NG_build_plate.svg
 [BED MODEL .stl]: ./assets/docs/E3NG_bed.stl
