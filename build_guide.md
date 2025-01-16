@@ -9,11 +9,12 @@ nav_order: 4
 
 [E3NG v1.2 BUILD GUIDE]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
 {: .text-center }
-_last updated: 2024.10.30 16:20 (UTC +02:00)_{: .fs-3 .mt-0 .fw-300 }
+_last updated: 2025.01.16 12:40 (UTC +02:00)_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CHANGELOG </h4></summary>
+<p>2025.01.16 - Fixed pg.73 (2040 x 400 mm extrusion) and pg.74 DA=DB (~575 mm)</p>
 <p>2024.10.30 - Initial public release</p>
 </details>
 
