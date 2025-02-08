@@ -12,6 +12,16 @@ nav_order: 4
 _last updated: 2025.01.16 12:40 (UTC +02:00)_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
+### VIDEO BUILD GUIDE - ARMOR3D PRINTING
+
+<details>
+    <summary><h4 style="display:inline-block;margin-left:1.5em"> Armor3D Printing </h4></summary>
+    <p><a href="https://www.youtube.com/watch?v=CCZEbCcw1AA">Part 1 - Intro / Build guide overview</a></p>
+    <p><a href="https://www.youtube.com/watch?v=qgxq2peSxVo">Part 2 - Bottom frame and bed carriage</a></p>
+    <p><a href="https://www.youtube.com/watch?v=i3ZnNVzYnPM">Part 3 - Bed and AC heater</a></p>
+    <p><a href="https://www.youtube.com/watch?v=FcIcflWklvw">Part 4 - Top frame</a></p>
+</details>
+
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CHANGELOG </h4></summary>
 <p>2025.01.16 - Fixed pg.73 (2040 x 400 mm extrusion) and pg.74 DA=DB (~575 mm)</p>
