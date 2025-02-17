@@ -10,14 +10,15 @@ nav_order: 1
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
 {: .text-center }
-_last updated: 2024.10.25 10:00 (UTC +02:00)_{: .fs-3 .mt-0 .fw-300 }
+_last updated: 2025.02.17_{: .fs-3 .mt-0 .fw-300 }
 {: .text-center }
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em"> CHANGELOG </h4></summary>
-<p>2024.10.25 - Added Funssor kits / Updated all current prices in BOM / fixed BTT Eddy printed mounts</p>
-<p>2024.08.19 - Added Fushi bearing and shaft kit / changed RDBB linear rods for Fushi linear rods incl 12x320 mm / fixed link for LED strips</p>
-<p>2024.08.15 - Initial public release</p>
+    <p>2025.02.17 - Fixed screws for the 2040 frame with Ender 3 vs Pro vs V2 (M5x30 BHCS)</p>
+    <p>2024.10.25 - Added Funssor kits / Updated all current prices in BOM / fixed BTT Eddy printed mounts</p>
+    <p>2024.08.19 - Added Fushi bearing and shaft kit / changed RDBB linear rods for Fushi linear rods incl 12x320 mm / fixed link for LED strips</p>
+    <p>2024.08.15 - Initial public release</p>
 </details>
 
 *You will be guided through all the steps in the configurator and you will get helpful and detailed information for all the available options. This page aims to explain differences between options in more detail, but their effect on the BOM or required parts will show up in the configurator file.*
@@ -285,7 +286,7 @@ continue to:
 [SOURCING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[CONFIGURATOR DOWNLOAD]: ./assets/docs/E3NG_BOM_241025.xlsm
+[CONFIGURATOR DOWNLOAD]: ./assets/docs/E3NG_BOM_250217.xlsm
 [BASE BUILD]: https://rh3d.xyz/configure.html#base-build
 [TOOLHEAD]: https://rh3d.xyz/configure.html#toolhead
 [MODS / UPGRADES]: https://rh3d.xyz/configure.html#mods--upgrades
