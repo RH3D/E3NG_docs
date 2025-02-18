@@ -20,6 +20,7 @@ _last updated: 2025.01.16 12:40 (UTC +02:00)_{: .fs-3 .mt-0 .fw-300 }
     <p><a href="https://www.youtube.com/watch?v=qgxq2peSxVo">Part 2 - Bottom frame and bed carriage</a></p>
     <p><a href="https://www.youtube.com/watch?v=i3ZnNVzYnPM">Part 3 - Bed and AC heater</a></p>
     <p><a href="https://www.youtube.com/watch?v=FcIcflWklvw">Part 4 - Top frame</a></p>
+    <p><a href="https://www.youtube.com/watch?v=30m1gHH1aQM">Part 5 - Frame and toolhead</a></p>
 </details>
 
 ---
