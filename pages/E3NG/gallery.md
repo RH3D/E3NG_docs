@@ -9,7 +9,7 @@ permalink: /E3NG_v1_2/gallery
 # WALLPAPERS
 {: .text-center }
 
-![](./img/gallery/E3NG_WP1.jpg)
+![](./pages/E3NG/img/gallery/E3NG_WP1.jpg)
 
 ![](./img/gallery/E3NG_WP2.jpg)
 
