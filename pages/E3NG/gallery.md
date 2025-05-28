@@ -4,21 +4,22 @@ layout: default
 parent: E3NG v1.2
 #has_children: true
 nav_order: 1
+permalink: /E3NG_v1_2/gallery
 ---
 # WALLPAPERS
 {: .text-center }
 
-![](./assets/images/gallery/E3NG_WP1.jpg)
+![](./img/gallery/E3NG_WP1.jpg)
 
-![](./assets/images/gallery/E3NG_WP2.jpg)
+![](./img/gallery/E3NG_WP2.jpg)
 
-![](./assets/images/gallery/E3NG_WP3.jpg)
+![](./img/gallery/E3NG_WP3.jpg)
 
 # PHOTOS
 {: .text-center }
 
-![](./assets/images/gallery/DSC03417_fhd.jpg)
+![](./img/gallery/DSC03417_fhd.jpg)
 
-![](./assets/images/gallery/DSC03444HD.jpg)
+![](./img/gallery/DSC03444HD.jpg)
 
-![](./assets/images/gallery/DSC03455_fhd.jpg)
+![](./img/gallery/DSC03455_fhd.jpg)
