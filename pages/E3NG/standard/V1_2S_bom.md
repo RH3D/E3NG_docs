@@ -7,7 +7,7 @@ has_children: false
 nav_order: 10
 permalink: /E3NG_v1_2/standard/bom
 ---
-# E3NG v1.2S - bill of material
+# BILL OF MATERIAL
 {: .text-center }
 
 {: .warning }
@@ -19,4 +19,4 @@ continue to:
 [PRINTING PARTS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[BILL OF MATERIAL]: https://rh3d.xyz/
+[PRINTING PARTS]: https://rh3d.xyz/
