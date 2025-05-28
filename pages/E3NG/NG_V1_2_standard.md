@@ -1,5 +1,5 @@
 ---
-title: v1.2S (standard)
+title: v1.2S - (standard)
 layout: default
 parent: E3NG v1.2
 has_children: true
@@ -20,4 +20,4 @@ continue to:
 [BILL OF MATERIAL]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[BILL OF MATERIAL]: https://rh3d.xyz/
+[BILL OF MATERIAL]: https://rh3d.xyz/E3NG_v1_2/standard/bom
