@@ -4,7 +4,7 @@ layout: default
 parent: E3NG v1.2
 #has_children: true
 nav_order: 40
-#permalink: /E3NG_v1_2/color_scheme
+permalink: /E3NG_v1_2/color_scheme
 ---
 <html lang="cs">
 <head>
