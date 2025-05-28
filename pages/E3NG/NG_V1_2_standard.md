@@ -8,11 +8,11 @@ permalink: /E3NG_v1_2/standard
 ---
 # E3NG v1.2S
 {: .text-center }
-### v1.2S = standard, simple, kit version
+#### v1.2S = standard, simple, kit version
 {: .text-center }
 
 {: .warning }
-This page is under construction.
+The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
