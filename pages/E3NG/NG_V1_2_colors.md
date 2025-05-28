@@ -75,10 +75,10 @@ permalink: /E3NG_v1_2/color_scheme
 </head>
 <body>
     <div class="container">
-        <img class="background-image" src="../img/background-image.png" alt="BG" onerror="alert('Background image was not found.')">
-        <img class="foreground-image" id="foreground-image" src="../img/foreground-image.png" alt="AC" onerror="alert('Accent color image was not found.')">
-        <img class="foreground-image-2" id="foreground-image-2" src="../img/foreground-image-2.png" alt="MC" onerror="alert('Main color image was not found.')">
-        <img class="overlay-image" id="overlay-image" src="../img/overlay-image.png" alt="OL" onerror="alert('Overlay image was not found.')">
+        <img class="background-image" src="../../pages/E3NG/img/background-image.png" alt="BG" onerror="alert('Background image was not found.')">
+        <img class="foreground-image" id="foreground-image" src="../../pages/E3NG/img/foreground-image.png" alt="AC" onerror="alert('Accent color image was not found.')">
+        <img class="foreground-image-2" id="foreground-image-2" src="../../pages/E3NG/img/foreground-image-2.png" alt="MC" onerror="alert('Main color image was not found.')">
+        <img class="overlay-image" id="overlay-image" src="../../pages/E3NG/img/overlay-image.png" alt="OL" onerror="alert('Overlay image was not found.')">
     </div>
     <div class="sliders-group">
         <div class="sliders-column">
