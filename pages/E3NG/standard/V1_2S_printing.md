@@ -1,7 +1,7 @@
 ---
 title: Printing parts
 layout: default
-parent: v1.2S (standard)
+parent: v1.2S - (standard)
 grand_parent: E3NG v1.2
 has_children: false
 nav_order: 20
@@ -19,4 +19,4 @@ continue to:
 [FILES]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[FILES]: https://rh3d.xyz/
+[FILES]: https://rh3d.xyz/E3NG_v1_2/standard/files
