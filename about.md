@@ -1,5 +1,5 @@
 ---
-title: about RH3D
+title: RH3D
 layout: default
 nav_order: 1
 ---
