@@ -16,8 +16,35 @@ The website is being updated. I apologize for any inconvenience this may have ca
 # 1. KITS
 {: .text-center }
 
+### FABREEKO
+### FYSETC
+### FUNSSOR
+
 # 2. SELF SOURCING
 {: .text-center }
+
+TEXT HERE
+
+## BILL OF MATERIAL
+
+### HARDWARE
+#### SCREWS
+| Size  | Type                            |    Quantity   |                 Buy link               |
+|:------|:--------------------------------|:-------------:|:--------------------------------------:|
+| M2x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x6  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x8  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+{: class="transparant_table"}
+
+#### WASHERS, NUTS, T-NUTS, HEAT INSERTS
+| Size  | Type                            |    Quantity   |                 Buy link               |
+|:------|:--------------------------------|:-------------:|:--------------------------------------:|
+| M2x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x6  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x8  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+| M3x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
+{: class="transparant_table"}
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
