@@ -30,12 +30,12 @@ TEXT HERE
 ### HARDWARE
 #### SCREWS
 
-| Size    | Type                        |    Quantity   |  Buy link 1  |   Buy link 2   |
-|:-------:|:----------------------------|:-------------:|:------------:|:--------------:|
-| M2 x 10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
-| M3 x 6  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
-| M3 x 8  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
-| M3 x 10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
+| Size    | Type                        |  Quantity |  Buy link 1  |   Buy link 2   |
+|:--------|:----------------------------|:---------:|:------------:|:--------------:|
+| M2 x 10 | socket head screw `DIN 912` |    XX     |  link later  |   link later   |
+| M3 x 6  | socket head screw `DIN 912` |    XX     |  link later  |   link later   |
+| M3 x 8  | socket head screw `DIN 912` |    XX     |  link later  |   link later   |
+| M3 x 10 | socket head screw `DIN 912` |    XX     |  link later  |   link later   |
 {: class="transparant_table"}
 
 #### WASHERS, NUTS, T-NUTS, HEAT INSERTS
