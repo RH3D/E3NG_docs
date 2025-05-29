@@ -19,4 +19,4 @@ continue to:
 [FINAL STEPS]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
-[FINAL STEPS]: https://rh3d.xyz/
+[FINAL STEPS]: https://rh3d.xyz/E3NG_v1_2/final_steps
