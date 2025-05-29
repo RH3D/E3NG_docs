@@ -37,6 +37,7 @@ TEXT HERE
 
 ### HARDWARE
 #### SCREWS
+
 | Size  | Type                            |    Quantity   |                 Buy link               |
 |:------|:--------------------------------|:-------------:|:--------------------------------------:|
 | M2x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
@@ -46,6 +47,7 @@ TEXT HERE
 {: class="transparant_table"}
 
 #### WASHERS, NUTS, T-NUTS, HEAT INSERTS
+
 | Size  | Type                            |    Quantity   |                 Buy link               |
 |:------|:--------------------------------|:-------------:|:--------------------------------------:|
 | M2x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
