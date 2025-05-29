@@ -27,20 +27,12 @@ TEXT HERE
 
 ## BILL OF MATERIAL
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-
 ### HARDWARE
 #### SCREWS
 
 | Size  | Type                                     |    Quantity   |  Buy link 1  |   Buy link 2   |
 |:------|:-----------------------------------------|:-------------:|:------------:|:--------------:|
-| M2x10 | <nobr>socket head screw `DIN 912` </nobr> |      XX       |  link later  |   link later   |
+| M2x10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
 | M3x6  | <nobr>socket head screw `DIN 912` </nobr> |      XX       |  link later  |   link later   |
 | M3x8  | <nobr>socket head screw `DIN 912` </nobr> |      XX       |  link later  |   link later   |
 | M3x10 | <nobr>socket head screw `DIN 912` </nobr> |      XX       |  link later  |   link later   |
