@@ -30,22 +30,22 @@ TEXT HERE
 ### HARDWARE
 #### SCREWS
 
+| Size    | Type                        |    Quantity   |  Buy link 1  |   Buy link 2   |
+|:-------:|:----------------------------|:-------------:|:------------:|:--------------:|
+| M2 x 10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
+| M3 x 6  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
+| M3 x 8  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
+| M3 x 10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
+{: class="transparant_table"}
+
+#### WASHERS, NUTS, T-NUTS, HEAT INSERTS
+
 | Size  | Type                        |    Quantity   |  Buy link 1  |   Buy link 2   |
 |:-----:|:----------------------------|:-------------:|:------------:|:--------------:|
 | M2x10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
 | M3x6  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
 | M3x8  | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
 | M3x10 | socket head screw `DIN 912` |      XX       |  link later  |   link later   |
-{: class="transparant_table"}
-
-#### WASHERS, NUTS, T-NUTS, HEAT INSERTS
-
-| Size  | Type                                 |    Quantity   |                 Buy link               |
-|:------|:-------------------------------------|:-------------:|:--------------------------------------:|
-| M2x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
-| M3x6  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
-| M3x8  | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
-| M3x10 | <nobr>socket head screw (ISO)</nobr> |      XX       |   link later                           |
 {: class="transparant_table"}
 
 continue to:
