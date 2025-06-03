@@ -10,9 +10,6 @@ permalink: /E3NG_v1_2/standard/build_guide
 # BUILD GUIDE
 {: .text-center }
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
-
 Below you can download the build manual for the E3NG v1.2S.
 It will guide you through the build process of the entire printer, but the enclosure process isn't covered in the current version.
 
