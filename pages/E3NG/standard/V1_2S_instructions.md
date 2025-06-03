@@ -37,4 +37,4 @@ continue to:
 {: .text-right }
 
 [FIRMWARE]: https://rh3d.xyz/E3NG_v1_2/standard/firmware
-[E3NG v1.2S BUILD GUIDE]: ./assets/docs/Build_guide_E3NG_v1.2S.pdf
+[E3NG v1.2S BUILD GUIDE]: ../../../assets/docs/Build_guide_E3NG_v1.2S.pdf
