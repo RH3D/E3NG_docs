@@ -24,7 +24,7 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 | Size    | Type                                   |  Quantity |  Recommended  |   Alternative   |
 |:--------|:---------------------------------------|:---------:|:------------:|:--------------:|
-| **M2** x 10 | **socket** head `DIN 912 / ISO 4762` |     4     |  link later  |   link later   |
+| **M2** x 10 | **socket** head `DIN 912 / ISO 4762` |     4     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |   link later   |
 | **M3** x 6  | **socket** head `DIN 912 / ISO 4762` |    72     |  link later  |   link later   |
 | **M3** x 8  | **socket** head `DIN 912 / ISO 4762` |    50     |  link later  |   link later   |
 | **M3** x 10 | **socket** head `DIN 912 / ISO 4762` |    34     |  link later  |   link later   |
@@ -41,7 +41,7 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | **M5** x 10 | **button** head `DIN 938 / ISO 7380` |     4     |  link later  |   link later   |
 | **M5** x 20 | **button** head `DIN 938 / ISO 7380` |    20     |  link later  |   link later   |
 | **M5** x 30 | **button** head `DIN 938 / ISO 7380` |     4     |  link later  |   link later   |
-| **M3** x 5  | **flathead** setscrew `DIN 913 / ISO 4026` |     8     |  link later  |   link later   |
+| **M3** x 5  | **flatpoint** setscrew `DIN 913 / ISO 4026` |     8     |  link later  |   link later   |
 {: class="transparant_table"}
 
 #### WASHERS, NUTS, T-NUTS, HEAT INSERTS
