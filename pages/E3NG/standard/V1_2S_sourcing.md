@@ -13,6 +13,7 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 {: .warning }
 The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
 
+{: .note }
 The "S" version was put together to allow users build the printer without too much extra work and with that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.
 
 # 1. KITS
@@ -20,14 +21,28 @@ The "S" version was put together to allow users build the printer without too mu
 
 There are only some "official" vendors selling kits. While you might be able to find them elsewhere, no one can assure you the purchase will be worth it. The official kits were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts. If you encounter any issues with them, it will be easier to sort it out.
 
-### FABREEKO kits
+## FABREEKO kits
 
-[E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
-[ENCLOSURE PANELS]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
+[E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
+[ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
 {: .text-center }
 
-### FYSETC
-### FUNSSOR
+## FYSETC
+
+COMING SOON{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
+{: .text-center }
+
+## FUNSSOR
+
+[E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
+[HARDWARE KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
+[ENCLOSURE KIT - polycarbonate]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
+{: .text-center }
+
+## FUSHI BEARINGS
+
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
+{: .text-center }
 
 # 2. SELF SOURCING
 {: .text-center }
@@ -64,5 +79,9 @@ continue to:
 {: .text-right }
 
 [PRINTING PARTS]: https://rh3d.xyz/E3NG_v1_2/standard/printing_parts
-[E3NG v1.2 KIT]: https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger
-[ENCLOSURE PANELS]: https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng
+[E3NG v1.2 FULL KIT]: https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger
+[ENCLOSURE PANELS - cast acrylic]: https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng
+[E3NG v1.2 KIT]: https://s.click.aliexpress.com/e/_ooF6WBw
+[HARDWARE KIT]: https://s.click.aliexpress.com/e/_omNZg0k
+[ENCLOSURE KIT - polycarbonate]: https://s.click.aliexpress.com/e/_oD5DAoU
+[BEARINGS AND SHAFTS KITS]: https://s.click.aliexpress.com/e/_oCrZCk4
