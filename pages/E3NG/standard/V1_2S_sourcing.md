@@ -43,9 +43,9 @@ COMING SOON
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mb-8 }
 {: .text-center }
----
+
 # 2. SELF SOURCING
 {: .text-center }
 
