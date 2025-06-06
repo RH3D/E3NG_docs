@@ -7,11 +7,11 @@ has_children: false
 nav_order: 10
 permalink: /E3NG_v1_2/standard/sourcing_parts/kits
 ---
-{: .warning }
-Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
-
 # KITS
 {: .text-center }
+
+{: .warning }
+Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
 There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
 
@@ -41,7 +41,7 @@ COMING SOON
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mb-10 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 
 continue to:
