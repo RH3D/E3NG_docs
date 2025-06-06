@@ -39,6 +39,8 @@ COMING SOON
 {: .text-center }
 [KIT - USA warehouse]{: .mr-3 } | [HARDWARE - USA warehouse]{: .mr-3 .ml-3 } | [ENCLOSURE - USA warehouse]{: .ml-3 }
 {: .text-center }
+[6MM ALUMINUM BED - upgrade]{: .mr-3 } | [BED CARRIAGE - upgrade]{: .ml-3 }
+{: .text-center }
 ---
 ## FUSHI BEARINGS
 
@@ -63,4 +65,6 @@ continue to:
 [KIT - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611
 [HARDWARE - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607
 [ENCLOSURE - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686
+[6MM ALUMINUM BED - upgrade]: https://s.click.aliexpress.com/e/_op0VN9i
+[BED CARRIAGE - upgrade]: https://s.click.aliexpress.com/e/_oCJYEE0
 [BEARINGS AND SHAFTS KITS]: https://s.click.aliexpress.com/e/_oCrZCk4
