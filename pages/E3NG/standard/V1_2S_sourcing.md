@@ -19,8 +19,12 @@ There are only some "official" vendors selling kits, these were put together in 
 
 ## FABREEKO kits
 
-[E3NG v1.2 FULL KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[E3NG v1.2 FULL KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 .px-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-5 }
+{: .text-center }
+[CAST ALU BED - upgrade]
+[CNC BED CARRIAGE - upgrade]
+[LMH12UU for CNC bed carriage]
 {: .text-center }
 ---
 ## FYSETC
@@ -30,14 +34,14 @@ COMING SOON
 ---
 ## FUNSSOR
 
-[E3NG v1.2 KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
-[HARDWARE]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[E3NG v1.2 KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 .px-5 }
+[HARDWARE]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 .px-5 }
 [ENCLOSURE - polycarbonate]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-5 }
 {: .text-center }
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-6 .px-5 }
 {: .text-center }
 
 # 2. SELF SOURCING
@@ -77,6 +81,9 @@ continue to:
 [PRINTING PARTS]: https://rh3d.xyz/E3NG_v1_2/standard/printing_parts
 [E3NG v1.2 FULL KIT]: https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger
 [ENCLOSURE PANELS - cast acrylic]: https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng
+[CAST ALU BED - upgrade]: https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger
+[CNC BED CARRIAGE - upgrade]: https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger
+[LMH12UU for CNC bed carriage]: https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger
 [E3NG v1.2 KIT]: https://s.click.aliexpress.com/e/_ooF6WBw
 [HARDWARE]: https://s.click.aliexpress.com/e/_omNZg0k
 [ENCLOSURE - polycarbonate]: https://s.click.aliexpress.com/e/_oD5DAoU
