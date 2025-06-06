@@ -7,15 +7,10 @@ has_children: false
 nav_order: 10
 permalink: /E3NG_v1_2/standard/sourcing_parts/kits
 ---
-# SOURCING PARTS
-{: .text-center }
-
-*The "S" version was put together to allow users build the printer without too much extra work. With that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.*
-
 {: .warning }
-Remember that the kits and the BOM below covers all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
+Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
-# 1. KITS
+# KITS
 {: .text-center }
 
 There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
