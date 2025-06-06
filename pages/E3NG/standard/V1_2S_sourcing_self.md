@@ -8,13 +8,14 @@ nav_order: 20
 permalink: /E3NG_v1_2/standard/sourcing_parts/self_sourcing
 ---
 # SELF SOURCING
-{: .no_toc .text-center }
+{: .text-center }
 
-If you are not interested in buying the complete kit, feel free to source all the parts yourself and possibly even reuse some other parts laying around.
+If you are not interested in buying the complete kit, feel free to source all the parts by yourself and possibly even reuse some other parts laying around.
+
 The links in the Bill of material are for products that have been tested and are of required quality for succesfull build.
 
 {: .warning }
-Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
+Remember that the BOM covers all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
 ## BILL OF MATERIAL
 
