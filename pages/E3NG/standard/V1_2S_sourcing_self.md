@@ -19,7 +19,7 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 ## BILL OF MATERIAL
 
-### HARDWARE FOR THE BASE BUILD (WITHOUT ENCLOSURE)
+### PRINTER HARDWARE
 #### SCREWS
 
 | Size    | Type                                   |  Quantity |  Link  |
@@ -54,6 +54,17 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | **M4** | **T-nut** `for 2020 V-Slot` |    32     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
 | **M3** | **heat set insert** `M3 x L4 x OD4,5 mm` |    110     |  [EDGAR GARY store](https://s.click.aliexpress.com/e/_oB9tEk4)  |
 | **M5** | **heat set insert** `M5 x L5 x OD7 mm` |    24     |  [EDGAR GARY store](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+{: class="transparant_table"}
+
+### MOTION AND FRAME PARTS
+#### BEARINGS
+
+| Size    | Type                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **LM8LUU** | linear motion bearing `ABEC - 5` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_opQZIVI)  |
+| **LM12UU**  | linear motion bearing `ABEC - 5` |    3     |  [FUSHI](https://s.click.aliexpress.com/e/_ok5XAxS)  |
+| **F695**-2RS  | flanged ball bearing `ABEC - 5` |    32     |  [FUSHI](https://s.click.aliexpress.com/e/_onTgpgY)  |
+| **608**-2RS | ball bearing |    6     |  [FUSHI](https://s.click.aliexpress.com/e/_oFegNPW)  |
 {: class="transparant_table"}
 
 continue to:
