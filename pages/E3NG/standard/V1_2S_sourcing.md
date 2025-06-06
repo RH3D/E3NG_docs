@@ -16,12 +16,13 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 {: .text-center }
 
 There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
-We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed.
+
+We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed. Before the purchase, always read through the product page and make sure that you understand the contents of the kit.
 
 ## FABREEKO kits
 
-[E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 .mr-5 }
-[ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
+[E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
+[ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 [CAST ALUMINUM BED - upgrade]{: .mt-1 .mr-3 .mb-1 } | [CNC BED CARRIAGE - upgrade]{: .mt-1 .mr-3 .ml-3 .mb-1 } | [LMH12UU for CNC carriage]{: .mt-1 .ml-3 .mb-1 }
 {: .text-center }
@@ -33,14 +34,14 @@ COMING SOON
 ---
 ## FUNSSOR
 
-[E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-6 .px-5 }
-[HARDWARE]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-6 .px-5 }
-[ENCLOSURE - polycarbonate]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-5 }
+[E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
+[HARDWARE]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
+[ENCLOSURE - polycarbonate]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-6 .px-5 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 
 # 2. SELF SOURCING
