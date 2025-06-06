@@ -19,11 +19,11 @@ There are only some "official" vendors selling kits, these were put together in 
 
 ## FABREEKO kits
 
-[E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
+[E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
 {: .text-center }
 [CAST ALUMINUM BED - upgrade]  |  [CNC BED CARRIAGE - upgrade]  |  [LMH12UU for CNC bed carriage]
-{: .text-center .mb-3 }
+{: .text-center .mb-3 .mt-3 }
 ---
 ## FYSETC
 
