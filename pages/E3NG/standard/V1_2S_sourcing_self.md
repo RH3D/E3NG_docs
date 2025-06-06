@@ -61,31 +61,31 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 | Size    | Type/specifications                                   |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
-| **LM8LUU** | linear motion bearing `ABEC - 5` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **LM12UU**  | linear motion bearing `ABEC - 5` |    3     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **LM8LUU** | linear motion bearing `ABEC - 5`   |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **LM12UU**  | linear motion bearing `ABEC - 5`  |    3     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
 | **F695**-2RS  | flanged ball bearing `ABEC - 5` |    32     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **608**-2RS | ball bearing |    6     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **608**-2RS | ball bearing                      |     6     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
 {: class="transparant_table"}
 
 #### LINEAR RODS
 
-| Size    | Type/specifications                                   |  Quantity |  Link  |
-|:--------|:---------------------------------------|:---------:|:------------:|
-| **8 x 350** mm | linear rod `h6, hardened steel` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **12 x 350** mm  | linear rod `h6, hardened steel` |    2     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **12 x 320** mm  | linear rod `h6, hardened steel` |    1     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| Size    | Type/specifications                      |  Quantity |  Link  |
+|:--------|:-----------------------------------------|:---------:|:------------:|
+| **8 x 350** mm | linear rod `h6, hardened steel`   |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 350** mm  | linear rod `h6, hardened steel` |     2     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 320** mm  | linear rod `h6, hardened steel` |     1     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
 {: class="transparant_table"}
 
 #### OTHER - MOTION
 
-| Type    | Specifications                                  |  Quantity |  Link  |
-|:--------|:---------------------------------------|:---------:|:------------:|
-| **GT2 belt** | **6 mm x 1140 mm** - closed loop |     1     |  [POWGE](https://s.click.aliexpress.com/e/_onseDGo)  |
-| **GT2 belt** | **6 mm** - open end `Powge or Gates` |    3 meters     |  [POWGE](https://s.click.aliexpress.com/e/_omPS6LE)  |
-| **GT2 pulley**  | **40T, 8 mm bore, for 6 mm belt** `17mm total width` |    3     |  [POWGE](https://s.click.aliexpress.com/e/_oFO5eja)  |
-| **GT2 pulley**  | **20T, 5 mm bore, for 6 mm belt**  |    3     |  [POWGE](https://s.click.aliexpress.com/e/_opxx7yo)  |
-| **Leadscrew**  | **T8/8 - 300 mm** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
-| **Leadscrew nut**  | **T8/8 - round shape, 4 holes** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
+| Type         | Specifications                                  |  Quantity |  Link  |
+|:-------------|:---------------------------------------|:---------:|:------------:|
+| **GT2** belt | **6 mm x 1140 mm** - closed loop       |     1     |  [POWGE](https://s.click.aliexpress.com/e/_onseDGo)  |
+| **GT2** belt | **6 mm** - open end `Powge or Gates`   |    3 meters     |  [POWGE](https://s.click.aliexpress.com/e/_omPS6LE)  |
+| **GT2** pulley  | **40T, 8 mm bore, for 6 mm belt** `17mm total width` |    3     |  [POWGE](https://s.click.aliexpress.com/e/_oFO5eja)  |
+| **GT2** pulley  | **20T, 5 mm bore, for 6 mm belt**   |    3     |  [POWGE](https://s.click.aliexpress.com/e/_opxx7yo)  |
+| **Leadscrew**  | **T8/8 - 300 mm**                    |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
+| **Leadscrew nut**  | **T8/8 - round shape, 4 holes**  |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
 {: class="transparant_table"}
 
 continue to:
