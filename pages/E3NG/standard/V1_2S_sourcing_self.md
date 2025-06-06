@@ -50,10 +50,10 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 |:--------|:---------------------------------------|:---------:|:------------:|
 | **M5** | **washer** `DIN 125A / ISO 7089` |    65     |  [NINDEJIN](https://s.click.aliexpress.com/e/_olHMc2g)  |
 | **M3** | **hex nut** `DIN 934 / ISO 8673` |    5     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oDy3nla)  |
-| **M3** | **T-nut** `for 2020 V-Slot` |    35     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
-| **M4** | **T-nut** `for 2020 V-Slot` |    32     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
-| **M3** | **heat set insert** `M3 x L4 x OD4,5 mm` |    110     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
-| **M5** | **heat set insert** `M5 x L5 x OD7 mm` |    24     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+| **M3** | **T-nut** `for 2020 V-Slot extrusion` |    35     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
+| **M4** | **T-nut** `for 2020 V-Slot extrusion` |    32     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
+| **M3** | **heat set threaded insert** `M3 x L 4 x OD 4,5 mm` |    110     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+| **M5** | **heat set threaded insert** `M5 x L 5 x OD 7 mm` |    24     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
 {: class="transparant_table"}
 
 ## MOTION AND FRAME PARTS
@@ -71,21 +71,21 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 | Size    | Type/specifications                                   |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
-| **8 x 350** mm | linear rod `h6, hardened` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **12 x 350** mm  | linear rod `h6, hardened` |    2     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
-| **12 x 320** mm  | linear rod `h6, hardened` |    1     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **8 x 350** mm | linear rod `h6, hardened steel` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 350** mm  | linear rod `h6, hardened steel` |    2     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 320** mm  | linear rod `h6, hardened steel` |    1     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
 {: class="transparant_table"}
 
 #### OTHER - MOTION
 
 | Type    | Specifications                                  |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
-| **GT2 belt** | **6 mm x 1140 mm closed loop** |     1     |  [POWGE](https://s.click.aliexpress.com/e/_onseDGo)  |
-| **GT2 belt** | **6 mm** `Powge or Gates` |    3 meters     |  [POWGE](https://s.click.aliexpress.com/e/_omPS6LE)  |
-| **GT2 pulley**  | **40T, 8 mm hole, 6mm width** `17mm total width` |    3     |  [POWGE](https://s.click.aliexpress.com/e/_oFO5eja)  |
-| **GT2 pulley**  | **20T, 5 mm hole, 6mm width**  |    3     |  [POWGE](https://s.click.aliexpress.com/e/_opxx7yo)  |
+| **GT2 belt** | **6 mm x 1140 mm** - closed loop |     1     |  [POWGE](https://s.click.aliexpress.com/e/_onseDGo)  |
+| **GT2 belt** | **6 mm** - open end `Powge or Gates` |    3 meters     |  [POWGE](https://s.click.aliexpress.com/e/_omPS6LE)  |
+| **GT2 pulley**  | **40T, 8 mm bore, for 6 mm belt** `17mm total width` |    3     |  [POWGE](https://s.click.aliexpress.com/e/_oFO5eja)  |
+| **GT2 pulley**  | **20T, 5 mm bore, for 6 mm belt**  |    3     |  [POWGE](https://s.click.aliexpress.com/e/_opxx7yo)  |
 | **Leadscrew**  | **T8/8 - 300 mm** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
-| **Leadscrew nut**  | **T8/8 - round, 4 holes** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
+| **Leadscrew nut**  | **T8/8 - round shape, 4 holes** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
 {: class="transparant_table"}
 
 continue to:
