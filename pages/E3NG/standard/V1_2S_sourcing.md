@@ -3,7 +3,7 @@ title: Sourcing parts
 layout: default
 parent: v1.2S - (standard)
 grand_parent: E3NG v1.2
-has_children: false
+has_children: true
 nav_order: 10
 permalink: /E3NG_v1_2/standard/sourcing_parts
 ---
