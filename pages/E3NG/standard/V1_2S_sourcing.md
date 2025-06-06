@@ -15,7 +15,7 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 # 1. KITS
 {: .text-center }
 
-There are only some "official" vendors selling kits. While you might be able to find them elsewhere, no one can assure you the purchase will be worth it. The official kits were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts. If you encounter any issues with them, it will be easier to sort it out.
+There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts. We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed.
 
 ## FABREEKO kits
 
