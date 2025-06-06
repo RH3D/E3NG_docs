@@ -8,7 +8,7 @@ nav_order: 20
 permalink: /E3NG_v1_2/standard/sourcing_parts/self_sourcing
 ---
 # SELF SOURCING
-{: .text-center }
+{: .no_toc .text-center }
 
 If you are not interested in buying the complete kit, feel free to source all the parts yourself and possibly even reuse some other parts laying around.
 The links in the Bill of material are for products that have been tested and are of required quality for succesfull build.
