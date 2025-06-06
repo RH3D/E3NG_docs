@@ -17,12 +17,12 @@ The links in the Bill of material are for products that have been tested and are
 {: .warning }
 Remember that the BOM covers all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
-## BILL OF MATERIAL
+# BILL OF MATERIAL
 
-### PRINTER HARDWARE
+## PRINTER HARDWARE
 #### SCREWS
 
-| Size    | Type                                   |  Quantity |  Link  |
+| Size    | Type/specifications                                   |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
 | **M2** x 10 | **socket** head `DIN 912 / ISO 4762` |     4     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
 | **M3** x 6  | **socket** head `DIN 912 / ISO 4762` |    72     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
@@ -46,7 +46,7 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 #### WASHERS, NUTS, T-NUTS, HEAT SET INSERTS
 
-| Size    | Type                                   |  Quantity |  Link  |
+| Size    | Type/specifications                                   |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
 | **M5** | **washer** `DIN 125A / ISO 7089` |    65     |  [NINDEJIN](https://s.click.aliexpress.com/e/_olHMc2g)  |
 | **M3** | **hex nut** `DIN 934 / ISO 8673` |    5     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oDy3nla)  |
@@ -56,15 +56,36 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | **M5** | **heat set insert** `M5 x L5 x OD7 mm` |    24     |  [EDGAR GARY store](https://s.click.aliexpress.com/e/_oB9tEk4)  |
 {: class="transparant_table"}
 
-### MOTION AND FRAME PARTS
+## MOTION AND FRAME PARTS
 #### BEARINGS
 
-| Size    | Type                                   |  Quantity |  Link  |
+| Size    | Type/specifications                                   |  Quantity |  Link  |
 |:--------|:---------------------------------------|:---------:|:------------:|
-| **LM8LUU** | linear motion bearing `ABEC - 5` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_opQZIVI)  |
-| **LM12UU**  | linear motion bearing `ABEC - 5` |    3     |  [FUSHI](https://s.click.aliexpress.com/e/_ok5XAxS)  |
-| **F695**-2RS  | flanged ball bearing `ABEC - 5` |    32     |  [FUSHI](https://s.click.aliexpress.com/e/_onTgpgY)  |
-| **608**-2RS | ball bearing |    6     |  [FUSHI](https://s.click.aliexpress.com/e/_oFegNPW)  |
+| **LM8LUU** | linear motion bearing `ABEC - 5` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **LM12UU**  | linear motion bearing `ABEC - 5` |    3     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **F695**-2RS  | flanged ball bearing `ABEC - 5` |    32     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **608**-2RS | ball bearing |    6     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+{: class="transparant_table"}
+
+#### LINEAR RODS
+
+| Size    | Type/specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **8 x 350** mm | linear rod `h6, hardened` |     4     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 350** mm  | linear rod `h6, hardened` |    2     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **12 x 320** mm  | linear rod `h6, hardened` |    1     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+{: class="transparant_table"}
+
+#### OTHER - MOTION
+
+| Type    | Specifications                                  |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **GT2 belt** | **6 mm x 1140 mm closed loop** |     1     |  [POWGE](https://s.click.aliexpress.com/e/_onseDGo)  |
+| **GT2 belt** | **6 mm** `Powge or Gates` |    3 meters     |  [POWGE](https://s.click.aliexpress.com/e/_omPS6LE)  |
+| **GT2 pulley**  | **40T, 8 mm hole, 6mm width** `17mm total width` |    3     |  [POWGE](https://s.click.aliexpress.com/e/_oFO5eja)  |
+| **GT2 pulley**  | **20T, 5 mm hole, 6mm width**  |    3     |  [POWGE](https://s.click.aliexpress.com/e/_opxx7yo)  |
+| **Leadscrew**  | **T8/8 - 300 mm** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
+| **Leadscrew nut**  | **T8/8 - round, 4 holes** |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
 {: class="transparant_table"}
 
 continue to:
