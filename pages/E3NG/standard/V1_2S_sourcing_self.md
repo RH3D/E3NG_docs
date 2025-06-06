@@ -88,6 +88,17 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | **Leadscrew nut**  | **T8/8 - round shape, 4 holes**  |    3     |  [KINGROON](https://s.click.aliexpress.com/e/_oBpikUG)  |
 {: class="transparant_table"}
 
+#### OTHER
+
+| Type         | Specifications                                  |  Quantity |  Link  |
+|:-------------|:---------------------------------------|:---------:|:------------:|
+| extrusion | **2040 - 350 mm V-Slot** `black`       |     2     |  [VEEKAFT](https://s.click.aliexpress.com/e/_olW0kS0)  |
+| extrusion | **2040 - 300 mm V-Slot** `black`   |    2     |  [VEEKAFT](https://s.click.aliexpress.com/e/_olW0kS0)  |
+| PTFE tube  | **OD 4 x ID 2 mm**  |    1 meter     |  [MELLOW 3D](https://s.click.aliexpress.com/e/_ooNy9K4)  |
+| Rubber feet  | hole for **M5** screw, OD 27 mm base   |    4     |  [AliExpress](https://s.click.aliexpress.com/e/_opKmyGk)  |
+| Bed spacer  | silicone spacer, hole for **M4** screw                    |    4     |  [CREALITY 3D](https://s.click.aliexpress.com/e/_oBIiCGc)  |
+{: class="transparant_table"}
+
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
