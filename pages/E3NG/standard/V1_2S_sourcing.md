@@ -23,7 +23,7 @@ We are **not** the vendor and thus not directly responsible for the offered serv
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
 {: .text-center }
-[CAST ALUMINUM BED - upgrade]{: .mt-2 .mr-3 .mb-2 } | [CNC BED CARRIAGE - upgrade]{: .mt-2 .mr-3 .ml-3 .mb-2 } | [LMH12UU]{: .mt-2 .ml-3 .mb-2 }
+[CAST ALUMINUM BED - upgrade]{: .mt-2 .mr-3 .mb-2 } | [CNC BED CARRIAGE - upgrade]{: .mt-2 .mr-3 .ml-3 .mb-2 } | [LMH12UU for CNC carriage]{: .mt-2 .ml-3 .mb-2 }
 {: .text-center }
 ---
 ## FYSETC
@@ -82,7 +82,7 @@ continue to:
 [ENCLOSURE PANELS - cast acrylic]: https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng
 [CAST ALUMINUM BED - upgrade]: https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger
 [CNC BED CARRIAGE - upgrade]: https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger
-[LMH12UU for CNC bed carriage]: https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger
+[LMH12UU for CNC carriage]: https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger
 [E3NG v1.2 KIT]: https://s.click.aliexpress.com/e/_ooF6WBw
 [HARDWARE]: https://s.click.aliexpress.com/e/_omNZg0k
 [ENCLOSURE - polycarbonate]: https://s.click.aliexpress.com/e/_oD5DAoU
