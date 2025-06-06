@@ -12,6 +12,9 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 
 *The "S" version was put together to allow users build the printer without too much extra work. With that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.*
 
+{: .warning }
+Remember that the kits and the BOM below covers all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
+
 # 1. KITS
 {: .text-center }
 
@@ -43,13 +46,14 @@ COMING SOON
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mb-8 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mb-10 }
 {: .text-center }
 
 # 2. SELF SOURCING
 {: .text-center }
 
-TEXT HERE
+If you are not interested in buying the complete kit, feel free to source all the parts yourself and possibly even reuse some other parts laying around.
+The Bill of material includes 
 
 ## BILL OF MATERIAL
 
