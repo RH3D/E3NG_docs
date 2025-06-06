@@ -10,11 +10,7 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 # SOURCING PARTS
 {: .text-center }
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
-
-{: .highlight }
-The "S" version was put together to allow users build the printer without too much extra work and with that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.
+*The "S" version was put together to allow users build the printer without too much extra work and with that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.*
 
 # 1. KITS
 {: .text-center }
@@ -26,19 +22,19 @@ There are only some "official" vendors selling kits. While you might be able to 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
 {: .text-center }
-
+---
 ## FYSETC
 
-[COMING SOON]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
+COMING SOON
 {: .text-center }
-
+---
 ## FUNSSOR
 
 [E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
 [HARDWARE]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
 [ENCLOSURE - polycarbonate]{: .btn .fs-5 .fw-300 .text-yellow-300 .px-6 }
 {: .text-center }
-
+---
 ## FUSHI BEARINGS
 
 [BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mr-7 .px-6 }
