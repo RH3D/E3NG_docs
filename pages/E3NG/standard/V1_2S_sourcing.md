@@ -19,8 +19,8 @@ There are only some "official" vendors selling kits, these were put together in 
 
 ## FABREEKO kits
 
-[E3NG v1.2 FULL KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-6 }
-[ENCLOSURE PANELS - cast acrylic]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-6 }
+[E3NG v1.2 FULL KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[ENCLOSURE PANELS - cast acrylic]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-5 }
 {: .text-center }
 ---
 ## FYSETC
@@ -30,14 +30,14 @@ COMING SOON
 ---
 ## FUNSSOR
 
-[E3NG v1.2 KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-6 }
-[HARDWARE]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-6 }
-[ENCLOSURE - polycarbonate]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-6 }
+[E3NG v1.2 KIT]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[HARDWARE]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
+[ENCLOSURE - polycarbonate]{: .btn .fs-4 .fw-300 .text-yellow-300 .px-5 }
 {: .text-center }
 ---
 ## FUSHI BEARINGS
 
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-6 }
+[BEARINGS AND SHAFTS KITS]{: .btn .fs-4 .fw-300 .text-yellow-300 .mr-7 .px-5 }
 {: .text-center }
 
 # 2. SELF SOURCING
