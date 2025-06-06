@@ -10,14 +10,14 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 # SOURCING PARTS
 {: .text-center }
 
-*The "S" version was put together to allow users build the printer without too much extra work and with that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.*
+*The "S" version was put together to allow users build the printer without too much extra work. With that, it was the priority to offer kits to avoid the need to source all the individual parts. Starting the build with available kit is the preferred choice but you still have the option to source all the parts yourself.*
 
 # 1. KITS
 {: .text-center }
 
 There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
 
-We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed. Before the purchase, always read through the product page and make sure that you understand the contents of the kit.
+But **we are not the vendor** and thus not directly responsible for the offered service and products, if you face any issue, you should contact them first. Before the purchase, always read through the product page and make sure that you understand the contents of the kit.
 
 ## FABREEKO kits
 
@@ -45,7 +45,7 @@ COMING SOON
 
 [BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
-
+---
 # 2. SELF SOURCING
 {: .text-center }
 
