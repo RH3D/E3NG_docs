@@ -24,10 +24,24 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 
 | Size    | Type                                   |  Quantity |  Recommended  |   Alternative   |
 |:--------|:---------------------------------------|:---------:|:------------:|:--------------:|
-| M2 x 10 | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
-| M3 x 6  | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
-| M3 x 8  | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
-| M3 x 10 | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
+| **M2** x 10 | **socket** head `DIN 912 / ISO 4762` |     4     |  link later  |   link later   |
+| **M3** x 6  | **socket** head `DIN 912 / ISO 4762` |    72     |  link later  |   link later   |
+| **M3** x 8  | **socket** head `DIN 912 / ISO 4762` |    50     |  link later  |   link later   |
+| **M3** x 10 | **socket** head `DIN 912 / ISO 4762` |    34     |  link later  |   link later   |
+| **M3** x 16 | **socket** head `DIN 912 / ISO 4762` |     4     |  link later  |   link later   |
+| **M3** x 20 | **socket** head `DIN 912 / ISO 4762` |    15     |  link later  |   link later   |
+| **M3** x 25 | **socket** head `DIN 912 / ISO 4762` |     8     |  link later  |   link later   |
+| **M3** x 35 | **socket** head `DIN 912 / ISO 4762` |    11     |  link later  |   link later   |
+| **M4** x 8  | **socket** head `DIN 912 / ISO 4762` |    34     |  link later  |   link later   |
+| **M4** x 10 | **socket** head `DIN 912 / ISO 4762` |    12     |  link later  |   link later   |
+| **M5** x 12 | **socket** head `DIN 912 / ISO 4762` |    24     |  link later  |   link later   |
+| **M5** x 20 | **socket** head `DIN 912 / ISO 4762` |     4     |  link later  |   link later   |
+| **M5** x 25 | **socket** head `DIN 912 / ISO 4762` |    10     |  link later  |   link later   |
+| **M5** x 35 | **socket** head `DIN 912 / ISO 4762` |     4     |  link later  |   link later   |
+| **M5** x 10 | **button** head `DIN 938 / ISO 7380` |     4     |  link later  |   link later   |
+| **M5** x 20 | **button** head `DIN 938 / ISO 7380` |    20     |  link later  |   link later   |
+| **M5** x 30 | **button** head `DIN 938 / ISO 7380` |     4     |  link later  |   link later   |
+| **M3** x 5  | **flathead** setscrew `DIN 913 / ISO 4026` |     8     |  link later  |   link later   |
 {: class="transparant_table"}
 
 #### WASHERS, NUTS, T-NUTS, HEAT INSERTS
