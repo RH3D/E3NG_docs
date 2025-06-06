@@ -24,7 +24,7 @@ We are **not** the vendor and thus not directly responsible for the offered serv
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
-[CAST ALUMINUM BED - upgrade]{: .mt-1 .mr-3 .mb-1 } | [CNC BED CARRIAGE - upgrade]{: .mt-1 .mr-3 .ml-3 .mb-1 } | [LMH12UU for CNC carriage]{: .mt-1 .ml-3 .mb-1 }
+[CAST ALUMINUM BED - upgrade]{: .mr-3 } | [CNC BED CARRIAGE - upgrade]{: .mr-3 .ml-3 } | [LMH12UU for CNC carriage]{: .ml-3 }
 {: .text-center }
 ---
 ## FYSETC
