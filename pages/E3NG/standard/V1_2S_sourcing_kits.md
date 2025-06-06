@@ -8,7 +8,7 @@ nav_order: 10
 permalink: /E3NG_v1_2/standard/sourcing_parts/kits
 ---
 # KITS
-{: .text-center }
+{: .text-center .no_toc }
 
 Only some vendors are officialy selling kits, these were put together in cooperation with us and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
 
@@ -16,7 +16,7 @@ But **we are not the vendor** and not directly responsible for the offered servi
 
 {: .warning }
 Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
-
+---
 ## FABREEKO kits
 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
