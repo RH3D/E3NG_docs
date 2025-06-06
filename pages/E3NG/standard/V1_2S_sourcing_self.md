@@ -52,8 +52,8 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | **M3** | **hex nut** `DIN 934 / ISO 8673` |    5     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oDy3nla)  |
 | **M3** | **T-nut** `for 2020 V-Slot` |    35     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
 | **M4** | **T-nut** `for 2020 V-Slot` |    32     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
-| **M3** | **heat set insert** `M3 x L4 x OD4,5 mm` |    110     |  [EDGAR GARY store](https://s.click.aliexpress.com/e/_oB9tEk4)  |
-| **M5** | **heat set insert** `M5 x L5 x OD7 mm` |    24     |  [EDGAR GARY store](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+| **M3** | **heat set insert** `M3 x L4 x OD4,5 mm` |    110     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+| **M5** | **heat set insert** `M5 x L5 x OD7 mm` |    24     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
 {: class="transparant_table"}
 
 ## MOTION AND FRAME PARTS
