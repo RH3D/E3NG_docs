@@ -15,15 +15,16 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 # 1. KITS
 {: .text-center }
 
-There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts. We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed.
+There are only some "official" vendors selling kits, these were put together in cooperation with the vendors and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
+We are **not** the vendor and thus not directly responsible for the offered service and products but we are in contact with them and will try to help if needed.
 
 ## FABREEKO kits
 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
 {: .text-center }
-[CAST ALUMINUM BED - upgrade]  |  [CNC BED CARRIAGE - upgrade]  |  [LMH12UU for CNC bed carriage]
-{: .text-center .mb-3 .mt-3 }
+[CAST ALUMINUM BED - upgrade]{ .mt-3 .mr-5 .mb-3 } | [CNC BED CARRIAGE - upgrade]{ .mt-3 .mr-5 .mb-3 } | [LMH12UU for CNC bed carriage]{ .mt-3 .mr-5 .mb-3 }
+{: .text-center }
 ---
 ## FYSETC
 
