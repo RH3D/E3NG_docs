@@ -1,5 +1,5 @@
 ---
-title: E3NG
+title: E3NG v1.2
 layout: home
 has_children: true
 nav_order: 2
