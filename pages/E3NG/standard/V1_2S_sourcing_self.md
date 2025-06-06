@@ -99,6 +99,61 @@ Remember that the BOM covers all the required parts needed for the conversion bu
 | Bed spacer  | silicone spacer, hole for **M4** screw                    |    4     |  [CREALITY 3D](https://s.click.aliexpress.com/e/_oBIiCGc)  |
 {: class="transparant_table"}
 
+## ELECTRONICS
+#### FANS
+
+| Type    | Specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **3010** fan | **axial** fan `24V, dual ball bearing, HIGH RPM`   |     1     |  [GDStime](https://s.click.aliexpress.com/e/_oCNiPq4)  |
+| **4010** fan | **radial** fan `24V, dual ball bearing, HIGH RPM`  |    2     |  [GDStime](https://s.click.aliexpress.com/e/_oEyKaE0)  |
+| **6015** fan  | **axial** fan `24V, dual ball bearing` |    2     |  [WINSINN](https://s.click.aliexpress.com/e/_oEQKmNI)  |
+{: class="transparant_table"}
+
+#### OTHER
+
+| Type    | Specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| DIN rail | **35 x 350** mm   |     2     |  [AliExpress](https://s.click.aliexpress.com/e/_ookAI5W)  |
+| DIN rail | **35 x 200** mm   |    1     |  [AliExpress](https://s.click.aliexpress.com/e/_ookAI5W)  |
+| microswitch | `Omron D2F-L` |    3     |  [AliExpress](https://s.click.aliexpress.com/e/_ompcb2M)  |
+{: class="transparant_table"}
+
+## ENCLOSURE
+#### PANELS
+*DXF files are available at printables.*
+
+| Type    | Specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| PANEL KIT | **5 mm** door panel, other panels **4 mm**   |     1     |  [FUNSSOR](https://s.click.aliexpress.com/e/_oCO1L0o)  |
+{: class="transparant_table"}
+
+#### OTHER
+
+| Type    | Specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **F695**-2RS | flanged ball bearing `ABEC - 5` |     12     |  [FUSHI](https://s.click.aliexpress.com/e/_ol5zLEy)  |
+| **6015** fan  | **axial** fan `24V, dual ball bearing` |    1     |  [WINSINN](https://s.click.aliexpress.com/e/_oEQKmNI)  |
+| **N42** magnet  | **OD 6 x L 3** mm - neodymium magnet |    20     |  ---  |
+{: class="transparant_table"}
+
+#### HARDWARE
+
+| Size    | Type/specifications                                   |  Quantity |  Link  |
+|:--------|:---------------------------------------|:---------:|:------------:|
+| **M3** x 6  | **socket** head `DIN 912 / ISO 4762` |    2     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M3** x 10 | **socket** head `DIN 912 / ISO 4762` |    51     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M3** x 14 | **socket** head `DIN 912 / ISO 4762` |    17     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M3** x 25 | **socket** head `DIN 912 / ISO 4762` |     4     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M3** x 35 | **socket** head `DIN 912 / ISO 4762` |    2     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M5** x 12 | **socket** head `DIN 912 / ISO 4762` |    12     |  [NINDEJIN](https://s.click.aliexpress.com/e/_oEqVeJK)  |
+| **M3** x 12 | **countersunk** head `DIN 7991 / ISO 10642` |    12     |  [NINDEJIN](https://s.click.aliexpress.com/e/_okNhDfW)  |
+| **M5** | **washer** `DIN 125A / ISO 7089` |    12     |  [NINDEJIN](https://s.click.aliexpress.com/e/_olHMc2g)  |
+| **M3** | **T-nut** `for 2020 V-Slot extrusion` |    46     |  [NINDEJIN](https://s.click.aliexpress.com/e/_ooSJSAs)  |
+| **M3** | **heat set threaded insert** `M3 x L 4 x OD 4,5 mm` |    41     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+| **M5** | **heat set threaded insert** `M5 x L 5 x OD 7 mm` |    12     |  [EDGAR GARY st.](https://s.click.aliexpress.com/e/_oB9tEk4)  |
+{: class="transparant_table"}
+
+
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
