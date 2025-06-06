@@ -22,8 +22,8 @@ There are only some "official" vendors selling kits, these were put together in 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-6 }
 {: .text-center }
-[CAST ALUMINUM BED - upgrade] | [CNC BED CARRIAGE - upgrade] | [LMH12UU for CNC bed carriage]
-{: .text-center }
+[CAST ALUMINUM BED - upgrade]  |  [CNC BED CARRIAGE - upgrade]  |  [LMH12UU for CNC bed carriage]
+{: .text-center .mb-3 }
 ---
 ## FYSETC
 
