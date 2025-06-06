@@ -72,7 +72,7 @@ The links in the Bill of material are for products that have been tested and are
 
 | Size    | Type                                   |  Quantity |  Rec. src  |   Alt. src   |
 |:--------|:---------------------------------------|:---------:|:------------:|:--------------:|
-| M2 x 10 | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
+| M2 x 10 | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   lnk later   |
 | M3 x 6  | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
 | M3 x 8  | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
 | M3 x 10 | socket head `DIN 912 / ISO 4762` |    XX     |  link later  |   link later   |
