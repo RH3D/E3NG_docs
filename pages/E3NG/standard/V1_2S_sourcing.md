@@ -53,7 +53,7 @@ COMING SOON
 {: .text-center }
 
 If you are not interested in buying the complete kit, feel free to source all the parts yourself and possibly even reuse some other parts laying around.
-The Bill of material includes 
+The links in the Bill of material are for products that have been tested and are of required quality for succesfull build.
 
 ## BILL OF MATERIAL
 
