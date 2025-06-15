@@ -22,7 +22,7 @@ A typical filename looks like this: `filename_[M_2].stl`. The bracket contains t
 #### COLOR
  - `M` = main color
  - `A` = accent color
- - `X` = assembly - use only, part is not used on the final printer, use any color
+ - `X` = assembly-use only, part is not used on the final printer, use any color
 
 #### QUANTITY
  - A number indicates how many pieces to print
@@ -32,7 +32,7 @@ A typical filename looks like this: `filename_[M_2].stl`. The bracket contains t
    - Also present on toolhead parts.
 
 ### OPTIONAL FILE ATTRIBUTES
-Some files include additional descriptors before the bracket, like this: `filename-S_[A_1].stl`.
+Some files include additional descriptors before the bracket which help you decide the quantity needed if `X` is specified in the bracket, like this: `filename-S_[A_X].stl`.
 
 #### SIZE
  - `S` = small
