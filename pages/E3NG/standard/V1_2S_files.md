@@ -31,12 +31,24 @@ A typical filename looks like this: `filename_[M_2].stl`. The bracket contains t
    - `E3V2` = needed only for Ender 3 V2 as a base printer
    - Also present on toolhead parts.
 
-quantity: a number gives you exact amount of printed pieces, X = part either is used or is not. follow the filename and based on other information decide wether you need it or not ( for example "E3" means you only need the part when you build your printer from Ender 3, "E3V2" means you need the part if you start with Ender 3 V2, it also appears on toolhead parts where you need to choose the part based on the probe/hotend/extruder etc. of your choice)
+### OPTIONAL FILE ATTRIBUTES
+Some files include additional descriptors before the bracket, like this: `filename-S_[A_1].stl`.
 
-Additional information is only on some parts, is before the brackets and looks like this filename**-S_[A_1]**.stl
+#### SIZE
+ - `S` = small
+ - `M` = medium
+ - `L` = large
+   This primarily applies to toolhead parts. Choose the hotend mount based on the hotend you’re using, then print the other parts (cooling ducts, probe mounts, etc.) using the same size designation.
 
-size: S = small, M = medium, L = large - this is used for toolhead parts - first choose the hotend mount for the hotend you will use and see the size note in the filename. Then print other parts based on this size. For example Bambulab hotend is toolhead_hotend_bambulab-S_[A-X].stl, so you will print other parts (cooling, probe) with the same "S" size note. If the probe file doesn't have size note, it means it is universal.
-printer variant: E3 = Ender 3 used as a base printer, E3V2 = Ender 3 V2 used as a base printer.
+Example: `toolhead_hotend_bambulab-S_[A-X].stl`
+  - indicates size `S`. Use the same size prefix for related parts.
+  - If a probe file has no size specified, it's considered universal.
+
+#### PRINTER VARIANT
+ - `E3` = Creality Ender 3 used as a base printer for conversion.
+ - `E3V2` = Creality Ender 3 V2 used as a base printer for conversion.
+
+
 
 {: .warning }
 The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
