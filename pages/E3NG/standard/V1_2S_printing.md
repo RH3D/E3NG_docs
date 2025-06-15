@@ -16,7 +16,6 @@ And one of the least important things - you, of course, need to choose your colo
 
 ---
 # MATERIAL SELECTION
-{: .text-center }
 
 #### ABS/ASA
 The most recommended and best choice material for printing parts. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.
@@ -45,7 +44,7 @@ carriage should still be printer with higher temperature resistant material.
 
 ---
 # PRINTING PARAMETERS
-{: .text-center }
+
 All STL files are properly oriented for printing. Some parts include built-in supports, they are marked with ❌.
 
 Depending on your configuration and print settings (brim, draft, purge line), you may need to print bigger parts that require up to 235x235 mm print area. Default print size for Ender 3 is 220x220 mm but you can set it to 235x235 mm in slicer without issues.
@@ -64,16 +63,16 @@ Depending on your configuration and print settings (brim, draft, purge line), yo
 
 ---
 # CALIBRATION PRINT AND TOLERANCES
-{: .text-center }
+
 Before printing parts, it is highly recommended to print the calibration cube. It contains essential features that are related to the project parts like holes for 8mm rods, for LM8LUU bearing, M3 and M5 heat inserts and some other print features to view the print quality.
 
 All the parts are designed with rather tight tolerances (.2mm), so depending on your print quality and precision, it might cause too tight fit mainly on linear rods/bearings. If this is your case, you should clear the holes idealy with a reamer. You can also use properly sized drill bit or even a piece of fine-grit sandpaper on a round stick. Just proceed slowly and carefully so you don’t enlarge the holes too much, the ideal situation is to hand press the parts in with no noticeable play.
 
-[Download the calibration cube.]
+[DOWNLOAD THE CALIBRATION CUBE.]
 
 ---
 # PRINTING PARTS IN COLOR
-{: .text-center }
+
 If you need help with choosing the colors for your printer, have a look at the [COLOR SCHEME] tool!
 
 To follow the main/recommended color scheme, see the file names where each is marked either with **[A]** (accent) or **[M]** (main) as a color marker. But this is your printer, be creative and make your own color combination and design.
@@ -87,5 +86,5 @@ continue to:
 {: .text-right }
 
 [COLOR SCHEME]: https://rh3d.xyz/E3NG_v1_2/color_scheme
-[Download the calibration cube.]: https://www.printables.com/en/model/478403
+[DOWNLOAD THE CALIBRATION CUBE.]: https://www.printables.com/en/model/478403
 [FILES]: https://rh3d.xyz/E3NG_v1_2/standard/files
