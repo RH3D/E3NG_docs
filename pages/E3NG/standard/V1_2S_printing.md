@@ -15,7 +15,7 @@ Before we dive into downloading all the files and starting the prints, it's impo
 And one of the least important things - you, of course, need to choose your colour combination.
 
 ---
-# __MATERIAL SELECTION__
+# MATERIAL SELECTION
 
 #### ABS/ASA
 The most recommended and best choice material for printing parts. It has great properties to withstand increased temperatures, repeated stress and continuous pressure.
