@@ -18,10 +18,13 @@ The filenames follow a consistent format based on the part’s position, but pay
 
 ### STANDART FILE NAMING
 A typical filename looks like this:
+
 filename_[M_2].stl.
 {: .label }
 The bracket contains two important pieces of information:
 
+#### COLOR:
+ - 
 Standard file looks something like this filename**_[M_2]**.stl, where the bracket includes two important informations - first being the part color, second being the quantity of parts required.
 
 color: M = main color, A = accent color, X = part is used only in assembly and is not used on the final printer, use whatever color.
