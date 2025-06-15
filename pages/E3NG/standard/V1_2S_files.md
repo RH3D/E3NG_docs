@@ -17,18 +17,19 @@ The folder structure is intentionally simple, designed to help you organize part
 The filenames follow a consistent format based on the part’s position, but pay close attention to the end of each name. Every file includes a small note in brackets, and some may also contain additional information such as size or variant details.
 
 ### STANDART FILE NAMING
-A typical filename looks like this: 'filename_[M_2].stl'. The bracket contains two important pieces of information:
+A typical filename looks like this: `filename_[M_2].stl`. The bracket contains two important pieces of information:
 
 #### COLOR
- - M = main color
- - A = accent color
- - X = assembly - use only, part is not used on the final printer, use any color
+ - `M` = main color
+ - `A` = accent color
+ - `X` = assembly - use only, part is not used on the final printer, use any color
 
 #### QUANTITY
  - A number indicates how many pieces to print
- - X = optional, you'll need to decide based on your configuration, for example:
- - - E3 = needed only for Ender 3 as a base printer
-   - E3V2 = needed only for Ender 3 V2 as a base printer
+ - `X` = optional, you'll need to decide based on your configuration, for example:
+   - `E3` = needed only for Ender 3 as a base printer
+   - `E3V2` = needed only for Ender 3 V2 as a base printer
+   - Also present on toolhead parts.
 
 quantity: a number gives you exact amount of printed pieces, X = part either is used or is not. follow the filename and based on other information decide wether you need it or not ( for example "E3" means you only need the part when you build your printer from Ender 3, "E3V2" means you need the part if you start with Ender 3 V2, it also appears on toolhead parts where you need to choose the part based on the probe/hotend/extruder etc. of your choice)
 
