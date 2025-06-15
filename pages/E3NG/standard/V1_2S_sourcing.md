@@ -12,7 +12,9 @@ permalink: /E3NG_v1_2/standard/sourcing_parts
 
 The "S" version was designed to let users build the printer with minimal extra effort. To support that goal, we prioritized offering kits to eliminate the hassle of sourcing individual parts.
 
-Starting your build with an available kit is the preferred option, as it saves time, reduces complexity, and typically offers a better price-to-performance ratio. That said, sourcing the parts yourself is still a fully supported alternative.
+Starting your build with an available kit is the preferred option, as it saves time, reduces complexity, and typically offers a better price-to-performance ratio.
+
+That said, sourcing the parts yourself is still a fully supported alternative.
 
 [KITS]{: .btn .fs-7 .fw-300 .mt-8 .mb-8 .text-yellow-300 .mr-7 }
 [BILL OF MATERIAL]{: .btn .fs-7 .fw-300 .mt-8 .mb-8 .text-yellow-300 }
