@@ -26,7 +26,7 @@ A typical filename looks like this: `filename_[M_2].stl`. The bracket contains t
 
 #### QUANTITY
  - A number indicates how many pieces to print
- - `X` = optional, you'll need to decide based on your configuration. If you are not sure, it is recommended to view the build guide to become familiar with the part function, for example:
+ - `X` = optional, *you'll need to decide based on your configuration. If you are not sure, it is recommended to view the build guide to become familiar with the part function, for example:*
    - `E3` = needed only for Ender 3 as a base printer
    - `E3V2` = needed only for Ender 3 V2 as a base printer
    - Also present on toolhead parts.
@@ -38,7 +38,8 @@ Some files include additional descriptors before the bracket which help you deci
  - `S` = small
  - `M` = medium
  - `L` = large
-   This primarily applies to toolhead parts. Choose the hotend mount based on the hotend you’re using, then print the other parts (cooling ducts, probe mounts, etc.) using the same size designation.
+
+*This primarily applies to toolhead parts. Choose the hotend mount based on the hotend you’re using, then print the other parts (cooling ducts, probe mounts, etc.) using the same size designation.*
 
 Example: `toolhead_hotend_bambulab-S_[A-X].stl`
   - indicates size `S`. Use the same size prefix for related parts.
