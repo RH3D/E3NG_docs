@@ -51,6 +51,10 @@ Example: `toolhead_hotend_bambulab-S_[A-X].stl`
  - `E3V2` = Creality Ender 3 V2 used as a base printer for conversion.
 
 
+To download the STL files package, follow the link below and navigate to the bottom of the page to download: OTHER FILES - **E3NG_v1.2S.zip**.
+
+[PRINTABLES]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
+{: .text-center }
 
 {: .warning }
 The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
@@ -61,4 +65,5 @@ continue to:
 [BUILD GUIDE]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
+[PRINTABLES]: https://www.printables.com/en/model/922401/files
 [BUILD GUIDE]: https://rh3d.xyz/E3NG_v1_2/standard/build_guide
