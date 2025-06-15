@@ -10,9 +10,9 @@ permalink: /E3NG_v1_2/standard/sourcing_parts/kits
 # KITS
 {: .no_toc .text-center }
 
-Only some vendors are officialy selling kits, these were put together in cooperation with us and will ensure the parts are required quality and have been tested to offer a great performance-price ratio with long lasting parts.
+Only some vendors are officially selling kits - these were assembled in cooperation with us to ensure the parts meet the required quality standards and have been tested for long-lasting performance and great price-to-performance ratio.
 
-But **we are not the vendor** and not directly responsible for the offered service and products, if you face issue, contact them first. Before the purchase, make sure to understand the contents of the package.
+However, **we are not the vendor** and are not directly responsible for the service or products offered. If you encounter any issues, please contact the vendor first. Before purchasing, make sure you fully understand what is included in the package.
 
 {: .warning }
 Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
