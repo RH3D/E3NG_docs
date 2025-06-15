@@ -56,6 +56,7 @@ To download the STL files package, follow the link below and navigate to the bot
 [PRINTABLES]{: .btn .fs-7 .fw-300 .mt-8 .text-yellow-300 }
 {: .text-center }
 
+---
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
