@@ -10,11 +10,9 @@ permalink: /E3NG_v1_2/standard/printing_parts
 # PRINTING PARTS
 {: .text-center }
 
-Before we jump onto downloading all the files and printing them, we need to make sure to be prepared as much as we can because nobody is happy to need to reprint some of the parts when the printer is already assembled and working. You need to choose the right material, make sure to have the printer properly calibrated and have the right setup for printing. This all takes some time and effort but it will save you more in the build process and while using the printer so try not tu cut corners here.
-And one of the least important things, you of course need to choose your colour combination.
+Before we dive into downloading all the files and starting the prints, it's important to be as prepared as possible. Nobody enjoys reprinting parts after the printer is already assembled and running. You'll need to choose the right material, ensure your printer is properly calibrated, and have the correct setup for printing. This all takes some time and effort, but it will save you plenty during the build and when using the printer, so try not to cut corners here.
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
+And one of the least important things—you, of course, need to choose your colour combination.
 
 # MATERIAL SELECTION
 {: .text-center }
@@ -44,6 +42,8 @@ Is significantly more flexible which will reduce stiffness of the frame. It has 
 Can be used on an open frame printer but not with an enclosure as the parts will definitely warp. The toolhead and bed
 carriage should still be printer with higher temperature resistant material.
 
+---
+
 # PRINTING PARAMETERS
 {: .text-center }
 All STL files are properly oriented for printing. Some parts include built-in supports, they are marked with ❌.
@@ -62,6 +62,8 @@ Depending on your configuration and print settings (brim, draft, purge line), yo
 <li>No supports</li>
 </ul>
 
+---
+
 # CALIBRATION PRINT AND TOLERANCES
 {: .text-center }
 Before printing parts, it is highly recommended to print the calibration cube. It contains essential features that are related to the project parts like holes for 8mm rods, for LM8LUU bearing, M3 and M5 heat inserts and some other print features to view the print quality.
@@ -69,6 +71,8 @@ Before printing parts, it is highly recommended to print the calibration cube. I
 All the parts are designed with rather tight tolerances (.2mm), so depending on your print quality and precision, it might cause too tight fit mainly on linear rods/bearings. If this is your case, you should clear the holes idealy with a reamer. You can also use properly sized drill bit or even a piece of fine-grit sandpaper on a round stick. Just proceed slowly and carefully so you don’t enlarge the holes too much, the ideal situation is to hand press the parts in with no noticeable play.
 
 [Download the calibration cube.]
+
+---
 
 # PRINTING PARTS IN COLOR
 {: .text-center }
