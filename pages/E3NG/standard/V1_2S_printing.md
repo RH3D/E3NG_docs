@@ -77,9 +77,10 @@ All the parts are designed with rather tight tolerances (.2mm), so depending on 
 # PRINTING PARTS IN COLOR
 {: .text-center }
 If you need help with choosing the colors for your printer, have a look at the [COLOR SCHEME] tool!
+
 To follow the main/recommended color scheme, see the file names where each is marked either with **[A]** (accent) or **[M]** (main) as a color marker. But this is your printer, be creative and make your own color combination and design.
 
-If you are installing LED lights, there are also diffusers that need to be printed with clean/transparent filament.
+If you are installing LED lights, there are also diffusers that need to be printed with clean/transparent filament. These are marked with **[C]** (clear).
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
