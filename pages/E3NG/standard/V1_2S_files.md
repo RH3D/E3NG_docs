@@ -42,7 +42,7 @@ Some files include additional descriptors before the bracket which help you deci
 *This primarily applies to toolhead parts. Choose the hotend mount based on the hotend you’re using, then print the other parts (cooling ducts, probe mounts, etc.) using the same size designation.*
 
 Example: `toolhead_hotend_bambulab-S_[A-X].stl`
-  - indicates size `S`. Use the same size prefix for related parts.
+  - indicates size `S`. Use the same size prefix for related parts - `toolhead_fanduct_4010_S_[A-X].stl` and `toolhead_probe_....._S_[A-X].stl`
   - If a probe file has no size specified, it's considered universal.
 
 #### PRINTER VARIANT
