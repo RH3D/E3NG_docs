@@ -12,8 +12,9 @@ permalink: /E3NG_v1_2/standard/printing_parts
 
 Before we dive into downloading all the files and starting the prints, it's important to be as prepared as possible. Nobody enjoys reprinting parts after the printer is already assembled and running. You'll need to choose the right material, ensure your printer is properly calibrated, and have the correct setup for printing. This all takes some time and effort, but it will save you plenty during the build and when using the printer, so try not to cut corners here.
 
-And one of the least important things—you, of course, need to choose your colour combination.
+And one of the least important things - you, of course, need to choose your colour combination.
 
+---
 # MATERIAL SELECTION
 {: .text-center }
 
@@ -43,7 +44,6 @@ Can be used on an open frame printer but not with an enclosure as the parts will
 carriage should still be printer with higher temperature resistant material.
 
 ---
-
 # PRINTING PARAMETERS
 {: .text-center }
 All STL files are properly oriented for printing. Some parts include built-in supports, they are marked with ❌.
@@ -63,7 +63,6 @@ Depending on your configuration and print settings (brim, draft, purge line), yo
 </ul>
 
 ---
-
 # CALIBRATION PRINT AND TOLERANCES
 {: .text-center }
 Before printing parts, it is highly recommended to print the calibration cube. It contains essential features that are related to the project parts like holes for 8mm rods, for LM8LUU bearing, M3 and M5 heat inserts and some other print features to view the print quality.
@@ -73,7 +72,6 @@ All the parts are designed with rather tight tolerances (.2mm), so depending on 
 [Download the calibration cube.]
 
 ---
-
 # PRINTING PARTS IN COLOR
 {: .text-center }
 If you need help with choosing the colors for your printer, have a look at the [COLOR SCHEME] tool!
