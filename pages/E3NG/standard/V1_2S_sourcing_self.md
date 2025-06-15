@@ -17,6 +17,8 @@ The links in the Bill of material are for products that have been tested and are
 {: .warning }
 Remember that the BOM covers all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
+*Some of the AliExpress links are affiliate links. They come at no additional cost to you but provide a small commission to us, which helps keep the project and related development alive. Vendor selection was in no way influenced by affiliate availability—quality, price, and seller reliability were our top priorities.*
+
 # BILL OF MATERIAL
 
 ## PRINTER HARDWARE
