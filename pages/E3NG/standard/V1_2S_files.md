@@ -10,11 +10,17 @@ permalink: /E3NG_v1_2/standard/files
 # FILES
 {: .text-center }
 
-Before downloading files, lets do a basic walkthrough of the folder and filename structure.
+Before downloading any files, let's take a quick look at the folder and filename structure.
 
-The folder structure is pretty basic and gives you some help to better organize your parts based on where they belong.
+The folder structure is intentionally simple, designed to help you organize parts based on their placement on the printer.
 
-The filename structure is also based on the part position but the end of the name is very important. On every file you will find a small note in brackets, some files even have additional size or variant note.
+The filenames follow a consistent format based on the part’s position, but pay close attention to the end of each name. Every file includes a small note in brackets, and some may also contain additional information such as size or variant details.
+
+### STANDART FILE NAMING
+A typical filename looks like this:
+filename_[M_2].stl.
+{: .label }
+The bracket contains two important pieces of information:
 
 Standard file looks something like this filename**_[M_2]**.stl, where the bracket includes two important informations - first being the part color, second being the quantity of parts required.
 
