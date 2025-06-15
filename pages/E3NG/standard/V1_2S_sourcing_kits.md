@@ -18,7 +18,7 @@ But **we are not the vendor** and not directly responsible for the offered servi
 Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
 ---
-# FABREEKO kits
+## FABREEKO kits
 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
@@ -26,12 +26,12 @@ Remember that the kits cover all the required parts needed for the conversion bu
 [CAST ALUMINUM BED - upgrade]{: .mr-3 } | [CNC BED CARRIAGE - upgrade]{: .mr-3 .ml-3 } | [LMH12UU for CNC carriage]{: .ml-3 }
 {: .text-center }
 ---
-# FYSETC
+## FYSETC
 
 COMING SOON
 {: .text-center }
 ---
-# FUNSSOR
+## FUNSSOR
 
 [E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
 [HARDWARE]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
@@ -42,7 +42,7 @@ COMING SOON
 [6MM ALUMINUM BED - upgrade]{: .mr-3 } | [BED CARRIAGE - upgrade]{: .ml-3 }
 {: .text-center }
 ---
-# FUSHI BEARINGS
+## FUSHI BEARINGS
 
 [BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
