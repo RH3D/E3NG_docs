@@ -27,8 +27,8 @@ A typical filename looks like this: `filename_[M_2].stl`. The bracket contains t
 #### QUANTITY
  - A number indicates how many pieces to print
  - `X` = optional, *you'll need to decide based on your configuration. If you are not sure, it is recommended to view the build guide to become familiar with the part function, for example:*
-   - `E3` = needed only for Ender 3 as a base printer
-   - `E3V2` = needed only for Ender 3 V2 as a base printer
+   - `E3` = needed only for Ender 3 as a base printer, eg. `frame_bottom_fix_left_E3_[M-X].stl`
+   - `E3V2` = needed only for Ender 3 V2 as a base printer, eg. `electronics_power_switch_front_E3V2_[M-X].stl`
    - Also present on toolhead parts.
 
 ### OPTIONAL FILE ATTRIBUTES
