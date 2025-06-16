@@ -18,11 +18,11 @@ For the simplicity of the printer and saving some resources while still being ab
 
 *It is also extremely helpful to follow other available guides on YouTube or some discussion websites.*
 
-## [Klipper FW]
+## Klipper FW
 
-*For extremely fast printing, more advanced tuning and high-end features.*
+*For extremely fast printing, more advanced tuning and high-end features. [Klipper FW]*
 
-### BigTreeTech Octopus v1.0 (and v1.1)
+## BigTreeTech Octopus v1.0 (and v1.1)
 {: .text-center }
 [download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_Octopus_v1.1_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [BUY](https://s.click.aliexpress.com/e/_Dd8mCyj)
 {: .text-center }
