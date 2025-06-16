@@ -1,5 +1,5 @@
 ---
-title: Printer electronics
+#title: Printer electronics
 layout: default
 has_children: true
 nav_order: 5
@@ -7,13 +7,7 @@ nav_order: 5
 # PRINTER ELECTRONICS
 {: .text-center }
 
-{: .warning }
-This page is under construction.
+{: .note }
+Please, follow the updated link: [E3NG v1.2S FIRMWARE]
 
-continue to:
-{: .text-right .lh-0 .pt-8 }
-
-[GENERAL WIRING]{: .btn .fs-6 .fw-300 .text-yellow-300 }
-{: .text-right }
-
-[GENERAL WIRING]: https://rh3d.xyz/wiring.html
+[E3NG v1.2S FIRMWARE]: https://rh3d.xyz/E3NG_v1_2/standard/firmware
