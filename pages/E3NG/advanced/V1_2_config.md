@@ -10,10 +10,6 @@ permalink: /E3NG_v1_2/advanced/config
 # CONFIGURATION
 {: .text-center }
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
-
-
 # PRINTER CONFIGURATION
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
@@ -296,7 +292,7 @@ continue to:
 {: .text-right }
 
 [CONFIGURATOR DOWNLOAD]: ../../assets/docs/E3NG_BOM_250217.xlsm
-[BASE BUILD]: https://rh3d.xyz/configure.html#base-build
-[TOOLHEAD]: https://rh3d.xyz/configure.html#toolhead
-[MODS / UPGRADES]: https://rh3d.xyz/configure.html#mods--upgrades
+[BASE BUILD]: https://rh3d.xyz/E3NG_v1_2/advanced/config#base-build
+[TOOLHEAD]: https://rh3d.xyz/E3NG_v1_2/advanced/config#toolhead
+[MODS / UPGRADES]: https://rh3d.xyz/E3NG_v1_2/advanced/config#mods--upgrades
 [SOURCING PARTS]: https://rh3d.xyz/E3NG_v1_2/advanced/sourcing_parts
