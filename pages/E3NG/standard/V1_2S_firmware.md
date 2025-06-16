@@ -21,14 +21,19 @@ To finally run the printer, we need to set up the Firmware.
 
 *For extremely fast printing, more advanced tuning and high-end features.* **[Klipper FW]**
 
-## BigTreeTech Octopus v1.0 (and v1.1)
+## BigTreeTech SKR mini E3 V2
 {: .text-center }
-[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_Octopus_v1.1_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [BUY](https://s.click.aliexpress.com/e/_Dd8mCyj)
+[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_SKR3EZ_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/SKR-3) | [BUY](https://s.click.aliexpress.com/e/_oDu0HPc)
 {: .text-center }
 
 ## BigTreeTech SKR 3 EZ
 {: .text-center }
 [download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_SKR3EZ_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/SKR-3) | [BUY](https://s.click.aliexpress.com/e/_oDu0HPc)
+{: .text-center }
+
+## BigTreeTech Octopus v1.0 (and v1.1)
+{: .text-center }
+[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_Octopus_v1.1_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [BUY](https://s.click.aliexpress.com/e/_Dd8mCyj)
 {: .text-center }
 
 ---
