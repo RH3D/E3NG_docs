@@ -10,7 +10,13 @@ permalink: /E3NG_v1_2/standard/files
 # FILES
 {: .text-center }
 
-Before downloading any files, let's take a quick look at the folder and filename structure.
+To download the STL files package, follow the link below and navigate to the bottom of the page to download: OTHER FILES - **E3NG_v1.2S.zip**.
+{: .text-center }
+
+[PRINTABLES]{: .btn .fs-7 .fw-300 .mt-8 .text-yellow-300 }
+{: .text-center }
+
+Before printing any files, let's take a quick look at the folder and filename structure.
 
 The folder structure is intentionally simple, designed to help you organize parts based on their placement on the printer.
 
@@ -50,13 +56,6 @@ Example: `toolhead_hotend_bambulab-S_[A-X].stl`
  - `E3` = Creality Ender 3 used as a base printer for conversion.
  - `E3V2` = Creality Ender 3 V2 used as a base printer for conversion.
 
----
-To download the STL files package, follow the link below and navigate to the bottom of the page to download: OTHER FILES - **E3NG_v1.2S.zip**.
-
-[PRINTABLES]{: .btn .fs-7 .fw-300 .mt-8 .text-yellow-300 }
-{: .text-center }
-
----
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
