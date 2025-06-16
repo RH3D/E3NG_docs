@@ -23,7 +23,7 @@ To finally run the printer, we need to set up the Firmware.
 
 ## BigTreeTech SKR mini E3 V2
 {: .text-center }
-[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_SKR3EZ_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/SKR-3) | [BUY](https://s.click.aliexpress.com/e/_oDu0HPc)
+[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_SKR3miniE3_V2_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3) | [BUY](https://s.click.aliexpress.com/e/_DCIOnMr)
 {: .text-center }
 
 ## BigTreeTech SKR 3 EZ
