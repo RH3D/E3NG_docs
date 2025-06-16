@@ -42,6 +42,7 @@ The configuration is divided into three sections:
 {: .note }
 All the pictures bellow are higher resolution, so you can zoom in or right click - Open image in new tab/window - to view it in more detail.
 
+---
 # BASE BUILD
 {: .text-center }
 
@@ -135,6 +136,7 @@ Currently there are setups for only few motherboards but more will be directly s
 
 ![](../../pages/E3NG/img/config/config_board.png)
 
+---
 # TOOLHEAD
 {: .text-center }
 Toolhead is put together with separate parts for mounting each of the components which makes it super easy to alternate between different types of hardware or doing a maintenance.
@@ -235,6 +237,7 @@ Choose the right bed probe for you.
 
 ![](../../pages/E3NG/img/config/config_accessories.png)
 
+---
 # MODS / UPGRADES
 {: .text-center }
 
