@@ -7,9 +7,6 @@ has_children: false
 nav_order: 10
 permalink: /E3NG_v1_2/advanced/config
 ---
-# CONFIGURATION
-{: .text-center }
-
 # PRINTER CONFIGURATION
 {: .text-center }
 [CONFIGURATOR DOWNLOAD]{: .btn .fs-6 .fw-300 .mt-8 .text-yellow-300 }
