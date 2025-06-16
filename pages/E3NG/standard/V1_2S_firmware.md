@@ -12,7 +12,7 @@ permalink: /E3NG_v1_2/standard/firmware
 
 To finally run the printer, we need to set up the Firmware.
 
-*To learn how to install the firmware, it is recommended to search their official websites along with the motherboard manufacturer github (if available) for the most up to date information.*
+*To learn how to install it, it is recommended to search their official websites along with the motherboard manufacturer github (if available) for the most up to date information.*
 
 *It is also extremely helpful to follow other available guides on YouTube or some discussion websites.*
 
