@@ -51,9 +51,6 @@ To finally run the printer, we need to set up the Firmware.
 [download FW files](https://github.com/RH3D/E3NG/blob/main/firmware/Marlin/v1.2S/E3NG_M2.1.x_config_SKR3EZ.zip) | [official BTT documentation](https://github.com/bigtreetech/SKR-3) | [BUY](https://s.click.aliexpress.com/e/_oDu0HPc)
 {: .text-center }
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
-
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
