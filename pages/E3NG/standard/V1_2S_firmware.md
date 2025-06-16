@@ -12,8 +12,6 @@ permalink: /E3NG_v1_2/standard/firmware
 
 To finally run the printer, we need to set up the Firmware.
 
-For the simplicity of the printer and saving some resources while still being able to print pretty fast and taking advantage of most of the advanced features, you can install [Marlin FW].
-
 *To learn how to install the firmware, it is recommended to search their official websites along with the motherboard manufacturer github (if available) for the most up to date information.*
 
 *It is also extremely helpful to follow other available guides on YouTube or some discussion websites.*
@@ -22,9 +20,24 @@ For the simplicity of the printer and saving some resources while still being ab
 
 *For extremely fast printing, more advanced tuning and high-end features. [Klipper FW]*
 
-## BigTreeTech Octopus v1.0 (and v1.1)
+# BigTreeTech Octopus v1.0 (and v1.1)
 {: .text-center }
 [download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_Octopus_v1.1_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [BUY](https://s.click.aliexpress.com/e/_Dd8mCyj)
+{: .text-center }
+
+# BigTreeTech SKR3EZ
+{: .text-center }
+[download printer.cfg](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_SKR3EZ_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/SKR-3) | [BUY](https://s.click.aliexpress.com/e/_Dmt9G5z)
+{: .text-center }
+
+---
+## Marlin FW
+
+*For the simplicity of the printer and saving some resources while still being able to print pretty fast and taking advantage of most of the advanced features. [Marlin FW]*
+
+## BigTreeTech SKR mini E3 V2
+{: .text-center }
+[download FW files](https://github.com/RH3D/E3NG/blob/main/firmware/Klipper/v1.2S/E3NG_v1.2S_Octopus_v1.1_printer.cfg) | [official BTT documentation](https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0) | [BUY](https://s.click.aliexpress.com/e/_Dd8mCyj)
 {: .text-center }
 
 {: .warning }
