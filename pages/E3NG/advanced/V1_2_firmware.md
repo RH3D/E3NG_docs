@@ -10,8 +10,12 @@ permalink: /E3NG_v1_2/advanced/firmware
 # FIRMWARE
 {: .text-center }
 
-{: .warning }
-The website is being updated. I apologize for any inconvenience this may have caused. Thank you for your patience and understanding!
+Please refer to the Firmware section for the E3NG v1.2S for now.
+{: .text-center }
+
+[E3NG v1.2S firmware]
+{: .text-center }
+
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
@@ -19,4 +23,5 @@ continue to:
 [FINAL SETUP]{: .btn .fs-6 .fw-300 .text-yellow-300 }
 {: .text-right }
 
+[E3NG v1.2S firmware]: https://rh3d.xyz/E3NG_v1_2/standard/firmware
 [FINAL SETUP]: https://rh3d.xyz/E3NG_v1_2/final_setup
