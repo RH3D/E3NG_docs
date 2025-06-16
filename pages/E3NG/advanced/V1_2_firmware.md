@@ -13,7 +13,7 @@ permalink: /E3NG_v1_2/advanced/firmware
 Please refer to the Firmware section for the E3NG v1.2S for now.
 {: .text-center }
 
-[E3NG v1.2S firmware]
+# [E3NG v1.2S firmware]
 {: .text-center }
 
 
