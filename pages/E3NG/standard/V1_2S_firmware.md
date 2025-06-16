@@ -12,14 +12,14 @@ permalink: /E3NG_v1_2/standard/firmware
 
 To finally run the printer, we need to set up the Firmware.
 
-*To learn how to install it, it is recommended to search their official websites along with the motherboard manufacturer github (if available) for the most up to date information.*
+*To learn how to install it, it is recommended to search their official websites along with the motherboard manufacturer GitHub (if available) for the most up to date information.*
 
 *It is also extremely helpful to follow other available guides on YouTube or some discussion websites.*
 
 ---
 # Klipper FW
 
-*For extremely fast printing, more advanced tuning and high-end features. [Klipper FW]*
+*For extremely fast printing, more advanced tuning and high-end features.* **[Klipper FW]**
 
 ## BigTreeTech Octopus v1.0 (and v1.1)
 {: .text-center }
@@ -34,7 +34,7 @@ To finally run the printer, we need to set up the Firmware.
 ---
 # Marlin FW
 
-*For the printer simplicity and saving some resources while still being able to print pretty fast and taking advantage of most of the advanced features. [Marlin FW]*
+*For the printer simplicity and saving some resources while still being able to print pretty fast and taking advantage of most of the advanced features.* **[Marlin FW]**
 
 ## BigTreeTech SKR mini E3 V2
 {: .text-center }
