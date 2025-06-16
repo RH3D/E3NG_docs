@@ -16,6 +16,7 @@ To download the STL files package, follow the link below and navigate to the bot
 [PRINTABLES]{: .btn .fs-7 .fw-300 .mt-6 .mb-8 .text-yellow-300 }
 {: .text-center }
 
+---
 Before printing any files, let's take a quick look at the folder and filename structure.
 
 The folder structure is intentionally simple, designed to help you organize parts based on their placement on the printer.
