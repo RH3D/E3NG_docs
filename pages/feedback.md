@@ -2,6 +2,7 @@
 title: Feedback ✉️
 layout: default
 nav_order: 100
+permalink: /feedback.html
 ---
 # FEEDBACK
 {: .text-center }
