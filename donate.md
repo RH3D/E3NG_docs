@@ -1,7 +1,7 @@
 ---
 title: Support my work ❤️
 layout: default
-nav_order: 9
+nav_order: 99
 ---
 # SUPPORT MY WORK
 {: .text-center }
@@ -28,7 +28,7 @@ PayPal.Donation.Button({
 env:'production',
 hosted_button_id:'LR94TRQXMGW46',
 image: {
-src:'./assets/images/paypal_donate.png',
+src:'../assets/images/paypal_donate.png',
 alt:'Donate with PayPal button',
 title:'PayPal - The safer, easier way to pay online!',
 }
@@ -37,7 +37,7 @@ title:'PayPal - The safer, easier way to pay online!',
 </div>
 {: .text-center .mt-5 }
 
-[![Patreon](./assets/images/patreon_donate.png)](https://www.patreon.com/RH3D_cz)
+[![Patreon](../assets/images/patreon_donate.png)](https://www.patreon.com/RH3D_cz)
 {: .text-center }
 
 [feedback]: https://rh3d.xyz/feedback.html
