@@ -2,9 +2,9 @@
 title: E3NG v1.2
 layout: home
 has_children: true
-nav_order: 2
+nav_order: 20
 ---
-![](./assets/images/gallery.png)
+![](../assets/images/gallery.png)
 
 # E3NG / ENDER 3 NG
 {: .text-center }
