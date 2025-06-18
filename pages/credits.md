@@ -1,7 +1,8 @@
 ---
 title: Credits
 layout: default
-nav_order: 8
+nav_order: 60
+permalink: /credits
 ---
 # THANK YOU
 {: .text-center }
