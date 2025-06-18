@@ -1,4 +1,0 @@
-/* Add a gap (via margin-bottom) after the third menu item */
-.nav li:nth-child(3) {
-  margin-bottom: 2rem; /* adjust this value as needed */
-}
