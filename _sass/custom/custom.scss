@@ -1,10 +1,4 @@
-body {
-  background-color: #ffe6e6; /* A light red background */
-}
-
-// _sass/custom/custom.scss
-
-// Apply custom spacing on the navigation menu
-.nav li:nth-child(3) {
-  margin-bottom: 2rem; // Adjust this value as needed
+/* Applies a gap after the third top-level navigation item */
+.nav-list > .nav-list-item:nth-child(3) {
+  margin-bottom: 2rem; /* You can adjust this value for more or less spacing */
 }
