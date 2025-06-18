@@ -44,12 +44,12 @@ continue to:
 [Printables]: https://www.printables.com/en/model/922401
 [Ko-Fi]: https://ko-fi.com/s/f1be48e43a
 [Calibration cube]: https://www.printables.com/en/model/478403
-[Configurator]: https://rh3d.xyz/configure.html
-[Build manual]: https://rh3d.xyz/build_guide.html
+[Configurator]: https://rh3d.xyz/E3NG_v1_2/advanced/config
+[Build manual]: https://rh3d.xyz/E3NG_v1_2/standard/build_guide
 [Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
 [Instagram]: https://www.instagram.com/RH3D_cz
 [YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
 [Support my work]: https://rh3d.xyz/donate.html
 [Printables remixes]: https://www.printables.com/en/model/922401/remixes
 [remixes for the beta]: https://www.printables.com/en/model/469280/remixes
-[Printer configuration]: https://rh3d.xyz/configure.html
+[Printer configuration]: https://rh3d.xyz/E3NG_v1_2/advanced/config
