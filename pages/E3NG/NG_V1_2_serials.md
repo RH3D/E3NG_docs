@@ -3,7 +3,8 @@ title: Serial numbers
 layout: default
 parent: Final steps
 #has_children: true
-nav_order: 3
+nav_order: 30
+permalink: /E3NG_v1_2/final_setup/serial_number
 ---
 # SERIAL NUMBERS
 {: .text-center }
