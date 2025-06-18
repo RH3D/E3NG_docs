@@ -3,6 +3,7 @@ title: E3NG v1.2
 layout: home
 has_children: true
 nav_order: 20
+permalink: 
 ---
 ![](../assets/images/gallery.png)
 
