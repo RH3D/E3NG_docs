@@ -2,3 +2,8 @@
 #site-nav > .nav-list > .nav-list-item:nth-child(3) {
   margin-bottom: 4rem;
 }
+
+/* Targeting third-level menu items */
+#site-nav ul.nav-list ul.nav-list ul.nav-list .nav-list-link {
+  color: #e7af06;  /* Replace with your desired color */
+}
