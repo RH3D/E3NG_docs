@@ -5,4 +5,4 @@ nav_order: 110
 permalink: /contact
 ---
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQgB7Aw7cdLq2ng6Stj-KTayaxvqaDmWC6Ourq5sMZkLAirw/viewform?embedded=true" width="640" height="1024" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQgB7Aw7cdLq2ng6Stj-KTayaxvqaDmWC6Ourq5sMZkLAirw/viewform?embedded=true" width="640" height="1280" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
