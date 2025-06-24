@@ -1,5 +1,5 @@
 ---
-title: Contact 🖂 ↗
+title: Contact 🖂
 layout: default
 nav_order: 110
 permalink: /contact
