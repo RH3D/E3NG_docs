@@ -7,15 +7,3 @@
 #site-nav ul.nav-list ul.nav-list ul.nav-list .nav-list-link {
   color: #f7d12e;  /* Replace with your desired color */
 }
-
-.responsive-iframe-container iframe {
-  width: 100%;
-  height: 640px; /* Adjust based on your form’s length */
-  border: none;
-}
-
-@media screen and (max-width: 600px) {
-  .responsive-iframe-container iframe {
-    height: 1300px;
-  }
-}
