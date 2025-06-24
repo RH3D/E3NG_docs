@@ -6,10 +6,14 @@ permalink: /contact
 ---
 
 <div class="responsive-iframe-container">
-  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdQgB7Aw7cdLq2ng6Stj-KTayaxvqaDmWC6Ourq5sMZkLAirw/viewform?embedded=true"
-          frameborder="0" marginheight="0" marginwidth="0" loading="lazy">
+  <iframe
+          src="https://docs.google.com/forms/d/e/1FAIpQLSdQgB7Aw7cdLq2ng6Stj-KTayaxvqaDmWC6Ourq5sMZkLAirw/viewform?embedded=true"
+          width="100%"
+          height="1024"
+          frameborder="0"
+          marginheight="0"
+          marginwidth="0"
+          loading="lazy">
     Loading…
   </iframe>
 </div>
-
-
