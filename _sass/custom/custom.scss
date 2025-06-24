@@ -17,6 +17,12 @@
 
 .responsive-iframe-container iframe {
   width: 100%;
-  min-height: 960px; /* Adjust based on your form’s length */
+  height: 960px; /* Adjust based on your form’s length */
   border: none;
+}
+
+@media screen and (max-width: 600px) {
+  .responsive-iframe-container iframe {
+    height: 1300px;
+  }
 }
