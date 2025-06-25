@@ -11,8 +11,5 @@ permalink: /virtu
 ...
 {: .text-center }
 
-.
-{: .text-center }
-
 #### IN DEVELOPMENT
 {: .text-center }
