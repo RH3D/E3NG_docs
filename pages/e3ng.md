@@ -1,6 +1,6 @@
 ---
 title: E3NG v1.2
-layout: home
+layout: default
 has_children: true
 nav_order: 20
 permalink: /e3ng
