@@ -2,7 +2,7 @@
 title: RH3D
 layout: default
 nav_order: 10
-permalink: /about.html
+permalink: /
 ---
 # ENDER 3 NG (E3NG)
 
