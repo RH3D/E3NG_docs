@@ -8,7 +8,7 @@ permalink: /
 
 The legacy design that transforms your basic Ender 3 into a Next Generation machine. Want to keep it simple and affordable or go fully loaded? The choice is yours.
 
-[![E3NG](../assets/images/E3NG.png)](https://rh3d.xyz/E3NG)
+[![E3NG](../assets/images/E3NG.png)](https://rh3d.xyz/e3ng)
 {: .text-center }
 
 # VIRTU E3
