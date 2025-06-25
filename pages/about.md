@@ -4,8 +4,7 @@ layout: default
 nav_order: 10
 permalink: /about.html
 ---
-#### Welcome to the home of RH3D's designs!
-{: .text-center }
+## Welcome to the home of RH3D's designs!
 
 If you're into 3D printing, love to tinker, and enjoy building things yourself—especially if you’ve got an old Ender 3 gathering dust—you’re in the right place.
 
@@ -19,7 +18,6 @@ The legacy design that transforms your Ender 3 into a Next Generation machine. W
 
 
 # VIRTU E3
-{: .text-center }
 
 The second-generation hero, built to revive all the unused Enders. Purity, speed, precision — this is Virtu.
 
