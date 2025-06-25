@@ -7,7 +7,6 @@ permalink: /about.html
 # ENDER 3 NG (E3NG)
 
 The legacy design that transforms your basic Ender 3 into a Next Generation machine. Want to keep it simple and affordable or go fully loaded? The choice is yours.
-
 [![E3NG](../assets/images/E3NG.png)](https://rh3d.xyz/E3NG)
 {: .text-center }
 
@@ -15,7 +14,6 @@ The legacy design that transforms your basic Ender 3 into a Next Generation mach
 {: .mt-9 }
 
 The second-generation hero, built to revive all the unused Enders. Purity, speed, precision — this is Virtu.
-
 [![VirtuE3](../assets/images/VIRTU_E3.png)](https://rh3d.xyz/virtu)
 {: .text-center }
 
