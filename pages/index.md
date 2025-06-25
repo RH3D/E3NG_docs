@@ -1,6 +1,6 @@
 ---
 title: RH3D
-layout: default
+layout: home
 nav_order: 10
 permalink: /
 ---
