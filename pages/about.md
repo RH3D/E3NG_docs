@@ -15,8 +15,9 @@ What began as a hobby and a personal project quickly evolved into a true passion
 # ENDER 3 NG (E3NG)
 
 The legacy design that transforms your Ender 3 into a Next Generation machine. Want to keep it simple and affordable or go fully loaded? The choice is yours.
-![](../assets/images/E3NG.png)
 
+[![E3NG](../assets/images/E3NG.png)](https://rh3d.xyz/E3NG)
+{: .text-center .mt-5 }
 
 # VIRTU E3
 
