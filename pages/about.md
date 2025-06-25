@@ -12,7 +12,7 @@ The legacy design that transforms your basic Ender 3 into a Next Generation mach
 {: .text-center }
 
 # VIRTU E3
-{: .mt-8 }
+{: .mt-9 }
 
 The second-generation hero, built to revive all the unused Enders. Purity, speed, precision — this is Virtu.
 
