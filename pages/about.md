@@ -4,14 +4,6 @@ layout: default
 nav_order: 10
 permalink: /about.html
 ---
-## Welcome to the home of RH3D's designs!
-
-If you're into 3D printing, love to tinker, and enjoy building things yourself, you’re in the right place.
-
-What began as a hobby and a personal project quickly evolved into a true passion. This site is where you'll find all my major designs, complete with the information you need. Feel free to explore the site, check out the YouTube and Instagram, and join our amazing community on Discord!
-
----
-
 # ENDER 3 NG (E3NG)
 
 The legacy design that transforms your basic Ender 3 into a Next Generation machine. Want to keep it simple and affordable or go fully loaded? The choice is yours.
