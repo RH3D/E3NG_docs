@@ -4,7 +4,7 @@ layout: home
 nav_order: 10
 permalink: /
 ---
-# ENDER 3 NG (E3NG)
+# E3NG (ENDER 3 NG)
 
 The legacy design that transforms your basic Ender 3 into a Next Generation machine. Want to keep it simple and affordable or go fully loaded? The choice is yours.
 
