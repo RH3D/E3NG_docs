@@ -1,5 +1,5 @@
 ---
-title: Support my work ❤️
+title: Support the development ❤️
 layout: default
 nav_order: 99
 ---
