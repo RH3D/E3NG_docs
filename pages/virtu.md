@@ -1,5 +1,5 @@
 ---
-title: VIRTU
+title: VIRTU E3
 layout: default
 has_children: false
 nav_order: 40
