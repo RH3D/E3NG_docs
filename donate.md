@@ -3,14 +3,14 @@ title: Support the development ❤️
 layout: default
 nav_order: 99
 ---
-# SUPPORT MY WORK
+# SUPPORT THE DEVELOPMENT
 {: .text-center }
 
 Ender 3 NG will always be free to use, but developing a project of this size, variability and compatibility is a huge amount of work. It takes lot of time, effort and requires resources to test and improve the design and maintain it up to date.
 
 With your donation, you are helping to keep the project alive, maintained and growing as well as opening the possibility for other future projects. You can use some of the links below.
 
-You can also use affiliate links in the BOM or ask for a custom affiliate link through the [feedback] which also helps with no added cost to you.
+You can also use affiliate links in the BOM which also helps with no added cost to you.
 
 #### Thank you a lot!
 {: .text-center }
