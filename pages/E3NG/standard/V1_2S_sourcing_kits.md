@@ -58,7 +58,7 @@ COMING SOON
   background:#27262b;
   padding:20px;
   border:1px solid #27262b;
-  box-shadow:0 0 20px rgba(0,0,0,0.5);
+  box-shadow:0 0 30px rgba(0,0,0,0.5);
   z-index:1000;
   width:400px;
   max-width:90%;
