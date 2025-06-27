@@ -36,6 +36,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC BED CARRIAGE - upgrade</a><br>
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
 </div>
+{: .text-center }
 
 [E3NG v1.2 FULL KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
 [ENCLOSURE PANELS - cast acrylic]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
