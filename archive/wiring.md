@@ -3,6 +3,7 @@ title: General wiring
 layout: default
 parent: Printer electronics
 #nav_order: 1
+permalink: /wiring.html
 ---
 # GENERAL WIRING
 {: .text-center }
