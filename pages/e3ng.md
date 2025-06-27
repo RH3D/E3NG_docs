@@ -23,6 +23,9 @@ There are two versions to choose from:
  - **v1.2S (standard)** offers a more streamlined, kit-style approach with clear instructions and a straightforward build path—perfect if you prefer to keep things more simple.
  - **v1.2 (advanced)** is for those who like to go deep into the project, tweak every detail, giving you the flexibility to configure your printer to match your own preferences and setup.
 
+[E3NG v1.2S (standard)]{: .btn .fw-400 .text-yellow-300 .v-align-middle .mb-8 } [E3NG v1.2 (advanced)]{: .btn .fw-400 .text-yellow-300 .v-align-middle .ml-5 .mb-8 }
+{: .text-center }
+
 # "NG = NEXT GENERATION"
 {: .text-center }
 
@@ -63,5 +66,7 @@ continue to:
 
 *For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of projects might grow in the future.*
 
+[E3NG v1.2S (standard)]: https://rh3d.xyz/E3NG_v1_2/standard
+[E3NG v1.2 (advanced)]: https://rh3d.xyz/E3NG_v1_2/advanced
 [INTO THE PROJECT]: https://rh3d.xyz/into.html
 [CONFIGURATION]: https://rh3d.xyz/E3NG_v1_2/advanced/config
