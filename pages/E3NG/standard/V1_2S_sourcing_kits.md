@@ -24,7 +24,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
 ## FABREEKO kits
 
 <a href="#" onclick="showPopup('popup1'); return false;">
-  <img src="../../assets/images/fabreeko_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
+  <img src="../../../assets/images/fabreeko_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
 </a>
 <div id="popup1" class="popup">
   <span class="close" onclick="hidePopup('popup1')">&times;</span>
