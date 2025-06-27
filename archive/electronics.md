@@ -3,6 +3,7 @@
 layout: default
 has_children: true
 nav_order: 5
+permalink: /electronics.html
 ---
 # PRINTER ELECTRONICS
 {: .text-center }
