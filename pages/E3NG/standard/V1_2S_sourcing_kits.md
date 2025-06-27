@@ -47,37 +47,29 @@ COMING SOON
 [BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 
-<a href="#" onclick="showPopup(); return false;">Open Links</a>
+<!-- Trigger link -->
+<a href="#" onclick="showPopup('popup1'); return false;">Open Links A</a>
 
-<div id="popup"
-  style="display:none;
-  position:fixed;
-  top:30%;
-  left:50%;
-  transform:translate(-50%, -30%);
-  background:#27262b;
-  padding:20px;
-  border:1px solid #27262b;
-  box-shadow:0 0 30px rgba(0,0,0,0.5);
-  z-index:1000;
-  width:400px;
-  max-width:90%;
-  border-radius:10px;">
-  <span onclick="hidePopup()"
-    style="position:absolute;
-    top:8px;
-    right:12px;
-    cursor:pointer;
-    font-size:20px;
-    color:#666;">&times;
-  </span>
-  <strong>Quick Links</strong><br>
+<!-- Popup 1 -->
+<div id="popup1" class="popup">
+  <span class="close" onclick="hidePopup('popup1')">&times;</span>
+  <strong>Quick Links A</strong><br>
   <a href="https://example.com">Documentation</a><br>
   <a href="https://discord.com">Discord</a><br>
   <a href="https://github.com">GitHub</a>
 </div>
 
-<div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.3); z-index:999;" onclick="hidePopup()"></div>
+<!-- Trigger link -->
+<a href="#" onclick="showPopup('popup2'); return false;">Open Links B</a>
+
+<!-- Popup 2 -->
+<div id="popup2" class="popup">
+  <span class="close" onclick="hidePopup('popup2')">&times;</span>
+  <strong>Resources B</strong><br>
+  <a href="https://printerwiki.com">Build Guide</a><br>
+  <a href="https://kitshop.com">Kits</a>
+</div>
+
 
 
 continue to:
@@ -101,14 +93,3 @@ continue to:
 [6MM ALUMINUM BED - upgrade]: https://s.click.aliexpress.com/e/_op0VN9i
 [BED CARRIAGE - upgrade]: https://s.click.aliexpress.com/e/_oCJYEE0
 [BEARINGS AND SHAFTS KITS]: https://s.click.aliexpress.com/e/_oCrZCk4
-
-<script>
-  function showPopup() {
-    document.getElementById('popup').style.display = 'block';
-    document.getElementById('overlay').style.display = 'block';
-  }
-  function hidePopup() {
-    document.getElementById('popup').style.display = 'none';
-    document.getElementById('overlay').style.display = 'none';
-  }
-</script>
