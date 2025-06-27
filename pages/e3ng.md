@@ -61,7 +61,7 @@ continue to:
 ---
 ***up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
 
-*For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
+*For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of projects might grow in the future.*
 
 [INTO THE PROJECT]: https://rh3d.xyz/into.html
 [CONFIGURATION]: https://rh3d.xyz/E3NG_v1_2/advanced/config
