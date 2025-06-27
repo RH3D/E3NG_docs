@@ -27,6 +27,11 @@ The CAD assembly files are currently an extra bonus for supporters and available
 ---
 To better understand and organise your files, it is highly recommended to go through the configurator carefully and print out your final list of printed parts. It includes the required quantity and the recommended color to print your parts.
 
+---
+*It’s highly recommended to begin with the stock project to follow a clear path, receive accurate and complete instructions, and work from reliable lists. Once you're familiar with the build, you can start exploring user mods if you wish.*
+
+*Most remixes and modifications are available on [Printables remixes], though you’ll find additional ones on the Discord server. There are also many [remixes for the beta] version, most of which remain compatible.*
+
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
@@ -35,3 +40,5 @@ continue to:
 
 [BUILD GUIDE]: https://rh3d.xyz/E3NG_v1_2/advanced/build_guide
 [PRINTABLES]: https://www.printables.com/en/model/922401/files
+[Printables remixes]: https://www.printables.com/en/model/922401/remixes
+[remixes for the beta]: https://www.printables.com/en/model/469280/remixes
