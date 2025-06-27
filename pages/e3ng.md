@@ -11,7 +11,7 @@ permalink: /e3ng
 {: .text-center }
 
 **Take your old, unused Creality Ender 3 and turn it into something amazing—something fast, powerful, precise, and reliable and enjoy the new level of tinkering.**
-{: .text-center }
+{: .text-center .mb-4 }
 
 E3NG is a DIY project focused on reviving up to **78%*** of parts from your original printer and giving them a brand-new purpose. Many of us started with the simple Ender 3, and it taught us a lot—but 3D printing has evolved, and it’s time to step up. That’s exactly what this conversion is all about.
 
