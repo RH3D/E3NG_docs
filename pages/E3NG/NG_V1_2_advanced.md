@@ -8,7 +8,7 @@ permalink: /E3NG_v1_2/advanced
 ---
 # E3NG v1.2
 {: .text-center }
-#### v1.2 = advanced version (for users who want to go deep into the project and all the options it offers!)
+#### v1.2 = advanced version (customisable)
 {: .text-center }
 
 The v1.2 "advanced" is built for more experienced users who value modularity, higher configuration control, and overall flexibility. Unlike the standard version, v1.2 is not bound by kit constraints and instead offers a configurator-driven workflow that helps you setup the printer build based on your own preferences and gives you more customisation options.
