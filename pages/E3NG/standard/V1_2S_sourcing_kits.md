@@ -55,7 +55,7 @@ COMING SOON
   top:30%;
   left:50%;
   transform:translate(-50%, -30%);
-  background:#fff;
+  background:#27262b;
   padding:20px;
   border:1px solid #ccc;
   box-shadow:0 0 10px rgba(0,0,0,0.2);
@@ -63,6 +63,14 @@ COMING SOON
   width:400px;
   max-width:90%;
   border-radius:10px;">
+  <span onclick="hidePopup()"
+    style="position:absolute;
+    top:8px;
+    right:12px;
+    cursor:pointer;
+    font-size:20px;
+    color:#666;">&times;
+  </span>
   <strong>Quick Links</strong><br>
   <a href="https://example.com">Documentation</a><br>
   <a href="https://discord.com">Discord</a><br>
