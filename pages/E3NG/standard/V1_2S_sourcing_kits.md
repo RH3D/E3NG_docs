@@ -32,7 +32,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FABREEKO</h1><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2S full kit</a><br>
   <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
-  <hr style="margin-top: 40px; border: none; border-top: 1px solid #555;">
+  <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>UPGRADE PARTS</h3><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CNC bed - cast aluminum</a><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC bed carriage</a><br>
@@ -63,7 +63,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (without hardware)</a><br>
   <a href="https://s.click.aliexpress.com/e/_omNZg0k">Hardware</a><br>
   <a href="https://s.click.aliexpress.com/e/_oD5DAoU">Enclosure kit - polycarbonate</a><br>
-  <hr style="margin-top: 40px; border: none; border-top: 1px solid #555;">
+  <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>FUNSSORLAB - USA warehouse</h3><br>
   <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2S kit (without hardware)</a><br>
   <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">Hardware</a><br>
