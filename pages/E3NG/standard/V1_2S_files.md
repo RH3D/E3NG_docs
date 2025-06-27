@@ -57,6 +57,13 @@ Example: `toolhead_hotend_bambulab-S_[A-X].stl`
  - `E3` = Creality Ender 3 used as a base printer for conversion.
  - `E3V2` = Creality Ender 3 V2 used as a base printer for conversion.
 
+---
+#### MODS / REMIXES
+
+*It’s highly recommended to begin with the stock project to follow a clear path, receive accurate and complete instructions, and work from reliable lists. Once you're familiar with the build, you can start exploring user mods if you wish.*
+
+*Most remixes and modifications are available on [Printables remixes], though you’ll find additional ones on the Discord server. There are also many [remixes for the beta] version, most of which remain compatible.*
+
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
@@ -65,3 +72,5 @@ continue to:
 
 [PRINTABLES]: https://www.printables.com/en/model/922401/files
 [BUILD GUIDE]: https://rh3d.xyz/E3NG_v1_2/standard/build_guide
+[Printables remixes]: https://www.printables.com/en/model/922401/remixes
+[remixes for the beta]: https://www.printables.com/en/model/469280/remixes
