@@ -30,28 +30,32 @@ There are two versions to choose from:
 - Build volume _(X-Y-Z)_: 235 x 235 x 245 mm (max Z depends on the hotend used)
 - Printer size _(X-Y-Z)_: 407 x 438 x 440 mm ( 455 x 485 x 548 mm enclosed )
 - CoreXY motion system
-- Frame build with 7 out of 8 Ender 3 Pro aluminium extrusions + additional parts
-- Supports stock stepper motors, hotend", PSU, motherboard" (32bit), bed, bed carriage, screen, extruder" and more. _("not all is recommended)_
-- Linear rods for X, Y and Z motion system.
-- Triple leadscrew for Z movement, belt connected with 1x NEMA17 stepper or 3x individual Z steppers.
-- Bed carriage with printed anti Z wobble system.
+- Linear rods for X, Y and Z axis.
+- Stable Z axis with 3 leadscrews and 3 linear rods.
 - Enclosed electronics on the back of the printer.
 - DIN rails in electronics compartment for easy organization.
-- Optimized shape for enclosure.
+- Anti Z wobble system within the bed carriage.
+- Easy to enclose.
+
+#### BONUS FEATURES
+- Reuses up to **78%*** of the original parts.
+- Fanducts optimised with CFD analysis tools.
 - Toolhead compatibility with majority of hotends, direct drive extruders and bed probes.
 - Toolhead with 4 variants of part cooling - dual 4010, dual 4020, dual 5015, CPAP.
-- Space behind the bed ready for more upgrades – nozzle brush, purge bucket etc.
-- Files are designed for easy printability and functionality.
-- Many options in the project configuration part to make everyone happy.
-- Huge amount of ideas for future upgrades.
+- Files designed for easy printability and functionality.
 
-#### OTHER (OPTIONAL) FEATURES
+#### OPTIONAL FEATURES (in the v1.2 - advanced)
 - Under bed fan for air circulation and faster chamber heating.
 - Active cooling for AB stepper motors.
 - Auxiliary fans with 12032 blowers.
 - Lasercut metal bed carriage for the best stability.
-- Z axis with printed antiwobble inserts or support for WobbleX.
-- and more.
+- Single or triple Z stepper motors.
+- and more - see the [CONFIGURATION] options
+
+---
+****up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
+
+**For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
@@ -60,3 +64,4 @@ continue to:
 {: .text-right }
 
 [INTO THE PROJECT]: https://rh3d.xyz/into.html
+[CONFIGURATION]: https://rh3d.xyz/E3NG_v1_2/advanced/config
