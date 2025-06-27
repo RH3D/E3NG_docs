@@ -29,8 +29,9 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <strong>FABREEKO</strong><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2 FULL KIT</a><br>
   <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CAST ALUMINUM BED - upgrade</a>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC BED CARRIAGE - upgrade</a>
+   <strong>UPGRADE PARTS</strong><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CAST ALUMINUM BED - upgrade</a><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC BED CARRIAGE - upgrade</a><br>
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
 </div>
 
