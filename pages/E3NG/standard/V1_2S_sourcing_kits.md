@@ -47,6 +47,19 @@ COMING SOON
 [BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
 {: .text-center }
 
+<a href="#" onclick="showPopup(); return false;">Open Links</a>
+
+<div id="popup" style="display:none; position:fixed; top:30%; left:50%; transform:translate(-50%, -30%); background:#fff; padding:20px; border:1px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.2); z-index:1000;">
+  <strong>Quick Links</strong><br>
+  <a href="https://example.com">Documentation</a><br>
+  <a href="https://discord.com">Discord</a><br>
+  <a href="https://github.com">GitHub</a><br>
+  <button onclick="hidePopup()">Close</button>
+</div>
+
+<div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%; background:rgba(0,0,0,0.3); z-index:999;" onclick="hidePopup()"></div>
+
+
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
@@ -68,3 +81,14 @@ continue to:
 [6MM ALUMINUM BED - upgrade]: https://s.click.aliexpress.com/e/_op0VN9i
 [BED CARRIAGE - upgrade]: https://s.click.aliexpress.com/e/_oCJYEE0
 [BEARINGS AND SHAFTS KITS]: https://s.click.aliexpress.com/e/_oCrZCk4
+
+<script>
+  function showPopup() {
+    document.getElementById('popup').style.display = 'block';
+    document.getElementById('overlay').style.display = 'block';
+  }
+  function hidePopup() {
+    document.getElementById('popup').style.display = 'none';
+    document.getElementById('overlay').style.display = 'none';
+  }
+</script>
