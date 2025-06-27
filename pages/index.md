@@ -30,6 +30,7 @@ What began as a hobby and a personal project quickly evolved into a true passion
 [YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } [Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle .ml-5 .mr-5 } [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 }
 {: .text-center }
 
+---
 ## About RH3D
 
 Hi! I’m Radek—engineer, architect, woodworker, and maker by nature. I was born into a family of engineers in the Czech Republic, and from a young age, I found joy in creating. Whether it was building something with my hands or dreaming up designs on paper, I was always drawn to the process of turning ideas into reality.
