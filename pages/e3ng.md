@@ -10,15 +10,18 @@ permalink: /e3ng
 # E3NG / ENDER 3 NG
 {: .text-center }
 
-This project is a DIY conversion originaly based on Creality Ender 3 Pro. The original Ender 3 was one of the most sold printers but due to its lack of modern features, it is rather a starting point for people who either can't afford to buy a more expensive machine or don't want to spend money on something they just want to try.
+**Take your old, unused Creality Ender 3 and turn it into something amazing—something fast, powerful, precise, and reliable and enjoy the new level of tinkering.**
 
-That is a reason why many want to move forward and the old and simple Ender 3 don't have much use anymore, especially with the printers that are on market these days.
+E3NG is a DIY project focused on reviving up to 78%* of parts from your original printer and giving them a brand-new purpose. Many of us started with the simple Ender 3, and it taught us a lot—but 3D printing has evolved, and it’s time to step up. That’s exactly what this conversion is all about.
 
-Main goal of this project is to use the old Ender 3, tear it apart and reuse as many stock parts as possible to build something that is on a whole different level and on par with the modern machines you see everywhere now. The new printer must be more reliable, faster, having more great features and capabilities and options for further upgrades (honestly, who coming here with an Ender 3 isn't looking for upgrades?).
+Originally designed for the Ender 3 Pro, it also supports other models like the V2, Neo, and even the non-Pro variant. The goal? Reuse as much as possible and build a machine that’s significantly faster, more reliable, easy to enclose, and still totally upgradable—because let’s face it, no one with an Ender 3 is done tinkering.
 
-It is based on CoreXY motion system, is easy to enclose and you can do a cheap and simple build or you can go crazy and really step up the performance possibilities, but even the cheap option offers a significant performance boost from your stock Ender 3.
+Whether you go with a low-budget build or max out performance, you’ll turn your Ender 3 into a CoreXY machine that honors its roots—while bringing it into the next generation of printers.
 
-Of course, you also need aditional parts for the conversion.
+There are two versions to choose from:
+ - **v1.2S (standard)** offers a more streamlined, kit-style approach with clear instructions and a straightforward build path—perfect if you prefer to keep things more simple.
+ - **v1.2 (advanced)** is for those who like to go deep into the project, tweak every detail, giving you the flexibility to configure your printer to match your own preferences and setup.
+
 # "NG = NEXT GENERATION"
 {: .text-center }
 
