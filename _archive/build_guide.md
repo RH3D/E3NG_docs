@@ -3,6 +3,7 @@
 layout: default
 #has_children: true
 #nav_order: 4
+permalink: /build_guide.html
 ---
 # BUILD INSTRUCTIONS
 {: .text-center }
