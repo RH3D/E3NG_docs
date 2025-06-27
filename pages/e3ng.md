@@ -40,7 +40,7 @@ There are two versions to choose from:
 #### BONUS FEATURES
 - Reuses up to **78%*** of the original parts.
 - Fanducts optimised with CFD analysis tools.
-- Toolhead compatibility with majority of hotends, direct drive extruders and bed probes.
+- Toolhead compatibility with majority of hotends, extruders and bed probes.
 - Toolhead with 4 variants of part cooling - dual 4010, dual 4020, dual 5015, CPAP.
 - Files designed for easy printability and functionality.
 
@@ -52,16 +52,16 @@ There are two versions to choose from:
 - Single or triple Z stepper motors.
 - and more - see the [CONFIGURATION] options
 
----
-***up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
-
-*For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
-
 continue to:
 {: .text-right .lh-0 .pt-8 }
 
 [INTO THE PROJECT]{: .btn .fw-300 .fs-6 .text-yellow-300 }
 {: .text-right }
+
+---
+***up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
+
+*For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
 
 [INTO THE PROJECT]: https://rh3d.xyz/into.html
 [CONFIGURATION]: https://rh3d.xyz/E3NG_v1_2/advanced/config
