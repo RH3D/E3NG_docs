@@ -10,11 +10,21 @@ permalink: /E3NG_v1_2/advanced/files
 # FILES
 {: .text-center }
 
-All the printable files are hosted on printables, organised into folder structure based on the part location. It is the only official source of printable files and is always up to date with all the updates mentioned in the changelog.
+All the printable files are hosted on printables, organised into folder structure based on the part location. It is the only official source of printable files and is always up to date with all the changes mentioned in the changelog.
 {: .text-center }
 
 [PRINTABLES]{: .btn .fs-7 .fw-300 .mt-6 .mb-8 .text-yellow-300 }
 {: .text-center }
+
+The CAD assembly files are currently an extra bonus for supporters and available through a small purchase on Ko-Fi page.
+
+[Ko-Fi CAD files]{: .btn .fs-7 .fw-300 .mt-6 .mb-8 .text-yellow-300 }
+{: .text-center }
+
+<div>
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 's/f1be48e43a');kofiwidget2.draw();</script> 
+</div>
+{: .text-center .mt-8 }
 
 ---
 To better understand and organise your files, it is highly recommended to go through the configurator carefully and print out your final list of printed parts. It includes the required quantity and the recommended color to print your parts.
@@ -27,3 +37,4 @@ continue to:
 
 [BUILD GUIDE]: https://rh3d.xyz/E3NG_v1_2/advanced/build_guide
 [PRINTABLES]: https://www.printables.com/en/model/922401/files
+[Ko-Fi CAD files]: https://ko-fi.com/s/f1be48e43a
