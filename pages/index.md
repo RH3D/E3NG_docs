@@ -27,6 +27,12 @@ If you're into 3D printing, love to tinker, and enjoy building things yourself, 
 
 What began as a hobby and a personal project quickly evolved into a true passion. This site is where you'll find all my major designs, complete with the information you need. Feel free to explore the site, check out the YouTube and Instagram, and join our amazing community on Discord!
 
+[YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle }
+
+[Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle }
+
+[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 }
+
 ## About RH3D
 
 Hi! I’m Radek—engineer, architect, woodworker, and maker by nature. I was born into a family of engineers in the Czech Republic, and from a young age, I found joy in creating. Whether it was building something with my hands or dreaming up designs on paper, I was always drawn to the process of turning ideas into reality.
@@ -40,3 +46,7 @@ I was always fascinated by the technology, but without a clear use case, I could
 ## The first Ender 3 NG
 
 Once you dive in, it’s tough to stop. I realized there were more capable designs within reach. After plenty of research, modifications, and testing, the Ender 3 NG was born. It started as a personal project to convert an Ender 3 into an enclosed CoreXY machine on a budget—but it grew into something far more meaningful. This journey has led me to create amazing things, build a thriving community, and connect with passionate people from around the world.
+
+[Join the Discord]: https://discord.com/invite/Zkvu6uu2AR
+[Instagram]: https://www.instagram.com/RH3D_cz
+[YouTube]: https://www.youtube.com/@RH3D_cz?sub_confirmation=1
