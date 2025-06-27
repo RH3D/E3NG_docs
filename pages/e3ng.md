@@ -11,7 +11,7 @@ permalink: /e3ng
 {: .text-center }
 
 **Take your old, unused Creality Ender 3 and turn it into something amazing—something fast, powerful, precise, and reliable and enjoy the new level of tinkering.**
-{: .text-center .mb-4 }
+{: .text-center .mb-6 }
 
 E3NG is a DIY project focused on reviving up to **78%*** of parts from your original printer and giving them a brand-new purpose. Many of us started with the simple Ender 3, and it taught us a lot—but 3D printing has evolved, and it’s time to step up. That’s exactly what this conversion is all about.
 
@@ -53,9 +53,9 @@ There are two versions to choose from:
 - and more - see the [CONFIGURATION] options
 
 ---
-****up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
+***up to 78%** = Measured by weight of the parts from stock Ender 3 Pro. The percentage is calculated when reusing the majority of parts incl. motherboard, screen, screws, hotend (which is all possible). When using the required minimum of parts, **68%** is reused.*
 
-**For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
+*For extra **9%** of part reusage, there are side projects specifically designed to reuse more of the leftover parts - heat set insert press, camera slider (will be released to public later). The number of project might grow in the future.*
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
