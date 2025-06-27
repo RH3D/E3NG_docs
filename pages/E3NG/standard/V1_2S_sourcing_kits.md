@@ -32,7 +32,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FABREEKO</h1><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2S full kit</a><br>
   <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
-  <h2 style="margin-top: 20px;">UPGRADE PARTS</h2><br>
+  <h4>UPGRADE PARTS</h4><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CNC bed - cast aluminum</a><br>
   <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC bed carriage</a><br>
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
@@ -80,7 +80,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup4" class="popup">
   <span class="close" onclick="hidePopup('popup4')">&times;</span>
   <strong>FUSHI bearings</strong><br>
-  <a href="https://s.click.aliexpress.com/e/_oCrZCk4">BEARINGS AND SHAFTS KITS</a>
+  <a href="https://s.click.aliexpress.com/e/_oCrZCk4">Bearings and shafts kit</a>
 </div>
 
 continue to:
