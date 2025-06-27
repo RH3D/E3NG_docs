@@ -61,8 +61,8 @@ Choosing to enclose the printer or not. V2 style enclosure is better designed an
 
 #### FRAME
 - Printed verticals - legacy version where you don't need to buy extra extrusions. Depending on your filament and market prices, it can also be the cheapest option.
-- 2040 upgrade - RECOMMENDED - first stage upgrade with additional V-slot extrusion. Adds rigidity to the frame and reduces printing parts. Requires drilling and tapping.
-- Ultimate frame - all you need for the best performance, adds two more extrusions to the front. Requires more driling and tapping.
+- 2040 upgrade - first stage upgrade with additional V-slot extrusion. Adds rigidity to the frame and reduces printing parts. Requires drilling and tapping.
+- Ultimate frame - RECOMMENDED - all you need for the best performance, adds two more extrusions to the front. Requires more driling and tapping.
 
 <details>
     <summary><h4 style="display:inline-block;margin-left:1.5em;color:#0096FF;font-weight:bold"> TIP </h4></summary>
@@ -242,7 +242,7 @@ Choose the right bed probe for you.
 {: .text-center }
 
 #### STEPPER COOLING
-RECOMMENDED - optional active cooling for AB steppers using 4020 axial fans. It is simple yet very effective solution that keeps your steppers cool allowing you to increase the run current and print faster.
+Optional active cooling for AB steppers using 4020 axial fans. It is simple yet very effective solution that keeps your steppers cool allowing you to increase the run current and print faster.
 
 ![](../../pages/E3NG/img/config/config_AB_cooling.png)
 
