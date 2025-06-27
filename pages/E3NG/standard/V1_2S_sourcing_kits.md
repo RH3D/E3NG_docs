@@ -21,6 +21,7 @@ However, **we are not the vendor** and are not directly responsible for the serv
 Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
 ---
+<!-- FABREEKO -->
 <a href="#" onclick="showPopup('popup1'); return false;">
   <img src="../../../assets/images/fabreeko_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
 </a>
@@ -37,7 +38,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
 </div>
 
----
+<!-- FYSETC -->
 <a href="#" onclick="showPopup('popup2'); return false;">
   <img src="../../../assets/images/fysetc_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
 </a>
@@ -49,8 +50,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://s.click.aliexpress.com/e/_oFhekto">E3NG v1.2 FULL KIT with enclosure</a>
 </div>
 
-
----
+<!-- FUNSSOR -->
 <a href="#" onclick="showPopup('popup3'); return false;">
   <img src="../../../assets/images/funssor_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
 </a>
@@ -71,7 +71,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://s.click.aliexpress.com/e/_oCJYEE0">CNC ALUMINUM BED CARRIAGE</a>
 </div>
 
----
+<!-- FUSHI -->
 <a href="#" onclick="showPopup('popup4'); return false;">
   <img src="../../../assets/images/fushi_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
 </a>
