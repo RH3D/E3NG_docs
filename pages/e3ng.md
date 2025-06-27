@@ -15,9 +15,9 @@ permalink: /e3ng
 
 E3NG is a DIY project focused on reviving up to **78%*** of parts from your original printer and giving them a brand-new purpose. Many of us started with the simple Ender 3, and it taught us a lot—but 3D printing has evolved, and it’s time to step up. That’s exactly what this conversion is all about.
 
-Originally designed for the Ender 3 Pro, it also supports other models like the V2, Neo, and even the non-Pro variant. The goal? Reuse as much as possible and build a machine that’s significantly faster, more reliable, easy to enclose, and still totally upgradable—because let’s face it, no one with an Ender 3 is done tinkering.
+Originally designed for the Ender 3 Pro, it also supports other models like the V2, Neo, and even the non-Pro variant. The goal? Reuse as much as possible and build a machine that’s significantly faster, more reliable, easy to enclose, and still totally upgradable—because let’s face it, not everyone with an Ender 3 is done tinkering.
 
-Whether you go with a low-budget build or max out performance, you’ll turn your Ender 3 into a CoreXY machine that honors its roots—while bringing it into the next generation of printers.
+Whether you go with a low-budget build or max out performance, you’ll turn your Ender 3 into a CoreXY machine that honors its roots—while bringing it into the **Next Generation** of printers.
 
 There are two versions to choose from:
  - **v1.2S (standard)** offers a more streamlined, kit-style approach with clear instructions and a straightforward build path—perfect if you prefer to keep things more simple.
