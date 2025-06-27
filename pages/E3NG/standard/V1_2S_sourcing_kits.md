@@ -29,12 +29,12 @@ Remember that the kits cover all the required parts needed for the conversion bu
 
 <div id="popup1" class="popup">
   <span class="close" onclick="hidePopup('popup1')">&times;</span>
-  <strong>FABREEKO</strong><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2 FULL KIT</a><br>
+  <h3 style="margin-top: 30px;">FABREEKO</h3><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2S full kit</a><br>
   <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
-  <strong>UPGRADE PARTS</strong><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CAST ALUMINUM BED</a><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC BED CARRIAGE</a><br>
+  <h3 style="margin-top: 30px;">UPGRADE PARTS</h3><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CNC bed - cast aluminum</a><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC bed carriage</a><br>
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
 </div>
 
