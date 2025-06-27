@@ -7,6 +7,9 @@ has_children: false
 nav_order: 10
 permalink: /E3NG_v1_2/standard/sourcing_parts/kits
 ---
+
+{% include popout.html %}
+
 # KITS
 {: .no_toc .text-center }
 
