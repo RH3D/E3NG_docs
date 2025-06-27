@@ -2,7 +2,7 @@
 title: Support the development ❤️
 layout: default
 nav_order: 99
-permalink: /donate.html
+permalink: /donate
 ---
 # SUPPORT THE DEVELOPMENT
 {: .text-center }
