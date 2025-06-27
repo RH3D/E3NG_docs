@@ -49,11 +49,11 @@ COMING SOON
 
 <a href="#" onclick="showPopup(); return false;">Open Links</a>
 
-<div id="popup" style="display:none; position:fixed; top:30%; left:50%; transform:translate(-50%, -30%); background:#fff; padding:20px; border:1px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.2); z-index:1000;">
+<div id="popup" style="display:none; position:fixed; top:30%; left:50%; transform:translate(-50%, -30%); background:#fff; padding:20px; border:1px solid #ccc; box-shadow:0 0 10px rgba(0,0,0,0.2); z-index:1000; width:300px; max-width:90%; border-radius:8px;">
   <strong>Quick Links</strong><br>
   <a href="https://example.com">Documentation</a><br>
   <a href="https://discord.com">Discord</a><br>
-  <a href="https://github.com">GitHub</a><br>
+  <a href="https://github.com">GitHub</a><br><br>
   <button onclick="hidePopup()">Close</button>
 </div>
 
