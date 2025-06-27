@@ -28,6 +28,8 @@ The CAD assembly files are currently an extra bonus for supporters and available
 To better understand and organise your files, it is highly recommended to go through the configurator carefully and print out your final list of printed parts. It includes the required quantity and the recommended color to print your parts.
 
 ---
+#### MODS / REMIXES
+
 *It’s highly recommended to begin with the stock project to follow a clear path, receive accurate and complete instructions, and work from reliable lists. Once you're familiar with the build, you can start exploring user mods if you wish.*
 
 *Most remixes and modifications are available on [Printables remixes], though you’ll find additional ones on the Discord server. There are also many [remixes for the beta] version, most of which remain compatible.*
