@@ -23,7 +23,7 @@ There are two versions to choose from:
  - **v1.2S (standard)** offers a more streamlined, kit-style approach with clear instructions and a straightforward build path—perfect if you prefer to keep things more simple.
  - **v1.2 (advanced)** is for those who like to go deep into the project, tweak every detail, giving you the flexibility to configure your printer to match your own preferences and setup.
 
-[E3NG v1.2S (standard)]{: .btn .fs-6 .fw-400 .text-yellow-300 .v-align-middle .mr-3 .mb-8 .mt-6 } [E3NG v1.2 (advanced)]{: .btn .fs-6 .fw-400 .text-yellow-300 .v-align-middle .ml-3 .mb-8 .mt-6 }
+[E3NG v1.2S (standard)]{: .btn .fs-6 .fw-300 .text-yellow-300 .v-align-middle .mr-3 .mb-8 .mt-6 } [E3NG v1.2 (advanced)]{: .btn .fs-6 .fw-300 .text-yellow-300 .v-align-middle .ml-3 .mb-8 .mt-6 }
 {: .text-center }
 
 # "NG = NEXT GENERATION"
