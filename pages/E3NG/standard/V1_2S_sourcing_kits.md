@@ -51,36 +51,37 @@ Remember that the kits cover all the required parts needed for the conversion bu
 
 
 ---
-## FUNSSOR
-
-[E3NG v1.2 KIT]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
-[HARDWARE]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 .mr-5 }
-[ENCLOSURE - polycarbonate]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
-{: .text-center }
-[KIT - USA warehouse]{: .mr-3 } | [HARDWARE - USA warehouse]{: .mr-3 .ml-3 } | [ENCLOSURE - USA warehouse]{: .ml-3 }
-{: .text-center }
-[6MM ALUMINUM BED - upgrade]{: .mr-3 } | [BED CARRIAGE - upgrade]{: .ml-3 }
-{: .text-center }
----
-## FUSHI BEARINGS
-
-[BEARINGS AND SHAFTS KITS]{: .btn .fs-5 .fw-300 .text-yellow-300 .mt-5 }
+<a href="#" onclick="showPopup('popup3'); return false;">
+  <img src="../../../assets/images/funssor_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
+</a>
 {: .text-center }
 
-
-
-<!-- Trigger link -->
-<a href="#" onclick="showPopup('popup2'); return false;">Open Links B</a>
-
-<!-- Popup 2 -->
-<div id="popup2" class="popup">
-  <span class="close" onclick="hidePopup('popup2')">&times;</span>
-  <strong>Resources B</strong><br>
-  <a href="https://printerwiki.com">Build Guide</a><br>
-  <a href="https://kitshop.com">Kits</a>
+<div id="popup3" class="popup">
+  <span class="close" onclick="hidePopup('popup3')">&times;</span>
+  <strong>FUNSSOR</strong><br>
+  <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2 KIT</a><br>
+  <a href="https://s.click.aliexpress.com/e/_omNZg0k">HARDWARE</a><br>
+  <a href="https://s.click.aliexpress.com/e/_oD5DAoU">ENCLOSURE - polycarbonate</a><br>
+  <strong>FUNSSORLAB - USA warehouse</strong><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2 KIT</a><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">HARDWARE</a><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">ENCLOSURE - polycarbonate</a><br>
+  <strong>UPGRADE PARTS</strong><br>
+  <a href="https://s.click.aliexpress.com/e/_op0VN9i">6MM ALUMINUM BED</a><br>
+  <a href="https://s.click.aliexpress.com/e/_oCJYEE0">CNC ALUMINUM BED CARRIAGE</a>
 </div>
 
+---
+<a href="#" onclick="showPopup('popup4'); return false;">
+  <img src="../../../assets/images/fushi_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
+</a>
+{: .text-center }
 
+<div id="popup4" class="popup">
+  <span class="close" onclick="hidePopup('popup4')">&times;</span>
+  <strong>FUSHI bearings</strong><br>
+  <a href="https://s.click.aliexpress.com/e/_oCrZCk4">BEARINGS AND SHAFTS KITS</a>
+</div>
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
@@ -89,17 +90,3 @@ continue to:
 {: .text-right }
 
 [PRINTING PARTS]: https://rh3d.xyz/E3NG_v1_2/standard/printing_parts
-[E3NG v1.2 FULL KIT]: https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger
-[ENCLOSURE PANELS - cast acrylic]: https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng
-[CAST ALUMINUM BED - upgrade]: https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger
-[CNC BED CARRIAGE - upgrade]: https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger
-[LMH12UU for CNC carriage]: https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger
-[E3NG v1.2 KIT]: https://s.click.aliexpress.com/e/_ooF6WBw
-[HARDWARE]: https://s.click.aliexpress.com/e/_omNZg0k
-[ENCLOSURE - polycarbonate]: https://s.click.aliexpress.com/e/_oD5DAoU
-[KIT - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611
-[HARDWARE - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607
-[ENCLOSURE - USA warehouse]: https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686
-[6MM ALUMINUM BED - upgrade]: https://s.click.aliexpress.com/e/_op0VN9i
-[BED CARRIAGE - upgrade]: https://s.click.aliexpress.com/e/_oCJYEE0
-[BEARINGS AND SHAFTS KITS]: https://s.click.aliexpress.com/e/_oCrZCk4
