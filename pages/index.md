@@ -27,11 +27,8 @@ If you're into 3D printing, love to tinker, and enjoy building things yourself, 
 
 What began as a hobby and a personal project quickly evolved into a true passion. This site is where you'll find all my major designs, complete with the information you need. Feel free to explore the site, check out the YouTube and Instagram, and join our amazing community on Discord!
 
-[YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle }
-
-[Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle }
-
-[Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 }
+[YouTube]{: .btn .fw-400 .text-yellow-300 .v-align-middle } [Instagram]{: .btn .fw-400 .text-yellow-300 .v-align-middle } [Join the Discord]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-5 .pl-4 }
+{: .text-center }
 
 ## About RH3D
 
