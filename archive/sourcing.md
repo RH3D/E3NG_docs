@@ -4,6 +4,7 @@ layout: default
 parent: Into the project
 #has_children: true
 nav_order: 2
+permalink: /sourcing.html
 ---
 # SOURCING PARTS
 {: .text-center }
