@@ -37,7 +37,6 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC bed carriage</a><br>
   <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
 </div>
-{: .text-center }
 
 <!-- FYSETC -->
 <a href="#" onclick="showPopup('popup2'); return false;">
@@ -50,7 +49,6 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FYSETC</h1><br>
   <a href="https://s.click.aliexpress.com/e/_oFhekto">E3NG v1.2S full kit with enclosure</a>
 </div>
-{: .text-center }
 
 <!-- FUNSSOR -->
 <a href="#" onclick="showPopup('popup3'); return false;">
@@ -72,7 +70,6 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://s.click.aliexpress.com/e/_op0VN9i">6MM CNC aluminum bed</a><br>
   <a href="https://s.click.aliexpress.com/e/_oCJYEE0">CNC aluminum bed carriage</a>
 </div>
-{: .text-center }
 
 <!-- FUSHI -->
 <a href="#" onclick="showPopup('popup4'); return false;">
@@ -85,7 +82,6 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FUSHI bearings</h1><br>
   <a href="https://s.click.aliexpress.com/e/_oCrZCk4">Bearings and shafts kit</a>
 </div>
-{: .text-center }
 
 continue to:
 {: .text-right .lh-0 .pt-8 }
