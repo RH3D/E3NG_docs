@@ -57,8 +57,8 @@ COMING SOON
   transform:translate(-50%, -30%);
   background:#27262b;
   padding:20px;
-  border:1px solid #ccc;
-  box-shadow:0 0 10px rgba(0,0,0,1);
+  border:1px solid #27262b;
+  box-shadow:0 0 20px rgba(0,0,0,0.5);
   z-index:1000;
   width:400px;
   max-width:90%;
