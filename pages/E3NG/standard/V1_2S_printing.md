@@ -68,7 +68,7 @@ Before printing parts, it is highly recommended to print the calibration cube. I
 
 All the parts are designed with rather tight tolerances (.2mm), so depending on your print quality and precision, it might cause too tight fit mainly on linear rods/bearings. If this is your case, you should clear the holes idealy with a reamer. You can also use properly sized drill bit or even a piece of fine-grit sandpaper on a round stick. Just proceed slowly and carefully so you don’t enlarge the holes too much, the ideal situation is to hand press the parts in with no noticeable play.
 
-[DOWNLOAD THE CALIBRATION CUBE.]
+[DOWNLOAD THE CALIBRATION CUBE.]{: .btn .fw-400 .text-yellow-300 .v-align-middle .pr-4 .pl-4 }
 
 ---
 # PRINTING PARTS IN COLOR
