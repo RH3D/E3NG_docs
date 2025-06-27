@@ -17,11 +17,12 @@ All the printable files are hosted on printables, organised into folder structur
 {: .text-center }
 
 The CAD assembly files are currently an extra bonus for supporters and available through a small purchase on Ko-Fi page.
+{: .text-center }
 
 <div>
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Ko-fi', '#28b5e0', 's/f1be48e43a');kofiwidget2.draw();</script> 
 </div>
-{: .text-center }
+{: .text-center .mt-6 .mb-8 }
 
 ---
 To better understand and organise your files, it is highly recommended to go through the configurator carefully and print out your final list of printed parts. It includes the required quantity and the recommended color to print your parts.
