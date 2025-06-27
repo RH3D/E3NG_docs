@@ -2,6 +2,7 @@
 title: Support the development ❤️
 layout: default
 nav_order: 99
+permalink: /donate.html
 ---
 # SUPPORT THE DEVELOPMENT
 {: .text-center }
@@ -39,5 +40,3 @@ title:'PayPal - The safer, easier way to pay online!',
 
 [![Patreon](../assets/images/patreon_donate.png)](https://www.patreon.com/RH3D_cz)
 {: .text-center }
-
-[feedback]: https://rh3d.xyz/feedback.html
