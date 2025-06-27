@@ -63,6 +63,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (without hardware)</a><br>
   <a href="https://s.click.aliexpress.com/e/_omNZg0k">Hardware</a><br>
   <a href="https://s.click.aliexpress.com/e/_oD5DAoU">Enclosure kit - polycarbonate</a><br>
+  <hr style="margin-top: 40px; border: none; border-top: 1px solid #555;">
   <h3>FUNSSORLAB - USA warehouse</h3><br>
   <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2S kit (without hardware)</a><br>
   <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">Hardware</a><br>
