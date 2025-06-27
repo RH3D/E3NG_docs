@@ -3,6 +3,7 @@
 layout: default
 has_children: true
 nav_order: 30
+permalink: /into.html
 ---
 # INTO THE PROJECT
 {: .text-center }
