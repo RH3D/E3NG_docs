@@ -6,6 +6,8 @@ has_children: true
 nav_order: 20
 permalink: /E3NG_v1_2/standard
 ---
+![](../../assets/images/E3NG_V1.2S_MULTI_CAD2.png)
+
 # E3NG v1.2S
 {: .text-center }
 #### v1.2S = standard version (kit-based)
