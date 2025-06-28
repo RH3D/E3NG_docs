@@ -61,7 +61,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FYSETC</h1><br>
   <div style="font-size: 20px; line-height: 1.8;">
     <span style="margin-right: 12px;">🧰</span>
-    <a href="https://s.click.aliexpress.com/e/_oFhekto">E3NG v1.2S full kit with enclosure</a>
+    <a href="https://s.click.aliexpress.com/e/_oFhekto">E3NG v1.2S full kit (incl. enclosure)</a>
   </div>
 </div>
 
@@ -76,21 +76,21 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <h1>FUNSSOR</h1><br>
   <div style="font-size: 20px; line-height: 1.8;">
     <span style="margin-right: 12px;">🧰</span>
-    <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (without hardware)</a><br>
-    <span style="margin-right: 12px;">🔩</span>
+    <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (no hardware)</a><br>
+    <span style="margin-right: 12px;"> 🔩</span>
     <a href="https://s.click.aliexpress.com/e/_omNZg0k">Hardware</a><br>
     <span style="margin-right: 12px;">📦</span>
-    <a href="https://s.click.aliexpress.com/e/_oD5DAoU">Enclosure kit - polycarbonate</a><br>
+    <a href="https://s.click.aliexpress.com/e/_oD5DAoU">ENCLOSURE KIT - polycarbonate</a><br>
   </div>
   <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>FUNSSORLAB - incl. USA warehouse</h3><br>
   <div style="font-size: 16px; line-height: 1.6;">
     <span style="margin-right: 12px;">🧰</span>
     <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2S kit (without hardware)</a><br>
-    <span style="margin-right: 12px;">🔩</span>
+    <span style="margin-right: 12px;"> 🔩</span>
     <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">Hardware</a><br>
     <span style="margin-right: 12px;">📦</span>
-    <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">Enclosure kit - polycarbonate</a><br>
+    <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">ENCLOSURE KIT - polycarbonate</a><br>
   </div>
   <h3>UPGRADE PARTS</h3><br>
   <div style="font-size: 16px; line-height: 1.6;">
