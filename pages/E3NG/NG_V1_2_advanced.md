@@ -6,6 +6,8 @@ has_children: true
 nav_order: 30
 permalink: /E3NG_v1_2/advanced
 ---
+![](../../assets/images/E3NG_V1.2_MULTI_CAD.png)
+
 # E3NG v1.2
 {: .text-center }
 #### v1.2 = advanced version (customisable)
