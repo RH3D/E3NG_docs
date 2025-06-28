@@ -77,7 +77,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <div style="font-size: 20px; line-height: 1.8;">
     <span style="margin-right: 12px;">🧰</span>
     <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (no hardware)</a><br>
-    <span style="margin-right: 12px;"> 🔩</span>
+    <span style="margin-right: 14px;">🔩</span>
     <a href="https://s.click.aliexpress.com/e/_omNZg0k">Hardware</a><br>
     <span style="margin-right: 12px;">📦</span>
     <a href="https://s.click.aliexpress.com/e/_oD5DAoU">ENCLOSURE KIT - polycarbonate</a><br>
@@ -87,7 +87,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
   <div style="font-size: 16px; line-height: 1.6;">
     <span style="margin-right: 12px;">🧰</span>
     <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2S kit (without hardware)</a><br>
-    <span style="margin-right: 12px;"> 🔩</span>
+    <span style="margin-right: 14px;">🔩</span>
     <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">Hardware</a><br>
     <span style="margin-right: 12px;">📦</span>
     <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">ENCLOSURE KIT - polycarbonate</a><br>
