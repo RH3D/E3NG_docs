@@ -21,6 +21,8 @@ However, **we are not the vendor** and are not directly responsible for the serv
 Remember that the kits cover all the required parts needed for the conversion but depending on your preferred setup, you might need aditional parts like hotend, extruder, probe etc.
 
 ---
+*To view the available kits, click the vendor logo:*
+
 <!-- FABREEKO -->
 <a href="#" onclick="showPopup('popup1'); return false;">
   <img src="../../../assets/images/fabreeko_btn.png" alt="Open Popup" style="width:320px; height:auto; cursor:pointer;">
