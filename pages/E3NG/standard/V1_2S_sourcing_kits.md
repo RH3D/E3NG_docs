@@ -32,13 +32,13 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup1" class="popup">
   <span class="close" onclick="hidePopup('popup1')">&times;</span>
   <h1>FABREEKO</h1><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2S full kit</a><br>
-  <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">🧰 E3NG v1.2S full kit</a><br>
+  <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">📦 ENCLOSURE PANELS - cast acrylic</a><br>
   <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>UPGRADE PARTS</h3><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CNC bed - cast aluminum</a><br>
-  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">CNC bed carriage</a><br>
-  <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">LMH12UU for CNC carriage</a>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">➕ CNC bed - cast aluminum</a><br>
+  <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">➕ CNC bed carriage</a><br>
+  <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">➕ LMH12UU for CNC carriage</a>
 </div>
 
 <!-- FYSETC -->
@@ -50,7 +50,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup2" class="popup">
   <span class="close" onclick="hidePopup('popup2')">&times;</span>
   <h1>FYSETC</h1><br>
-  <a href="https://s.click.aliexpress.com/e/_oFhekto">E3NG v1.2S full kit with enclosure</a>
+  <a href="https://s.click.aliexpress.com/e/_oFhekto">🧰 E3NG v1.2S full kit with enclosure</a>
 </div>
 
 <!-- FUNSSOR -->
@@ -62,17 +62,17 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup3" class="popup">
   <span class="close" onclick="hidePopup('popup3')">&times;</span>
   <h1>FUNSSOR</h1><br>
-  <a href="https://s.click.aliexpress.com/e/_ooF6WBw">E3NG v1.2S kit (without hardware)</a><br>
-  <a href="https://s.click.aliexpress.com/e/_omNZg0k">Hardware</a><br>
-  <a href="https://s.click.aliexpress.com/e/_oD5DAoU">Enclosure kit - polycarbonate</a><br>
+  <a href="https://s.click.aliexpress.com/e/_ooF6WBw">🧰 E3NG v1.2S kit (without hardware)</a><br>
+  <a href="https://s.click.aliexpress.com/e/_omNZg0k">🔩 Hardware</a><br>
+  <a href="https://s.click.aliexpress.com/e/_oD5DAoU">📦 Enclosure kit - polycarbonate</a><br>
   <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
-  <h3>FUNSSORLAB - USA warehouse</h3><br>
-  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">E3NG v1.2S kit (without hardware)</a><br>
-  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">Hardware</a><br>
-  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">Enclosure kit - polycarbonate</a><br>
+  <h3>FUNSSORLAB - incl. USA warehouse</h3><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-motion-and-electronics-diy-kit?VariantsId=10611">🧰 E3NG v1.2S kit (without hardware)</a><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-corexy-conversion-hardware-screw-nuts-kit?VariantsId=10607">🔩 Hardware</a><br>
+  <a href="https://www.funssorlab.com/products/funssor-ender-3-ng-v12-convertion-corexy-3d-printer-upgrade-enclosure-pc-kit-with-screw-pack-optional-4mm-thickness?VariantsId=10686">📦 Enclosure kit - polycarbonate</a><br>
   <h3>UPGRADE PARTS</h3><br>
-  <a href="https://s.click.aliexpress.com/e/_op0VN9i">6MM CNC aluminum bed</a><br>
-  <a href="https://s.click.aliexpress.com/e/_oCJYEE0">CNC aluminum bed carriage</a>
+  <a href="https://s.click.aliexpress.com/e/_op0VN9i">➕ 6MM CNC aluminum bed</a><br>
+  <a href="https://s.click.aliexpress.com/e/_oCJYEE0">➕ CNC aluminum bed carriage</a>
 </div>
 
 <!-- FUSHI -->
@@ -84,7 +84,7 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup4" class="popup">
   <span class="close" onclick="hidePopup('popup4')">&times;</span>
   <h1>FUSHI bearings</h1><br>
-  <a href="https://s.click.aliexpress.com/e/_oCrZCk4">Bearings and shafts kit</a>
+  <a href="https://s.click.aliexpress.com/e/_oCrZCk4">⚙️ Bearings and shafts kit</a>
 </div>
 
 continue to:
