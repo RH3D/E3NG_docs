@@ -32,12 +32,12 @@ Remember that the kits cover all the required parts needed for the conversion bu
 <div id="popup1" class="popup">
   <span class="close" onclick="hidePopup('popup1')">&times;</span>
   <h1>FABREEKO</h1><br>
-  <span style="font-size: 20px; align-items: center;">
+  <div style="display: flex; align-items: center; font-size: 20px;">
     <span style="margin-right: 8px;">🧰</span>
     <a href="https://www.fabreeko.com/products/ender-3-ng-core-xy-conversion-kit-by-honeybadger">E3NG v1.2S full kit</a><br>
     <span style="margin-right: 8px;">📦</span>
     <a href="https://www.fabreeko.com/products/cast-acrylic-panel-set-for-ender-3-ng">ENCLOSURE PANELS - cast acrylic</a><br>
-  </span>
+  </div>
   <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>UPGRADE PARTS</h3><br>
   <span style="font-size: 16px; align-items: center;">
