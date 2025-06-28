@@ -38,9 +38,13 @@ Remember that the kits cover all the required parts needed for the conversion bu
   </span>
   <hr style="margin-top: 30px; border: none; border-top: 1px solid #555;">
   <h3>UPGRADE PARTS</h3><br>
-    <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">➕ CNC bed - cast aluminum</a><br>
+  <div style="display: flex; align-items: center; justify-content: center; font-size: 20px;">
+    <span style="margin-right: 8px;">➕</span>
+    <a href="https://www.fabreeko.com/products/ender-3-ng-cast-aluminum-bed-by-honeybadger">CNC bed - cast aluminum</a><br>
+    <span style="margin-right: 8px;">➕</span>
     <a href="https://www.fabreeko.com/products/ender-3-ng-bed-carriage-by-honeybadger">➕ CNC bed carriage</a><br>
     <a href="https://www.fabreeko.com/products/lmh12uu-bearing-by-honeybadger">➕ LMH12UU for CNC carriage</a>
+  </div>
 </div>
 
 <!-- FYSETC -->
